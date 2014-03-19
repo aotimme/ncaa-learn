@@ -21,15 +21,15 @@ func (g *Game) PrintGame() {
 
 type Team struct {
   name string
-  forMean float64     // mean points for
-  forVar float64      // variance of points for
-  againstMean float64 // mean points against
-  againstVar float64  // variance of points against
+  meanFor float64     // mean points for
+  precFor float64     // precision of points for
+  meanAgainst float64 // mean points against
+  precAgainst float64 // precision of points against
   games []*Game
 }
 
 func (t *Team) PrintTeam() {
-  fmt.Printf("%v [%v]: %v(%v) %v(%v)\n", t.name, len(t.games), t.forMean, t.forVar, t.againstMean, t.againstVar)
+  fmt.Printf("%v [%v]: %v(%v) %v(%v)\n", t.name, len(t.games), t.meanFor, 1.0/t.precFor, t.meanAgainst, 1.0/t.precAgainst)
 }
 
 func ReadData() (teams []*Team, games []*Game, err error) {
@@ -84,18 +84,105 @@ func ReadData() (teams []*Team, games []*Game, err error) {
   return
 }
 
+
+func RunMAP(teams []*Team) {
+  iterations := 10
+  mu := 50.0
+  tau := 5.0
+  alpha := 2.0
+  beta := 5.0
+  for _, team := range teams {
+    team.meanFor = mu
+    team.meanAgainst = mu
+    team.precFor = alpha/beta
+    team.precAgainst = alpha/beta
+  }
+  for i := 0; i < iterations; i++ {
+    // update means
+    for _, team := range teams {
+      precForTilde := tau
+      precAgainstTilde := tau
+      meanForInner := mu * tau
+      meanAgainstInner := mu * tau
+      for _, game := range team.games {
+        other := game.teamA
+        scoreFor := float64(game.teamBScore)
+        scoreAgainst := float64(game.teamAScore)
+        if other == team {
+          other = game.teamB
+          tmp := scoreFor
+          scoreFor = scoreAgainst
+          scoreAgainst = tmp
+        }
+        denomFor := 1.0/team.precFor + 1.0/other.precAgainst
+        denomAgainst := 1.0/team.precAgainst + 1.0/other.precFor
+        precForTilde += 1.0/denomFor
+        precAgainstTilde += 1.0/denomAgainst
+        meanForInner += (2.0 * scoreFor - other.meanAgainst/2.0)/denomFor
+        meanAgainstInner += (2.0 * scoreAgainst - other.meanFor/2.0)/denomAgainst
+      }
+      meanForTilde := meanForInner / precForTilde
+      meanAgainstTilde := meanAgainstInner / precAgainstTilde
+      // update
+      team.meanFor = meanForTilde
+      team.meanAgainst = meanAgainstTilde
+    }
+    // update precisions
+    for _, team := range teams {
+      alphaForTilde := alpha + float64(len(team.games))/2.0
+      alphaAgainstTilde := alpha + float64(len(team.games))/2.0
+      betaForTilde := beta
+      betaAgainstTilde := beta
+      for _, game := range team.games {
+        other := game.teamA
+        scoreFor := float64(game.teamBScore)
+        scoreAgainst := float64(game.teamAScore)
+        if other == team {
+          other = game.teamB
+          tmp := scoreFor
+          scoreFor = scoreAgainst
+          scoreAgainst = tmp
+        }
+        forMult := scoreFor - (team.meanFor + other.meanAgainst)/2.0
+        againstMult := scoreAgainst - (team.meanAgainst + other.meanFor)/2.0
+        betaForTilde += forMult * forMult
+        betaAgainstTilde += againstMult * againstMult
+      }
+      team.precFor = alphaForTilde/betaForTilde
+      team.precAgainst = alphaAgainstTilde/betaAgainstTilde
+    }
+  }
+}
+
 func main() {
   teams, games, err := ReadData()
   if err != nil {
     fmt.Println("error", err)
   }
-  for i := 0; i < 5; i++ {
-    games[i].PrintGame()
-  }
+  //for i := 0; i < 5; i++ {
+  //  games[i].PrintGame()
+  //}
+  //for i := 0; i < 5; i++ {
+  //  teams[i].PrintTeam()
+  //}
+  //maxGames := 0
+  //for _, team := range teams {
+  //  if len(team.games) > maxGames {
+  //    maxGames = len(team.games)
+  //  }
+  //}
+  //gamesHist := make([]int, maxGames)
+  //for _, team := range teams {
+  //  gamesHist[len(team.games)-1]++
+  //}
+  //for i, num := range gamesHist {
+  //  fmt.Printf("%v:\t%v\n", i+1, num)
+  //}
+  fmt.Printf("Number of games: %v\n", len(games))
+  fmt.Printf("Number of teams: %v\n", len(teams))
+  RunMAP(teams)
   for i := 0; i < 5; i++ {
     teams[i].PrintTeam()
   }
-  fmt.Printf("Number of games: %v\n", len(games))
-  fmt.Printf("Number of teams: %v\n", len(teams))
   fmt.Println("Done!")
 }
