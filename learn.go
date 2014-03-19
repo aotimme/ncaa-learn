@@ -26,6 +26,8 @@ type Team struct {
   precFor float64     // precision of points for
   meanAgainst float64 // mean points against
   precAgainst float64 // precision of points against
+  wins int
+  losses int
   games []*Game
 }
 
@@ -43,7 +45,7 @@ func (t *Team) PrintTeam() {
   fmt.Printf("%v [%v]: %v(%v) %v(%v)\n", t.name, len(t.games), t.meanFor, 1.0/t.precFor, t.meanAgainst, 1.0/t.precAgainst)
 }
 func (t *Team) PrintTeamShort() {
-  fmt.Printf("%v [%v]: %v\n", t.name, len(t.games), t.meanFor - t.meanAgainst)
+  fmt.Printf("%v [%v-%v]: %.2f (%.1f-%.1f)\n", t.name, t.wins, t.losses, t.meanFor - t.meanAgainst, t.meanFor, t.meanAgainst)
 }
 
 func ReadData() (teams []*Team, games []*Game, err error) {
@@ -83,6 +85,13 @@ func ReadData() (teams []*Team, games []*Game, err error) {
         }
         teamAScore, _ := strconv.ParseInt(record[3], 0, 64)
         teamBScore, _ := strconv.ParseInt(record[5], 0, 64)
+        if teamAScore > teamBScore {
+          teamA.wins++
+          teamB.losses++
+        } else if teamAScore < teamBScore {
+          teamA.losses++
+          teamB.wins++
+        }
         game := &Game{teamA: teamA, teamB: teamB, teamAScore: teamAScore, teamBScore: teamBScore}
         games = append(games, game)
         teamA.games = append(teamA.games, game)
@@ -100,11 +109,11 @@ func ReadData() (teams []*Team, games []*Game, err error) {
 
 
 func RunMAP(teams []*Team) {
-  iterations := 50
-  mu := 60.0
+  iterations := 100
+  mu := 70.0
   tau := 0.1
-  alpha := 2.0
-  beta := 2.0
+  alpha := 1.0
+  beta := 1.0
   for _, team := range teams {
     team.meanFor = mu
     team.meanAgainst = mu
@@ -132,8 +141,9 @@ func RunMAP(teams []*Team) {
         denomAgainst := 1.0/team.precAgainst + 1.0/other.precFor
         precForTilde += 1.0/denomFor
         precAgainstTilde += 1.0/denomAgainst
-        meanForInner += (2.0 * scoreFor - other.meanAgainst/2.0)/denomFor
-        meanAgainstInner += (2.0 * scoreAgainst - other.meanFor/2.0)/denomAgainst
+        // FIXME: mistake in derivation calls for other.meanAgainst/2.0
+        meanForInner += (2.0 * scoreFor - other.meanAgainst)/denomFor
+        meanAgainstInner += (2.0 * scoreAgainst - other.meanFor)/denomAgainst
       }
       meanForTilde := meanForInner / precForTilde
       meanAgainstTilde := meanAgainstInner / precAgainstTilde
@@ -197,8 +207,11 @@ func main() {
   fmt.Printf("Number of teams: %v\n", len(teams))
   RunMAP(teams)
   sort.Sort(ByMean{teams})
-  for i := 0; i < 10; i++ {
-    teams[i].PrintTeamShort()
+  //for i := 0; i < 20; i++ {
+  //  teams[i].PrintTeamShort()
+  //}
+  for _, team := range teams {
+    team.PrintTeamShort()
   }
   fmt.Println("Done!")
 }
