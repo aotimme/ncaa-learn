@@ -87,10 +87,10 @@ func ReadData() (teams []*Team, games []*Game, err error) {
 
 func RunMAP(teams []*Team) {
   iterations := 10
-  mu := 50.0
-  tau := 5.0
+  mu := 60.0
+  tau := 0.1
   alpha := 2.0
-  beta := 5.0
+  beta := 2.0
   for _, team := range teams {
     team.meanFor = mu
     team.meanAgainst = mu
