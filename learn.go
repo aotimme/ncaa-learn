@@ -6,6 +6,7 @@ import (
   "os"
   "io"
   "strconv"
+  "sort"
 )
 
 type Game struct {
@@ -28,8 +29,21 @@ type Team struct {
   games []*Game
 }
 
+type Teams []*Team
+func (ts Teams) Swap(i, j int) { ts[i], ts[j] = ts[j], ts[i] }
+func (ts Teams) Len() int { return len(ts) }
+type ByMean struct{Teams}
+func (s ByMean) Less(i, j int) bool {
+  diffA := s.Teams[i].meanFor - s.Teams[i].meanAgainst
+  diffB := s.Teams[j].meanFor - s.Teams[j].meanAgainst
+  return diffA > diffB
+}
+
 func (t *Team) PrintTeam() {
   fmt.Printf("%v [%v]: %v(%v) %v(%v)\n", t.name, len(t.games), t.meanFor, 1.0/t.precFor, t.meanAgainst, 1.0/t.precAgainst)
+}
+func (t *Team) PrintTeamShort() {
+  fmt.Printf("%v [%v]: %v\n", t.name, len(t.games), t.meanFor - t.meanAgainst)
 }
 
 func ReadData() (teams []*Team, games []*Game, err error) {
@@ -86,7 +100,7 @@ func ReadData() (teams []*Team, games []*Game, err error) {
 
 
 func RunMAP(teams []*Team) {
-  iterations := 10
+  iterations := 50
   mu := 60.0
   tau := 0.1
   alpha := 2.0
@@ -145,8 +159,9 @@ func RunMAP(teams []*Team) {
         }
         forMult := scoreFor - (team.meanFor + other.meanAgainst)/2.0
         againstMult := scoreAgainst - (team.meanAgainst + other.meanFor)/2.0
-        betaForTilde += forMult * forMult
-        betaAgainstTilde += againstMult * againstMult
+        // divide by 2 if assuming \tau_t^{(f)} = \tau_{t'}^{(a)}
+        betaForTilde += forMult * forMult/2.0
+        betaAgainstTilde += againstMult * againstMult/2.0
       }
       team.precFor = alphaForTilde/betaForTilde
       team.precAgainst = alphaAgainstTilde/betaAgainstTilde
@@ -181,8 +196,9 @@ func main() {
   fmt.Printf("Number of games: %v\n", len(games))
   fmt.Printf("Number of teams: %v\n", len(teams))
   RunMAP(teams)
-  for i := 0; i < 5; i++ {
-    teams[i].PrintTeam()
+  sort.Sort(ByMean{teams})
+  for i := 0; i < 10; i++ {
+    teams[i].PrintTeamShort()
   }
   fmt.Println("Done!")
 }
