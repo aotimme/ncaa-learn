@@ -173,8 +173,8 @@ func RunMAP(teams []*Team) {
         betaForTilde += forMult * forMult/2.0
         betaAgainstTilde += againstMult * againstMult/2.0
       }
-      team.precFor = alphaForTilde/betaForTilde
-      team.precAgainst = alphaAgainstTilde/betaAgainstTilde
+      team.precFor = (alphaForTilde-1.0)/betaForTilde
+      team.precAgainst = (alphaAgainstTilde-1.0)/betaAgainstTilde
     }
   }
 }
