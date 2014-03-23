@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>NCAA Predictor</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="author" content="SitePoint">
+
+    <!-- jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="container">
+      <h3>NCAA Predictor</h3>
+        <form role="form" id="predict-form">
+          <div class="form-group">
+            <label for="home-team">Home Team</label>
+            <input type="text" class="form-control typeahead team-input" id="home-team" placeholder="Home Team">
+          </div>
+          <div class="form-group">
+            <label for="away-team">Away Team</label>
+            <input type="text" class="form-control typeahead team-input" id="away-team" placeholder="Away Team">
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      <div class="row">
+        <div class="col-md-4">
+          <h3>
+            Winner:
+            <small id="winner"></small>
+          </h3>
+        </div>
+        <div class="col-md-4">
+          <h3>
+            Score:
+            <small id="score"></small>
+          </h3>
+          <h3>
+            Probability:
+            <small id="probability"></small>
+          </h3>
+        </div>
+        <div class="col-md-4">
+          <h3>
+            Loser:
+            <small id="loser"></small>
+          </h3>
+        </div>
+      </div>
+    </div>
+    <!-- typeahead -->
+    <script src="/static/typeahead.bundle.js"></script>
+
+    <script src="/static/scripts.js"></script>
+  </body>
+</html>

@@ -7,6 +7,7 @@ import (
   "io"
   "strconv"
   "sort"
+  "math"
 )
 
 type Game struct {
@@ -47,12 +48,15 @@ func (t *Team) PrintTeam() {
 func (t *Team) PrintTeamShort() {
   fmt.Printf("%v [%v-%v]: %.2f (%.1f-%.1f)\n", t.name, t.wins, t.losses, t.meanFor - t.meanAgainst, t.meanFor, t.meanAgainst)
 }
+func (t *Team) SerializeTeam() string {
+  return fmt.Sprintf("%v,%v,%v,%v,%v,%v,%v\n", t.name, t.wins, t.losses, t.meanFor, math.Sqrt(1.0/t.precFor), t.meanAgainst, math.Sqrt(1.0/t.precAgainst))
+}
 
 func ReadData() (teams []*Team, games []*Game, err error) {
   //games = []*Game{}
   //teams = []*Team{}
   teamsMap := make(map[string]*Team)
-  file, err := os.Open("2014_game_results.csv")
+  file, err := os.Open("../data/2014_game_results.csv")
   if err != nil {
     return nil, nil, err
   }
@@ -179,6 +183,18 @@ func RunMAP(teams []*Team) {
   }
 }
 
+func WriteResults(teams []*Team, filename string) (err error) {
+  file, err := os.Create(filename)
+  if err != nil {
+    return err
+  }
+  defer file.Close()
+  for _, team := range teams {
+    file.WriteString(team.SerializeTeam())
+  }
+  return nil
+}
+
 func main() {
   teams, games, err := ReadData()
   if err != nil {
@@ -210,8 +226,9 @@ func main() {
   //for i := 0; i < 20; i++ {
   //  teams[i].PrintTeamShort()
   //}
-  for _, team := range teams {
-    team.PrintTeamShort()
-  }
+  WriteResults(teams, "../data/2014_rankings.csv")
+  //for _, team := range teams {
+  //  team.PrintTeamShort()
+  //}
   fmt.Println("Done!")
 }
