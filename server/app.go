@@ -15,9 +15,9 @@ import (
 type Team struct {
   Name string `json:"name"`
   MeanFor float64 `json:"mean_for"`         // mean points for
-  SdFor float64 `json:"sd_for"`             // precision of points for
+  SdFor float64 `json:"sd_for"`             // sd of points for
   MeanAgainst float64 `json:"mean_against"` // mean points against
-  SdAgainst float64 `json:"sd_against"`     // precision of points against
+  SdAgainst float64 `json:"sd_against"`     // sd of points against
   Wins int64 `json:"wins"`
   Losses int64 `json:"losses"`
 }
