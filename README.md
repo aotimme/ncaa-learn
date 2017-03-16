@@ -17,4 +17,6 @@ go run learn.go --input ../data/kaggle/final-input.csv --output ../data/kaggle/2
 
 cd ../server
 go run app.go --results ../data/kaggle/2017-rankings.csv
+
+# Visit localhost:4000 in your browser.
 ```
