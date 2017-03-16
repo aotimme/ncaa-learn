@@ -1,0 +1,5396 @@
+Team,Team Score,Opponent,Opponent Score
+Alabama,70,Coastal Car,53
+Albany NY,87,Penn St,81
+Arizona,65,Michigan St,63
+Arizona St,88,Portland St,70
+Arkansas,92,IPFW,83
+Auburn,83,North Florida,66
+Ball St,85,St Louis,64
+Baylor,76,Oral Roberts,61
+Binghamton,68,Cornell,62
+Bucknell,76,Manhattan,64
+Buffalo,76,Niagara,66
+California,82,S Dakota St,53
+Central Conn,75,Hartford,60
+Chattanooga,82,Tennessee,69
+Cincinnati,84,Brown,55
+Clemson,74,Georgia,64
+Col Charleston,81,Citadel,68
+Colorado,90,CS Sacramento,53
+Columbia,73,Stony Brook,66
+Creighton,89,Missouri KC,82
+Dayton,96,Austin Peay,68
+Duke,94,Marist,49
+Duquesne,65,Loyola MD,60
+E Kentucky,97,IUPUI,87
+East Carolina,72,Grambling,57
+Edwardsville,69,Hawaii,68
+ETSU,96,Fordham,59
+Fairfield,85,Sacred Heart,63
+Florida,80,FL Gulf Coast,59
+Fresno St,69,UT San Antonio,66
+G Washington,75,MD E Shore,71
+Georgia Tech,70,Tennessee Tech,55
+Gonzaga,92,Utah Valley,69
+Hofstra,74,Coppin St,72
+Houston,93,Morgan St,52
+Illinois,81,SE Missouri St,62
+Indiana,103,Kansas,99
+Iowa,91,Kennesaw,74
+Iowa St,113,Savannah St,71
+Jacksonville St,84,Tulsa,73
+Kansas St,82,W Illinois,55
+Kentucky,87,SF Austin,64
+Louisville,78,Evansville,47
+Loyola-Chicago,69,Alcorn St,44
+Marquette,95,Vanderbilt,71
+Maryland,62,American Univ,56
+Massachusetts,90,MA Lowell,76
+Miami FL,92,W Carolina,43
+Michigan,76,Howard,58
+Minnesota,86,ULL,74
+Mississippi,86,TN Martin,83
+Mississippi St,78,Norfolk St,74
+Missouri St,96,Alabama A&M,62
+Monmouth NJ,78,Drexel,65
+Murray St,73,Illinois St,70
+N Dakota St,76,Arkansas St,66
+N Illinois,80,Indiana St,78
+NC State,81,Ga Southern,79
+New Mexico,81,Idaho St,70
+Nicholls St,79,Boston College,73
+North Carolina,95,Tulane,75
+Northeastern,87,Boston Univ,77
+Northwestern,94,MS Valley St,63
+Oakland,78,Bowling Green,70
+Ohio St,78,Navy,68
+Oklahoma St,102,Campbell,65
+Old Dominion,62,James Madison,55
+Oregon,91,Army,77
+Oregon St,78,Prairie View,58
+Penn,67,Robert Morris,50
+Pepperdine,77,Cal Poly SLO,68
+Pittsburgh,93,E Michigan,90
+Portland,71,UC Riverside,55
+Presbyterian,73,Furman,71
+Purdue,109,McNeese St,65
+Rhode Island,84,Dartmouth,61
+Richmond,72,VMI,69
+Rider,67,Hampton,56
+San Diego St,69,San Diego,59
+San Francisco,82,IL Chicago,80
+Santa Clara,67,Northern Arizona,64
+Seton Hall,91,F Dickinson,70
+SMU,72,Gardner Webb,44
+South Alabama,76,UNLV,68
+South Carolina,85,Louisiana Tech,76
+South Dakota,79,Drake,74
+South Florida,84,Florida A&M,73
+St John's,100,Bethune-Cookman,53
+St Mary's CA,81,Nevada,63
+Stanford,80,Harvard,70
+Syracuse,83,Colgate,55
+Temple,97,La Salle,92
+Tennessee St,78,UC Davis,64
+Texas,78,Incarnate Word,73
+Texas A&M,72,Northwestern LA,44
+Texas St,61,FL Atlantic,57
+Texas Tech,93,Houston Bap,67
+UAB,86,Ark Pine Bluff,66
+UCLA,119,Pacific,80
+USC,75,Montana,61
+Utah St,72,UC Irvine,56
+VA Commonwealth,80,UNC Asheville,65
+Valparaiso,79,Southern Utah,65
+Villanova,88,Lafayette,48
+Virginia,76,UNC Greensboro,51
+Virginia Tech,80,Maine,67
+Wagner,67,Connecticut,58
+Wake Forest,80,Radford,59
+Washington St,69,Montana St,65
+West Virginia,87,Mt St Mary's,59
+Wichita St,85,S Carolina St,39
+Wisconsin,79,Cent Arkansas,47
+Wright St,85,S Illinois,81
+Xavier,84,Lehigh,81
+Butler,89,N Colorado,52
+Davidson,86,Appalachian St,74
+Duke,96,Grand Canyon,61
+Florida St,88,Charleston So,67
+Georgetown,105,SC Upstate,60
+Jacksonville,92,Denver,84
+Kent,79,Cleveland St,74
+LSU,91,Wofford,69
+Marshall,81,NC Central,69
+NE Omaha,74,Santa Barbara,60
+Notre Dame,89,Bryant,64
+Ohio,77,Southern Univ,67
+St Bonaventure,92,St Francis PA,82
+St Joseph's PA,77,Toledo,76
+Tennessee St,69,Northern Arizona,65
+Towson,67,George Mason,61
+UC Davis,63,Santa Clara,58
+UT Arlington,89,TX Southern,82
+Vermont,94,Quinnipiac,70
+WKU,79,Alabama St,66
+Youngstown St,90,Akron,82
+Arizona St,96,Cal Poly SLO,74
+Brown,88,Niagara,79
+Colorado St,64,New Mexico St,61
+CS Fullerton,106,Portland St,100
+Delaware,63,Bradley,49
+DePaul,78,Robert Morris,72
+Edwardsville,77,FL Atlantic,68
+Florida,76,Mercer,54
+Hawaii,74,Texas St,68
+Illinois,79,N Kentucky,64
+Iowa,116,Savannah St,84
+Kentucky,93,Canisius,69
+Maine,80,Longwood,58
+Michigan,77,IUPUI,65
+Missouri,99,Alabama A&M,44
+Missouri St,91,Jacksonville St,65
+Morehead St,89,Lipscomb,75
+NC State,86,St Francis NY,61
+Nebraska,83,CS Sacramento,61
+North Carolina,97,Chattanooga,57
+Oklahoma,97,Northwestern LA,61
+Oregon St,72,UT San Antonio,64
+Penn St,82,Duquesne,74
+Rice,94,James Madison,70
+Rutgers,87,Drexel,66
+Seton Hall,82,Central Conn,58
+Siena,89,Cornell,78
+SMU,91,E Michigan,64
+South Carolina,81,Holy Cross,49
+South Dakota,78,Bowling Green,72
+Tennessee St,69,Santa Clara,61
+TN Martin,88,UTRGV,80
+TX Southern,74,Delaware St,61
+UC Davis,89,Northern Arizona,76
+UCLA,102,CS Northridge,87
+UMBC,77,MD E Shore,73
+USC,82,NE Omaha,72
+Wake Forest,94,Bucknell,74
+Wichita St,92,Long Beach St,55
+Yale,98,Washington,90
+Air Force,86,Jacksonville,68
+Arkansas,90,S Illinois,65
+Auburn,83,Georgia St,65
+BYU,82,Princeton,73
+C Michigan,86,Tennessee Tech,74
+Charlotte,100,Elon,95
+Cincinnati,74,Albany NY,51
+Col Charleston,71,Coastal Car,64
+Colorado,67,Seattle,55
+East Carolina,61,NC A&T,51
+ETSU,107,Detroit,78
+Evansville,82,Alcorn St,59
+Furman,84,UAB,74
+Georgia,60,UNC Asheville,46
+Georgia Tech,77,Southern Univ,62
+Gonzaga,69,San Diego St,48
+Hawaii,64,FL Atlantic,63
+Iowa St,73,Mt St Mary's,55
+Lafayette,61,St Peter's,57
+Louisville,91,William & Mary,58
+MA Lowell,87,Wagner,76
+Marquette,81,Howard,49
+Memphis,94,UTRGV,75
+Minnesota,84,UT Arlington,67
+Mississippi,90,Massachusetts,88
+Montana St,84,ULL,83
+Nevada,79,Loy Marymount,64
+New Hampshire,57,Temple,52
+New Mexico,95,Houston Bap,79
+Northeastern,64,Connecticut,61
+Northwestern,86,E Washington,72
+Oakland,77,W Michigan,60
+Ohio,96,Sam Houston St,75
+Ohio St,69,NC Central,63
+Oklahoma St,102,Cent Arkansas,90
+Old Dominion,64,Richmond,61
+Pacific,76,WI Green Bay,58
+Pittsburgh,99,Gardner Webb,80
+Prairie View,84,Fresno St,78
+Providence,80,Vermont,58
+Rhode Island,107,Marist,65
+Samford,83,San Diego,65
+St John's,77,Binghamton,61
+St Joseph's PA,85,Columbia,65
+St Louis,88,Southern Utah,76
+Stetson,82,Florida Intl,67
+TCU,98,Alabama St,62
+Texas,80,ULM,59
+Texas A&M,76,American Univ,53
+Texas St,86,Edwardsville,58
+Troy,70,E Illinois,67
+Tulane,93,SE Louisiana,76
+UC Irvine,73,S Dakota St,58
+UCF,80,Nicholls St,56
+UNC Greensboro,61,Presbyterian,42
+UNC Wilmington,78,E Kentucky,69
+Utah St,93,NJIT,84
+Valparaiso,78,Coppin St,58
+Villanova,79,Purdue,76
+West Virginia,107,MS Valley St,66
+Wyoming,73,Montana,72
+Xavier,86,Buffalo,53
+Arizona,78,CS Bakersfield,66
+Baylor,66,Oregon,49
+Boston College,73,MD E Shore,57
+Cleveland St,67,Canisius,64
+Creighton,79,Wisconsin,67
+Dayton,77,Alabama,72
+Fairfield,79,Dartmouth,62
+Florida St,99,Iona,78
+G Washington,77,Siena,75
+Hartford,82,Niagara,78
+Indiana St,80,Ball St,74
+Kansas,77,Duke,75
+Kansas St,81,NE Omaha,68
+Kentucky,69,Michigan St,48
+La Salle,74,Delaware,68
+LSU,78,Southern Miss,61
+Maryland,76,Georgetown,75
+Missouri KC,68,Drake,62
+MTSU,87,Murray St,81
+North Carolina,93,Long Beach St,67
+Penn St,85,Grand Canyon,76
+Pepperdine,69,Weber St,68
+Portland,79,San Jose St,66
+Sacred Heart,90,Hofstra,86
+SF Austin,66,Longwood,60
+South Carolina,70,Monmouth NJ,69
+Stanford,96,CS Northridge,69
+Syracuse,90,Holy Cross,46
+Tennessee,103,Appalachian St,94
+Texas Tech,70,North Texas,43
+Toledo,103,Youngstown St,98
+Towson,78,Morgan St,72
+VA Commonwealth,64,Liberty,59
+Vanderbilt,80,Belmont,66
+Virginia,72,St Francis NY,32
+Virginia Tech,99,High Point,73
+Winthrop,94,Manhattan,81
+Wright St,89,Miami OH,87
+Bethune-Cookman,75,Kennesaw,72
+Binghamton,72,Central Conn,70
+Bucknell,75,Robert Morris,62
+Butler,70,Northwestern,68
+California,75,UC Irvine,65
+Coastal Car,89,Coppin St,59
+Colgate,67,Cornell,63
+Duquesne,89,St Francis PA,75
+FL Gulf Coast,85,UT Arlington,72
+IL Chicago,86,UT San Antonio,78
+Illinois St,75,IPFW,57
+Indiana,100,MA Lowell,78
+Kent,93,MS Valley St,63
+Lamar,63,Oregon St,60
+Long Island,65,Loyola MD,61
+Louisiana Tech,87,Alabama St,56
+Marshall,85,Morehead St,77
+Memphis,68,WI Milwaukee,54
+Miami FL,94,North Florida,56
+Minnesota,80,Mt St Mary's,56
+N Illinois,63,Idaho,49
+NC Central,67,W Carolina,59
+New Mexico St,58,Samford,48
+Notre Dame,92,Seattle,49
+Oklahoma St,117,New Orleans,72
+Rhode Island,79,Brown,72
+Rider,84,Hartford,68
+San Francisco,75,Santa Barbara,63
+SE Louisiana,84,Jackson St,71
+SE Missouri St,74,W Illinois,71
+St Mary's CA,110,Prairie View,72
+TAM C. Christi,94,UTRGV,72
+TX Southern,71,Rice,68
+UMBC,90,Delaware St,68
+UNLV,74,UC Riverside,62
+Utah Valley,82,Idaho St,73
+Vermont,76,Marist,72
+WKU,74,Jacksonville St,67
+Wichita St,80,Tulsa,53
+Abilene Chr,65,New Hampshire,57
+Akron,72,American Univ,62
+Arkansas St,78,Georgetown,72
+Auburn,85,E Kentucky,64
+BYU,96,Coppin St,59
+Charlotte,76,East Carolina,64
+Clemson,95,Davidson,78
+Col Charleston,60,Boise St,47
+Colorado,89,ULM,70
+Connecticut,65,Loy Marymount,62
+Denver,74,San Jose St,69
+Elon,74,South Florida,61
+Florida,73,St Bonaventure,66
+G Washington,61,Ark Pine Bluff,41
+Georgia,84,Furman,78
+Grambling,59,NC A&T,55
+Lafayette,84,NJIT,83
+Louisville,88,Long Beach St,56
+Massachusetts,70,Temple,67
+Michigan,79,Marquette,61
+Northern Iowa,82,Arizona St,63
+Ohio St,72,Providence,67
+Oklahoma,89,Tulane,70
+Oregon,76,Valparaiso,54
+Rutgers,66,DePaul,59
+Sam Houston St,91,Southern Univ,83
+Seton Hall,91,Iowa,83
+SMU,76,Pittsburgh,67
+St Louis,74,E Illinois,69
+Stanford,67,Weber St,49
+Tennessee Tech,95,Alabama A&M,61
+Texas,85,E Washington,52
+UAB,74,Troy,51
+UCF,86,Mississippi St,61
+UCLA,88,San Diego,68
+UNC Asheville,73,SC Upstate,57
+Villanova,76,W Michigan,65
+Wake Forest,103,UTEP,81
+Washington,104,CS Fullerton,88
+Wisconsin,69,Chicago St,51
+Xavier,83,Missouri,82
+Yale,89,Lehigh,81
+Alabama,77,Ball St,59
+Arizona,95,Sacred Heart,65
+Arizona St,80,Tulane,71
+Arkansas,71,UT Arlington,67
+Austin Peay,77,N Kentucky,69
+Baylor,81,FL Gulf Coast,72
+Boston Univ,65,Northeastern,63
+Bradley,84,SE Missouri St,78
+Canisius,78,Duquesne,77
+Citadel,116,Stetson,112
+Creighton,103,Washington St,77
+Davidson,70,Missouri,55
+Delaware,68,Miami OH,66
+Drexel,87,Hartford,73
+E Michigan,76,Gardner Webb,68
+Florida St,100,Winthrop,86
+Fordham,68,F Dickinson,55
+Gonzaga,109,Bryant,70
+High Point,63,UNC Greensboro,57
+Idaho,65,Ark Little Rock,57
+Illinois,89,Detroit,69
+IUPUI,77,Howard,55
+Jacksonville,79,Youngstown St,54
+Kansas,86,Siena,65
+LSU,78,North Florida,70
+Manhattan,80,Hofstra,68
+Michigan,76,SMU,54
+Michigan St,100,MS Valley St,53
+Minnesota,92,St John's,86
+Mississippi,95,Oral Roberts,88
+Mississippi St,80,Boise St,68
+Montana St,80,James Madison,73
+Mt St Mary's,78,George Mason,76
+N Dakota St,66,Navy,59
+NC Central,84,Jackson St,75
+NC State,85,Montana,72
+Nevada,83,Oregon St,58
+New Mexico,72,New Mexico St,59
+North Carolina,83,Hawaii,68
+Northern Iowa,73,Oklahoma,67
+Notre Dame,83,Loyola MD,48
+Ohio,67,Georgia Tech,61
+Pittsburgh,78,Marquette,75
+Purdue,64,Georgia St,56
+S Illinois,101,Edwardsville,83
+South Alabama,69,Florida Intl,64
+South Carolina,92,S Carolina St,50
+St Joseph's PA,71,Loyola-Chicago,57
+St Peter's,90,Lipscomb,77
+Syracuse,71,Monmouth NJ,50
+TCU,79,Jacksonville St,60
+TN Martin,85,Cleveland St,74
+UCF,60,Col Charleston,40
+USC,65,Texas A&M,63
+Utah,94,Coppin St,51
+UTEP,85,W Michigan,75
+VA Commonwealth,81,Binghamton,42
+Vanderbilt,75,Norfolk St,52
+Villanova,96,Wake Forest,77
+Xavier,83,Clemson,77
+Arkansas St,60,Army,57
+Belmont,90,WKU,69
+Boston Univ,102,Maine,78
+Butler,86,Bucknell,60
+BYU,81,Coastal Car,65
+Chattanooga,75,Cent Arkansas,64
+CS Bakersfield,77,Santa Barbara,70
+CS Northridge,84,N Illinois,82
+Duke,78,Penn St,68
+E Illinois,73,W Illinois,64
+Evansville,69,Morehead St,56
+F Dickinson,90,Lipscomb,72
+Fairfield,70,Wagner,64
+Fordham,63,St Peter's,41
+Fresno St,83,Lamar,64
+Gardner Webb,94,Howard,78
+Grand Canyon,82,Albany NY,77
+High Point,69,Navy,62
+Indiana,87,Liberty,48
+IPFW,94,MA Lowell,81
+IUPUI,83,E Michigan,71
+Jacksonville,78,Florida Intl,75
+Long Island,78,Northeastern,74
+Loyola-Chicago,78,Oral Roberts,53
+Marist,87,Brown,79
+Marshall,98,W Carolina,63
+Memphis,99,Savannah St,86
+Miami FL,74,Penn,62
+Miami OH,76,Austin Peay,70
+Missouri KC,71,Bowling Green,69
+Morgan St,82,Campbell,66
+Murray St,93,WI Green Bay,77
+N Kentucky,74,Delaware,53
+Nebraska,65,Louisiana Tech,54
+NJIT,74,Colgate,68
+Oakland,107,Chicago St,79
+Providence,71,Grambling,54
+Rhode Island,76,Cincinnati,71
+Rice,100,NE Omaha,87
+Santa Clara,88,N Colorado,72
+SC Upstate,79,Charleston So,77
+South Alabama,84,Youngstown St,75
+South Florida,70,Rider,65
+St Mary's CA,61,Dayton,57
+Tennessee St,74,MTSU,63
+Texas Tech,90,E Kentucky,71
+Toledo,82,Wright St,78
+Tulsa,77,New Orleans,68
+TX Southern,77,La Salle,76
+UC Irvine,72,Pacific,65
+UMBC,93,Kennesaw,85
+UNC Greensboro,65,N Dakota St,54
+UNLV,77,CS Fullerton,68
+UT San Antonio,69,Prairie View,59
+Utah St,85,Idaho St,51
+Virginia Tech,88,VMI,72
+Washington St,87,Montana,63
+William & Mary,89,Presbyterian,59
+Wyoming,77,S Dakota St,67
+Air Force,87,Florida A&M,62
+Akron,88,Radford,41
+Albany NY,80,Brown,76
+Arkansas St,73,Chattanooga,67
+Austin Peay,76,Delaware,75
+Boise St,91,W Michigan,70
+Boston College,82,Stony Brook,75
+Boston Univ,86,Long Island,69
+Cent Arkansas,81,Army,76
+Cincinnati,71,Penn St,50
+Cornell,82,Lafayette,75
+Creighton,112,NC State,94
+Davidson,68,Arizona St,60
+DePaul,77,WI Milwaukee,59
+Drexel,83,North Texas,62
+Duke,75,Rhode Island,65
+East Carolina,73,Stetson,50
+Florida St,100,Detroit,71
+Fordham,85,Lipscomb,69
+Grand Canyon,84,Marist,72
+Iowa,95,UTRGV,67
+Iowa St,130,Citadel,63
+Kansas St,89,Hampton,67
+Kentucky,93,Duquesne,59
+Lehigh,76,Princeton,67
+Maryland,71,Towson,66
+Massachusetts,68,Holy Cross,60
+Mercer,80,Ga Southern,67
+Michigan St,78,FL Gulf Coast,77
+Mississippi,81,St Joseph's PA,68
+Mississippi St,61,UTEP,54
+Missouri,67,Tulane,62
+Missouri KC,85,Murray St,74
+N Dakota St,70,High Point,44
+N Kentucky,79,Miami OH,70
+Nevada,91,Iona,76
+New Mexico St,89,Bethune-Cookman,73
+Northeastern,80,Maine,72
+Oklahoma,70,Clemson,64
+Richmond,81,Robert Morris,69
+Rutgers,78,Niagara,65
+Sam Houston St,78,Tennessee Tech,71
+San Diego,81,Nicholls St,72
+South Alabama,71,Jacksonville,58
+St Peter's,84,F Dickinson,58
+Stanford,56,Colorado St,49
+Temple,88,Manhattan,67
+UCLA,114,Long Beach St,77
+UNC Asheville,92,Siena,80
+UNC Greensboro,72,Navy,59
+UNC Wilmington,68,ETSU,59
+Villanova,67,UCF,57
+Virginia,62,Yale,38
+Wake Forest,78,Col Charleston,61
+Washington,92,Northern Arizona,58
+West Virginia,100,New Hampshire,41
+WI Green Bay,77,Bowling Green,61
+Wichita St,116,MD E Shore,79
+Xavier,67,Northern Iowa,59
+Youngstown St,78,Florida Intl,73
+Arizona,71,N Colorado,55
+Ark Little Rock,68,St Bonaventure,65
+Ball St,79,Coppin St,77
+Bowling Green,78,Murray St,77
+Bucknell,75,Vanderbilt,72
+Butler,91,Norfolk St,55
+BYU,92,St Louis,62
+C Michigan,88,Pepperdine,77
+Coastal Car,83,Southern Utah,68
+Columbia,86,Quinnipiac,78
+Creighton,86,Mississippi,77
+E Illinois,71,Troy,67
+E Washington,81,Bryant,77
+Florida,78,Belmont,61
+Georgetown,65,Oregon,61
+Georgia,81,G Washington,73
+Hofstra,92,Bradley,90
+Houston,93,George Mason,56
+Idaho,96,S Dakota St,89
+Kansas,83,UAB,63
+Liberty,84,MA Lowell,77
+Long Island,71,Maine,66
+Loyola-Chicago,88,Washington St,79
+Marshall,71,Jackson St,61
+Montana,68,Oral Roberts,47
+NC State,73,St Joseph's PA,63
+Northwestern,77,Texas,58
+Notre Dame,89,Colorado,83
+Ohio St,66,W Carolina,38
+Oklahoma St,98,Connecticut,90
+Providence,64,St Francis NY,48
+Rice,83,Montana St,78
+S Illinois,73,Mt St Mary's,63
+Samford,66,Campbell,53
+San Diego St,77,California,65
+Santa Clara,84,Sacred Heart,74
+Seattle,81,ULM,75
+South Dakota,80,Kent,77
+Southern Miss,63,Alabama A&M,55
+TAM C. Christi,73,Texas St,69
+TCU,80,Illinois St,71
+TN Martin,72,Canisius,69
+TX Southern,67,James Madison,56
+UC Davis,81,CS Sacramento,72
+ULL,83,Delaware St,82
+Valparaiso,68,Alabama,60
+Vermont,60,Wofford,59
+WI Green Bay,95,Missouri KC,77
+Winthrop,84,Illinois,80
+Wisconsin,74,Tennessee,62
+Air Force,85,Stetson,72
+Akron,75,Ga Southern,67
+Arkansas St,75,Edwardsville,57
+Auburn,67,Texas Tech,65
+Boston College,80,Towson,70
+Bradley,70,Wofford,62
+Bryant,64,ULM,57
+Charleston So,66,Abilene Chr,65
+Colorado,68,Texas,54
+CS Bakersfield,71,Fresno St,63
+E Kentucky,91,Idaho St,82
+E Washington,80,Seattle,76
+East Carolina,82,Florida A&M,62
+FL Atlantic,78,South Florida,62
+George Mason,79,Kent,75
+Georgia St,74,NJIT,53
+Georgia Tech,81,Sam Houston St,73
+Holy Cross,63,Harvard,52
+Houston,85,South Dakota,58
+IPFW,71,Indiana,68
+Kansas,65,Georgia,54
+Kansas St,61,Robert Morris,40
+Kennesaw,79,Alabama St,72
+Lamar,78,UT San Antonio,58
+MA Lowell,76,MS Valley St,71
+Marquette,104,IUPUI,79
+Maryland,77,Stony Brook,63
+Memphis,104,McNeese St,65
+Mercer,58,Radford,47
+Minnesota,85,Arkansas,71
+Monmouth NJ,76,Cornell,61
+MTSU,80,Toledo,70
+New Mexico St,86,Nicholls St,74
+North Carolina,107,Oklahoma St,75
+Notre Dame,70,Northwestern,66
+Oregon,69,Tennessee,65
+Pacific,73,Wyoming,65
+Penn,87,Central Conn,65
+Pepperdine,66,Ark Little Rock,65
+Pittsburgh,75,Yale,70
+Presbyterian,77,VMI,67
+Purdue,85,Utah St,64
+Richmond,65,Hampton,52
+San Diego,96,Bethune-Cookman,91
+SC Upstate,108,Charlotte,103
+SE Missouri St,83,UTRGV,72
+SMU,84,Santa Barbara,57
+Southern Univ,80,Tennessee Tech,68
+St Bonaventure,102,C Michigan,71
+St Mary's CA,81,San Jose St,64
+Syracuse,101,S Carolina St,59
+Tulsa,75,Oregon St,64
+UAB,81,G Washington,74
+UNC Asheville,64,Furman,58
+UNLV,110,Northern Arizona,71
+USC,88,New Orleans,54
+Vermont,87,Hofstra,73
+Virginia,90,Grambling,34
+WKU,77,NC A&T,56
+Wagner,73,American Univ,65
+Washington,94,Long Beach St,88
+Wisconsin,73,Georgetown,57
+Alabama,62,St Louis,57
+Appalachian St,70,Hartford,61
+Arizona St,127,Citadel,110
+Ark Little Rock,91,C Michigan,79
+Army,88,Columbia,83
+Ball St,94,Southern Utah,83
+Baylor,71,VA Commonwealth,63
+Brown,81,Morgan St,75
+Cal Poly SLO,68,N Illinois,64
+Cincinnati,70,Samford,55
+Colorado St,76,MD E Shore,65
+DePaul,68,Missouri St,66
+Duke,88,William & Mary,67
+Elon,91,IL Chicago,80
+FL Gulf Coast,69,Binghamton,53
+Fordham,73,Rider,62
+George Mason,77,Bradley,66
+Georgia St,82,E Kentucky,65
+Hofstra,65,South Dakota,57
+Houston,72,Vermont,71
+Kent,66,Wofford,59
+Kentucky,101,Cleveland St,70
+Liberty,70,MS Valley St,55
+Louisville,68,Old Dominion,62
+Loyola MD,81,Fairfield,66
+Michigan St,73,St John's,62
+Navy,78,UMBC,66
+Nevada,82,Oakland,78
+New Hampshire,86,Detroit,70
+Niagara,93,Drexel,74
+NJIT,71,Idaho St,67
+North Carolina,71,Wisconsin,56
+Ohio St,78,Jackson St,47
+Oklahoma St,97,Georgetown,70
+Oregon,79,Connecticut,69
+Penn St,72,Colgate,59
+Princeton,71,Lafayette,55
+Purdue,96,Auburn,71
+Rice,80,Delaware St,58
+Rutgers,66,North Texas,53
+San Francisco,79,Troy,67
+SE Louisiana,72,UTEP,56
+Siena,66,Ark Pine Bluff,43
+South Carolina,61,Michigan,46
+St Bonaventure,89,Pepperdine,63
+St Francis PA,87,Longwood,72
+Tennessee St,72,Canisius,58
+Texas Tech,75,Utah St,51
+TN Martin,66,Duquesne,63
+ULL,82,James Madison,70
+UT Arlington,80,Mt St Mary's,71
+Utah Valley,88,Denver,85
+Valparaiso,92,BYU,89
+Villanova,63,Col Charleston,47
+Wake Forest,86,Coastal Car,74
+Wichita St,82,LSU,47
+Arizona,69,Santa Clara,61
+Baylor,73,Michigan St,58
+Binghamton,72,Long Beach St,64
+Bucknell,84,Norfolk St,58
+Butler,76,Vanderbilt,66
+Florida,81,Seton Hall,76
+Gonzaga,82,Quinnipiac,62
+Iona,64,Drake,53
+Iowa St,73,Indiana St,71
+Louisville,62,Wichita St,52
+LSU,66,Old Dominion,60
+Miami FL,67,Stanford,53
+Mississippi,86,Montana,81
+N Colorado,81,Sacred Heart,59
+Nebraska,80,Dayton,78
+Temple,89,Florida St,86
+Texas A&M,95,CS Northridge,73
+UCLA,99,Portland,77
+VA Commonwealth,75,St John's,69
+Virginia Tech,92,New Mexico,72
+Weber St,86,UC Davis,58
+West Virginia,89,Illinois,57
+Akron,84,Air Force,75
+Baylor,66,Louisville,63
+Boise St,82,Presbyterian,56
+Bucknell,75,N Colorado,63
+Butler,69,Arizona,65
+California,71,Wyoming,61
+Clemson,83,High Point,74
+Colorado St,67,SE Louisiana,59
+Dayton,84,Portland,74
+Elon,85,N Illinois,80
+ETSU,86,WI Milwaukee,62
+FL Gulf Coast,68,Long Beach St,67
+Florida St,72,Illinois,61
+Fresno St,63,Oregon St,58
+Ga Southern,83,Florida A&M,72
+Georgia,77,Gardner Webb,59
+Gonzaga,77,Florida,72
+Grand Canyon,70,Coppin St,37
+Holy Cross,73,S Carolina St,57
+IL Chicago,84,Cal Poly SLO,71
+Iona,76,Weber St,54
+Iowa St,73,Miami FL,56
+Jacksonville St,61,CS Fullerton,38
+Kansas,95,UNC Asheville,57
+Kansas St,72,Boston College,54
+Kentucky,111,TN Martin,76
+Lamar,91,Prairie View,83
+Lehigh,87,Mississippi St,73
+Loy Marymount,78,Portland St,62
+Maryland,88,Richmond,82
+Mercer,70,East Carolina,66
+Michigan St,77,Wichita St,72
+Minnesota,57,S Illinois,45
+MTSU,68,UNC Wilmington,63
+Nevada,67,Buffalo,62
+New Mexico,105,CS Northridge,89
+Nicholls St,76,Bethune-Cookman,69
+North Florida,76,North Dakota,75
+North Texas,80,Niagara,71
+Northern Arizona,71,Alabama St,57
+Northwestern,86,Bryant,66
+Ohio,68,Tennessee Tech,57
+Ohio St,111,Marshall,70
+Oklahoma,72,Abilene Chr,64
+Old Dominion,63,St John's,55
+Pittsburgh,76,Morehead St,63
+Providence,60,Memphis,51
+Radford,80,Stetson,66
+Rhode Island,82,Belmont,73
+Robert Morris,62,Hampton,48
+Rutgers,77,Hartford,75
+Sacred Heart,61,Norfolk St,59
+Sam Houston St,69,Idaho,62
+Seton Hall,90,Quinnipiac,79
+St Francis NY,97,Savannah St,91
+Stanford,65,Indiana St,62
+TCU,63,UNLV,59
+Temple,81,West Virginia,77
+Texas A&M,68,Virginia Tech,65
+Texas Tech,91,Idaho St,58
+Toledo,83,Evansville,79
+Towson,88,Stony Brook,63
+Troy,65,Hawaii,63
+UTRGV,101,Grambling,93
+UC Davis,64,Drake,58
+UC Irvine,63,S Dakota St,52
+UCLA,82,Nebraska,71
+USC,78,SMU,73
+UT San Antonio,63,Texas St,48
+Utah,85,UC Riverside,67
+VA Commonwealth,85,LSU,74
+Vanderbilt,76,Santa Clara,66
+Virginia,74,Iowa,41
+Washington,86,WKU,47
+Wright St,68,CS Bakersfield,64
+Akron,65,Mercer,63
+Alabama St,76,CS Fullerton,67
+Bowling Green,90,Morgan St,58
+Buffalo,74,Weber St,72
+C Michigan,89,WI Green Bay,77
+Campbell,67,VMI,53
+Canisius,90,Youngstown St,84
+Chattanooga,88,Kennesaw,71
+Cincinnati,91,Lipscomb,68
+Columbia,81,Colgate,78
+Creighton,82,Loyola MD,52
+CS Bakersfield,77,North Florida,54
+Davidson,79,Charlotte,57
+Duke,93,Appalachian St,58
+E Illinois,72,South Alabama,62
+E Michigan,94,NE Omaha,77
+E Washington,85,Denver,80
+East Carolina,70,Air Force,63
+Edwardsville,61,IUPUI,58
+Elon,72,Cal Poly SLO,66
+ETSU,71,S Dakota St,59
+Fairfield,75,Army,74
+Ga Southern,65,Radford,64
+George Mason,80,James Madison,77
+Georgia Tech,82,Tulane,68
+Grambling,110,Savannah St,104
+Houston,83,Cornell,53
+Iona,75,Nevada,73
+IPFW,79,MS Valley St,54
+Jacksonville,66,NC A&T,49
+Jacksonville St,76,Northern Arizona,63
+Long Island,82,MA Lowell,78
+Manhattan,84,Detroit,81
+Marist,75,Dartmouth,69
+Marquette,101,Houston Bap,79
+Maryland,69,Kansas St,68
+Massachusetts,70,Harvard,66
+Memphis,100,Iowa,92
+Miami OH,81,W Illinois,72
+Michigan,64,Mt St Mary's,47
+Missouri,84,Northwestern LA,60
+Monmouth NJ,86,S Carolina St,62
+Montana St,91,Delaware St,66
+MTSU,73,Toledo,70
+Murray St,91,Alabama A&M,54
+N Illinois,92,IL Chicago,81
+Navy,70,Penn,68
+NC Central,82,N Kentucky,74
+NC State,79,Loyola-Chicago,77
+New Mexico St,56,San Diego,51
+Notre Dame,91,Chicago St,60
+Oakland,79,UC Davis,66
+Penn St,74,G Washington,68
+Purdue,79,NJIT,68
+Rice,87,Incarnate Word,79
+Richmond,67,Boston College,54
+Rider,70,Wagner,67
+Robert Morris,67,Towson,66
+Samford,93,Bethune-Cookman,65
+San Francisco,77,CS Sacramento,59
+South Carolina,64,Syracuse,50
+St Francis PA,69,American Univ,62
+Stetson,98,Florida A&M,90
+Stony Brook,76,Hampton,66
+TCU,93,Washington,80
+UTRGV,71,St Francis NY,61
+UCF,67,Seattle,51
+UNC Wilmington,65,Evansville,62
+UNLV,71,WKU,61
+UT Arlington,67,Fordham,63
+Utah Valley,114,BYU,101
+Vermont,67,Yale,65
+Virginia,63,Providence,52
+W Carolina,58,Jackson St,47
+W Michigan,80,Cent Arkansas,63
+WI Milwaukee,54,UC Irvine,37
+William & Mary,79,Liberty,70
+Wright St,83,North Dakota,79
+Xavier,64,Northern Iowa,42
+Albany NY,81,Siena,72
+Arkansas St,97,Lehigh,89
+California,67,SE Louisiana,55
+Col Charleston,72,SC Upstate,60
+Colorado,75,Wofford,60
+Colorado St,80,Alcorn St,58
+Dayton,64,New Mexico,57
+Denver,72,CS Sacramento,61
+Duquesne,78,Cleveland St,71
+E Washington,96,San Francisco,90
+ETSU,72,UC Irvine,66
+Florida,65,Miami FL,56
+Florida Intl,74,Binghamton,57
+Georgetown,85,Howard,72
+Gonzaga,73,Iowa St,71
+Hawaii,64,Ark Pine Bluff,44
+Indiana,85,MS Valley St,52
+La Salle,89,Drexel,78
+Louisiana Tech,74,MD E Shore,53
+Missouri St,64,N Dakota St,50
+Monmouth NJ,80,Holy Cross,77
+MTSU,66,Evansville,55
+New Hampshire,65,Winthrop,60
+Nicholls St,106,Samford,103
+North Dakota,57,CS Bakersfield,55
+North Texas,81,Hartford,78
+Northeastern,73,Kent,70
+Portland,96,CS Northridge,78
+Portland St,91,Pepperdine,85
+Quinnipiac,80,Indiana St,77
+S Dakota St,81,WI Milwaukee,58
+San Jose St,88,Washington St,76
+South Dakota,72,Montana,67
+St Mary's CA,76,UAB,63
+Stanford,66,Seton Hall,52
+UCLA,74,Texas A&M,67
+ULL,84,TX Southern,73
+UNC Wilmington,102,Toledo,77
+USC,96,Santa Barbara,72
+Valparaiso,79,Ball St,73
+Virginia Tech,66,Nebraska,53
+Wisconsin,95,Prairie View,50
+Wright St,75,North Florida,67
+Arkansas,89,Mt St Mary's,76
+Brown,91,Bryant,90
+Butler,68,Utah,59
+Charlotte,80,Appalachian St,72
+Citadel,97,Presbyterian,83
+Edwardsville,76,Grand Canyon,64
+Florida St,75,Minnesota,67
+High Point,62,Morgan St,61
+Kentucky,115,Arizona St,69
+Longwood,86,Dartmouth,80
+Mississippi St,65,Northwestern LA,59
+Missouri KC,86,SE Missouri St,75
+NC Central,62,Missouri,52
+Northwestern,65,Wake Forest,58
+Oregon,68,Boise St,63
+San Diego St,100,Savannah St,67
+South Florida,71,Kennesaw,69
+St Peter's,80,Boston Univ,67
+Tulsa,79,Oral Roberts,65
+ULM,77,SF Austin,72
+West Virginia,108,Manhattan,61
+Alabama,76,Charleston So,46
+American Univ,57,W Illinois,50
+Ark Little Rock,89,Cent Arkansas,87
+Auburn,90,SC Upstate,83
+Belmont,64,Lipscomb,62
+Bradley,87,E Illinois,83
+C Michigan,91,William & Mary,81
+Chattanooga,68,Coastal Car,52
+Creighton,93,Buffalo,72
+Davidson,78,Mercer,57
+Delaware St,79,St John's,72
+Duke,78,Michigan St,69
+East Carolina,68,Hampton,48
+G Washington,77,Harvard,74
+Hofstra,88,Columbia,86
+Idaho St,77,Lamar,60
+Illinois,88,NC State,74
+Jacksonville St,72,Alabama St,69
+Kansas,91,Long Beach St,61
+LSU,84,Houston,65
+Marist,81,MA Lowell,69
+Nevada,77,Pacific,67
+New Orleans,74,Tulane,59
+Notre Dame,92,Iowa,78
+Oklahoma,87,N Colorado,66
+Penn St,67,Georgia Tech,60
+Pittsburgh,73,Maryland,59
+S Illinois,89,Murray St,85
+Samford,68,St Louis,64
+San Jose St,58,Idaho,49
+TAM C. Christi,84,UTRGV,68
+Texas St,80,McNeese St,68
+TN Martin,82,FL Atlantic,81
+UAB,75,Alabama A&M,45
+UNC Greensboro,86,NC A&T,66
+UT Arlington,72,Texas,61
+VA Commonwealth,81,Princeton,70
+Valparaiso,65,Rhode Island,62
+Vanderbilt,83,Tennessee St,59
+Villanova,82,Penn,57
+Wisconsin,77,Syracuse,60
+Xavier,85,N Dakota St,55
+Arizona,85,TX Southern,63
+Arkansas St,78,Cleveland St,51
+Army,97,F Dickinson,78
+Baylor,79,Sam Houston St,45
+Boise St,71,SMU,62
+Brown,81,St Francis NY,71
+Bryant,79,Yale,70
+Bucknell,73,Richmond,68
+BYU,77,Utah St,63
+California,68,Louisiana Tech,59
+Central Conn,82,Maine,61
+Charlotte,65,James Madison,56
+Clemson,60,Nebraska,58
+Colorado St,72,Colorado,58
+Connecticut,51,Boston Univ,49
+Cornell,80,Northeastern,77
+DePaul,77,Drake,75
+Drexel,74,Lafayette,70
+E Kentucky,78,WKU,59
+E Michigan,87,Detroit,61
+Elon,84,Florida Intl,81
+George Mason,54,Northern Iowa,50
+Georgetown,96,Coppin St,44
+Georgia St,81,Wright St,74
+Holy Cross,55,Albany NY,49
+IL Chicago,74,Chicago St,58
+Illinois St,77,IUPUI,63
+Indiana,76,North Carolina,67
+Indiana St,63,N Illinois,52
+IPFW,103,Austin Peay,99
+Kansas St,80,WI Green Bay,61
+Kennesaw,76,Florida A&M,74
+La Salle,89,Lehigh,81
+Long Island,75,Hartford,68
+Louisville,71,Purdue,64
+Loyola MD,71,Stony Brook,70
+Loyola-Chicago,75,Norfolk St,62
+Marquette,90,W Carolina,44
+Marshall,98,Ohio,88
+Massachusetts,62,Wagner,55
+Memphis,84,Jackson St,69
+Miami FL,73,Rutgers,61
+Miami OH,78,Grambling,76
+Missouri KC,84,South Dakota,82
+MTSU,77,Mississippi,62
+N Kentucky,84,Morehead St,79
+NE Omaha,83,CS Fullerton,73
+New Mexico,64,Abilene Chr,55
+New Mexico St,78,Air Force,70
+NJIT,83,St Francis PA,70
+Old Dominion,59,Dartmouth,47
+Providence,76,New Hampshire,62
+Radford,74,VMI,67
+Rice,90,Houston Bap,77
+Sacred Heart,71,Fordham,70
+San Francisco,78,Alcorn St,65
+SE Louisiana,85,MD E Shore,75
+South Alabama,78,Southern Miss,55
+St Bonaventure,81,Siena,74
+St Mary's CA,66,Stanford,51
+TCU,86,Washington,71
+Temple,78,St Joseph's PA,72
+Texas Tech,69,Incarnate Word,48
+UC Irvine,58,Santa Clara,55
+UCF,81,Stetson,45
+UCLA,98,UC Riverside,56
+UMBC,81,Duquesne,72
+UNC Wilmington,97,W Michigan,92
+UNLV,89,Southern Utah,81
+USC,76,San Diego,55
+Virginia,63,Ohio St,61
+Virginia Tech,73,Michigan,70
+Washington St,83,Utah Valley,76
+WI Milwaukee,72,Jacksonville,67
+Winthrop,58,Furman,57
+Wyoming,82,Denver,70
+Youngstown St,75,Robert Morris,74
+Arkansas,78,SF Austin,62
+Cal Poly SLO,59,UT San Antonio,47
+Cincinnati,55,Iowa St,54
+Col Charleston,70,Navy,64
+Fairfield,76,Rider,67
+Florida,91,North Florida,60
+Ga Southern,94,Savannah St,75
+Gonzaga,97,MS Valley St,63
+Lipscomb,104,Tennessee Tech,85
+Mississippi St,74,Oregon St,57
+Monmouth NJ,91,Quinnipiac,72
+Oakland,92,Oral Roberts,64
+Pacific,74,CS Sacramento,58
+SE Missouri St,87,Cent Arkansas,63
+Seton Hall,95,Columbia,71
+South Carolina,68,Vermont,50
+South Florida,80,Troy,74
+TN Martin,73,Ark Pine Bluff,68
+ULL,101,Nicholls St,69
+Utah,92,Montana St,84
+Canisius,77,Manhattan,76
+Citadel,108,Colgate,101
+Delaware,64,Delaware St,49
+Duquesne,64,Pittsburgh,55
+Indiana,83,Edwardsville,60
+Iona,79,St Peter's,65
+Kent,86,Grambling,57
+Marist,72,Niagara,66
+N Dakota St,85,NC A&T,67
+San Francisco,82,Lamar,63
+SC Upstate,80,Campbell,73
+SMU,49,CS Bakersfield,43
+St John's,95,Tulane,75
+Texas,77,Alabama,68
+Abilene Chr,85,Charleston So,82
+Air Force,83,Missouri St,70
+Arizona St,97,UNLV,73
+Ark Little Rock,72,Tulsa,62
+Arkansas,99,Austin Peay,62
+Army,76,St Francis NY,56
+Auburn,74,UAB,70
+Baylor,76,Xavier,61
+Belmont,85,Pepperdine,77
+Binghamton,73,St Francis PA,70
+Boston College,88,Dartmouth,70
+Brown,75,Central Conn,58
+Butler,82,Cent Arkansas,58
+C Michigan,82,Ark Pine Bluff,59
+Cal Poly SLO,82,TAM C. Christi,70
+California,83,Alcorn St,59
+Campbell,73,Colgate,71
+Charlotte,69,Oregon St,66
+Chattanooga,79,ULM,52
+Chicago St,83,W Illinois,76
+Citadel,97,SC Upstate,92
+Cleveland St,73,Bethune-Cookman,62
+Colorado,76,Portland,63
+Creighton,82,Akron,70
+CS Fullerton,78,Pacific,77
+CS Northridge,79,Idaho St,76
+Dayton,83,Winthrop,67
+Denver,57,Weber St,55
+Drexel,78,High Point,72
+Duke,94,Maine,55
+E Kentucky,89,Marshall,80
+East Carolina,69,NC Central,56
+Evansville,72,Boise St,67
+Fresno St,78,Drake,76
+Furman,79,Navy,46
+G Washington,68,South Florida,67
+Gardner Webb,86,VMI,68
+George Mason,79,Mercer,68
+Gonzaga,69,Arizona,62
+Hampton,79,William & Mary,69
+Hartford,87,Sacred Heart,79
+Harvard,64,Fordham,52
+Hofstra,88,FL Atlantic,80
+Houston,105,Prairie View,61
+Howard,71,American Univ,54
+Idaho,68,UC Davis,66
+Illinois,64,VA Commonwealth,46
+Illinois St,79,New Mexico,74
+Incarnate Word,90,Long Island,79
+Indiana St,62,Utah St,61
+IPFW,87,Miami OH,71
+IUPUI,73,Ball St,62
+James Madison,71,Longwood,59
+Kansas,89,Stanford,74
+Kansas St,84,St Louis,53
+La Salle,83,Bucknell,73
+Lehigh,64,Robert Morris,58
+Louisiana Tech,88,SE Louisiana,59
+Louisville,79,Grand Canyon,70
+Loyola MD,64,Mt St Mary's,57
+Loyola-Chicago,65,San Diego St,59
+Maryland,71,Oklahoma St,70
+Miami FL,74,Wofford,57
+Michigan,82,Kennesaw,55
+Michigan St,80,Oral Roberts,76
+Minnesota,56,Vanderbilt,52
+Mississippi,85,Memphis,77
+Missouri,59,WKU,56
+Montana,75,WI Milwaukee,69
+MTSU,67,South Alabama,55
+Murray St,86,Detroit,76
+N Kentucky,72,Norfolk St,61
+NC State,77,Boston Univ,73
+NE Omaha,98,Iowa,89
+Nebraska,73,South Dakota,61
+Nevada,91,Bradley,69
+New Hampshire,56,Holy Cross,53
+New Mexico St,93,Long Beach St,85
+New Orleans,70,Washington St,54
+NJIT,75,MA Lowell,74
+Northwestern,80,DePaul,64
+Northwestern LA,79,UTEP,67
+Oakland,78,Southern Utah,68
+Ohio,79,Bryant,53
+Ohio St,70,F Dickinson,62
+Old Dominion,60,Towson,58
+Oregon,128,Savannah St,59
+Penn St,72,Wright St,50
+Portland St,87,UTRGV,74
+Providence,63,Rhode Island,60
+Purdue,90,Morehead St,56
+Rutgers,72,Morgan St,58
+S Dakota St,77,Missouri KC,68
+S Illinois,74,TX Southern,70
+San Diego,80,Northern Arizona,65
+San Jose St,55,Santa Clara,40
+Siena,80,Fairfield,73
+Southern Univ,83,Florida A&M,71
+St Bonaventure,90,Buffalo,84
+Stony Brook,77,Northeastern,75
+Syracuse,77,North Florida,71
+TCU,77,Arkansas St,54
+Temple,70,Penn,62
+Tennessee,81,Georgia Tech,58
+Tennessee St,72,Lipscomb,71
+Tennessee Tech,79,Alabama A&M,74
+Texas Tech,85,Rice,84
+UCF,65,Massachusetts,62
+UCLA,97,Kentucky,92
+ULL,92,McNeese St,72
+UNC Asheville,79,Coastal Car,77
+UNC Greensboro,72,Liberty,65
+USC,91,BYU,84
+UT Arlington,77,North Texas,61
+Utah Valley,75,UT San Antonio,71
+Villanova,88,St Joseph's PA,57
+W Carolina,58,Appalachian St,53
+Wake Forest,75,Richmond,67
+West Virginia,66,Virginia,57
+WI Green Bay,78,Toledo,77
+Wichita St,82,Colorado St,67
+Wisconsin,90,Oklahoma,70
+Wyoming,81,Northern Iowa,73
+Yale,59,Albany NY,55
+Campbell,97,Citadel,91
+Cincinnati,85,Bowling Green,56
+Clemson,85,Coppin St,43
+Col Charleston,76,Davidson,61
+E Illinois,90,IL Chicago,76
+E Washington,93,Seattle,88
+FL Gulf Coast,85,Ga Southern,82
+Florida St,67,G Washington,48
+Georgetown,77,Elon,74
+Indiana,83,SE Missouri St,55
+Jackson St,75,Southern Miss,64
+Marquette,89,Georgia,79
+Mississippi St,82,Georgia St,60
+Monmouth NJ,94,Canisius,88
+Niagara,74,Iona,58
+North Carolina,95,Radford,50
+Notre Dame,107,NC A&T,53
+Quinnipiac,77,Marist,63
+Samford,81,Jacksonville St,77
+SC Upstate,71,Colgate,65
+SMU,74,Delaware St,60
+South Carolina,70,Florida Intl,54
+St Peter's,84,Manhattan,70
+Troy,83,Alabama St,65
+Boise St,80,Loy Marymount,79
+Connecticut,52,Syracuse,50
+CS Bakersfield,81,Northern Arizona,47
+Iowa,95,Stetson,68
+Iowa St,91,NE Omaha,47
+Jacksonville,76,Bethune-Cookman,66
+Lafayette,74,St Francis NY,72
+Louisiana Tech,98,Alcorn St,65
+Portland,90,UTRGV,89
+Rider,71,Siena,69
+St John's,76,CS Northridge,70
+Texas A&M,86,TAM C. Christi,69
+WI Milwaukee,83,Montana St,78
+Arizona,79,UC Irvine,57
+Arkansas,84,Houston,72
+Ball St,80,Bradley,63
+Belmont,78,Lipscomb,76
+Bucknell,75,Fairfield,64
+C Michigan,107,WI Green Bay,97
+California,62,Princeton,51
+Chattanooga,96,Marshall,85
+DePaul,80,Lamar,61
+Duke,84,Florida,74
+Evansville,69,Bowling Green,66
+FL Atlantic,79,Ohio St,77
+Florida St,98,Southern Miss,49
+Furman,61,Liberty,58
+Harvard,86,Northeastern,80
+Illinois,85,IUPUI,77
+Kansas,105,Missouri KC,62
+Kansas St,74,Prairie View,55
+Marquette,84,Fresno St,81
+Miami FL,82,S Carolina St,46
+Michigan,53,Texas,50
+Michigan St,77,Youngstown St,57
+Minnesota,74,NJIT,68
+Missouri,81,Miami OH,55
+Monmouth NJ,81,Wagner,71
+Morgan St,85,Manhattan,82
+Navy,76,Bryant,74
+NC Central,79,Long Island,56
+New Hampshire,80,American Univ,70
+Notre Dame,87,IPFW,72
+Providence,95,Brown,57
+Purdue,97,Arizona St,64
+Rhode Island,51,Old Dominion,39
+Robert Morris,64,Duquesne,60
+Rutgers,79,Central Conn,37
+Sacred Heart,91,MA Lowell,82
+Seton Hall,68,Hawaii,57
+St Bonaventure,81,Hofstra,75
+Stony Brook,62,Lehigh,57
+Tennessee,90,Presbyterian,50
+UNC Asheville,78,Elon,67
+Utah,87,Utah Valley,80
+Vanderbilt,90,High Point,63
+Villanova,89,La Salle,79
+Virginia,76,East Carolina,53
+Wake Forest,91,Charlotte,74
+Wichita St,75,St Louis,45
+Akron,87,Coppin St,63
+Albany NY,78,Marist,66
+Army,79,Air Force,71
+Binghamton,73,Colgate,64
+BYU,77,Weber St,66
+Canisius,87,Boston Univ,77
+Cleveland St,85,W Michigan,62
+Colorado,68,Xavier,66
+Creighton,77,Nebraska,62
+E Kentucky,80,Jacksonville,76
+G Washington,66,Temple,63
+Gardner Webb,69,Hampton,63
+George Mason,85,Penn St,66
+Georgia Tech,76,VA Commonwealth,73
+Gonzaga,98,Washington,71
+Grand Canyon,76,San Diego St,72
+Harvard,74,Boston College,66
+Houston Bap,62,St Peter's,47
+Indiana St,72,Butler,71
+Iona,90,F Dickinson,73
+Kent,100,Niagara,72
+Kentucky,87,Valparaiso,63
+Long Beach St,75,Pepperdine,66
+Louisville,74,S Illinois,51
+Loyola-Chicago,77,Wright St,64
+Maine,55,Holy Cross,53
+Maryland,79,Howard,56
+Missouri St,79,SE Missouri St,71
+Montana,81,San Jose St,62
+N Kentucky,80,E Illinois,70
+New Mexico,78,UTEP,77
+North Carolina,83,Davidson,74
+North Dakota,74,N Dakota St,56
+Northern Iowa,86,S Dakota St,58
+Oklahoma,92,Oral Roberts,66
+Penn,81,Lafayette,52
+Pittsburgh,84,Buffalo,79
+Princeton,75,Hawaii,62
+Quinnipiac,99,Hartford,79
+San Diego,82,CS Fullerton,75
+Seton Hall,60,California,57
+SMU,74,TCU,59
+South Dakota,74,Montana St,57
+Stetson,80,Edwardsville,72
+Texas A&M,80,Denver,58
+Texas Tech,87,UT San Antonio,50
+Toledo,73,Detroit,65
+Towson,70,Loyola MD,53
+Tulane,84,Southern Univ,75
+Tulsa,70,Illinois St,68
+UTRGV,72,Texas St,61
+UAB,84,SF Austin,73
+UMBC,78,Mt St Mary's,70
+Vermont,73,Dartmouth,58
+Virginia Tech,75,MD E Shore,59
+Washington St,61,Idaho,48
+West Virginia,90,W Carolina,37
+Wisconsin,78,Idaho St,44
+Ark Little Rock,67,Ark Pine Bluff,52
+Florida St,118,Nicholls St,63
+Iowa,78,Iowa St,64
+Loy Marymount,75,Southern Utah,68
+Massachusetts,72,Pacific,48
+MTSU,71,Vanderbilt,48
+North Texas,73,Delaware St,40
+St John's,90,Fordham,62
+UT Arlington,65,St Mary's CA,51
+Yale,66,Sacred Heart,52
+Creighton,113,Longwood,58
+FL Gulf Coast,73,Siena,69
+Hartford,65,Boston College,63
+Minnesota,86,Ga Southern,49
+Navy,69,Columbia,54
+Wake Forest,78,UNC Greensboro,75
+Albany NY,74,Colgate,66
+American Univ,77,Youngstown St,62
+Arizona,79,Missouri,60
+Arizona St,74,San Diego St,63
+Ark Little Rock,70,Cent Arkansas,59
+Arkansas,91,North Florida,76
+Ball St,91,E Kentucky,86
+Bowling Green,74,Detroit,61
+Bradley,83,Chicago St,48
+Buffalo,87,Coppin St,52
+Butler,75,Cincinnati,65
+BYU,79,Colorado,71
+California,86,UC Davis,61
+Canisius,91,St Francis NY,81
+Clemson,90,Mercer,47
+Coastal Car,70,NC Central,67
+Colorado St,81,N Colorado,64
+CS Bakersfield,81,Portland St,79
+CS Fullerton,75,Southern Utah,62
+Dayton,75,ETSU,61
+Denver,77,Air Force,65
+Duke,94,UNLV,45
+Duquesne,70,Central Conn,67
+E Illinois,63,W Illinois,49
+Evansville,78,Murray St,46
+Fresno St,73,Cal Poly SLO,59
+Furman,68,Gardner Webb,65
+G Washington,79,Howard,62
+George Mason,79,Penn,60
+Georgetown,93,La Salle,78
+Gonzaga,61,Akron,43
+Grand Canyon,73,IL Chicago,69
+Houston,82,Rhode Island,77
+Illinois,92,C Michigan,73
+Illinois St,74,TN Martin,57
+Indiana,103,Houston Bap,61
+Iona,79,Ohio,75
+IPFW,98,Austin Peay,58
+Jackson St,68,Drake,63
+Jacksonville,85,Marist,64
+Kansas,89,Nebraska,72
+Kansas St,70,Washington St,56
+Kent,87,NJIT,71
+Lehigh,90,Mt St Mary's,71
+Lipscomb,98,Morehead St,84
+Louisville,102,TX Southern,71
+Loy Marymount,69,CS Northridge,68
+Loyola MD,90,Binghamton,85
+Loyola-Chicago,72,WI Milwaukee,56
+Maine,73,Dartmouth,68
+Manhattan,60,Fordham,53
+Marshall,111,Toledo,105
+Maryland,66,St Peter's,56
+Memphis,62,UAB,55
+Miami OH,71,IUPUI,68
+Michigan St,71,Tennessee Tech,63
+Monmouth NJ,81,Army,71
+N Kentucky,80,SE Missouri St,66
+NC State,67,Tennessee St,55
+NE Omaha,97,Montana St,91
+New Hampshire,86,Bryant,73
+New Mexico St,84,New Mexico,71
+Niagara,65,Norfolk St,61
+Northeastern,59,Vermont,57
+Northern Iowa,78,North Dakota,70
+Oakland,74,Robert Morris,53
+Ohio St,64,Connecticut,60
+Oklahoma St,71,Tulsa,67
+Pittsburgh,81,Penn St,73
+Princeton,67,Liberty,64
+Providence,75,Massachusetts,69
+Purdue,77,Cleveland St,53
+Radford,68,Elon,56
+Rice,70,SF Austin,63
+Richmond,78,UMBC,75
+Rider,73,Pacific,66
+Rutgers,71,Stony Brook,66
+S Dakota St,80,Idaho,77
+Sam Houston St,79,S Illinois,73
+South Dakota,72,CS Sacramento,56
+Stetson,87,South Alabama,78
+Syracuse,99,Boston Univ,77
+TCU,72,Wofford,63
+Temple,74,DePaul,65
+Texas,71,Long Beach St,65
+Texas A&M,83,S Carolina St,76
+Texas St,64,Prairie View,57
+Towson,90,F Dickinson,87
+Troy,88,Alabama A&M,59
+Tulane,71,Southern Miss,64
+UCF,76,MD E Shore,58
+UCLA,102,Michigan,84
+ULL,91,Louisiana Tech,83
+ULM,88,Jacksonville St,83
+UNC Wilmington,81,St Bonaventure,80
+Utah St,80,Utah Valley,79
+VA Commonwealth,67,Old Dominion,64
+Valparaiso,84,Missouri St,81
+Villanova,74,Notre Dame,66
+W Michigan,74,James Madison,67
+Wagner,68,Morgan St,66
+West Virginia,90,VMI,55
+Wichita St,76,Oklahoma,73
+Wisconsin,93,Marquette,84
+Wyoming,85,Montana,83
+Xavier,77,Utah,69
+FL Gulf Coast,82,Florida Intl,63
+Florida St,83,Florida,78
+Holy Cross,75,Quinnipiac,57
+Kentucky,96,Hofstra,73
+Long Island,74,St John's,73
+Minnesota,77,N Illinois,57
+Nevada,87,Washington,85
+North Carolina,73,Tennessee,71
+Northwestern,83,New Orleans,49
+Oregon,65,Alabama,56
+Sacred Heart,85,Lafayette,61
+San Diego,77,Santa Barbara,68
+Savannah St,93,Oregon St,90
+St Joseph's PA,72,Drexel,71
+St Louis,45,Chicago St,43
+St Mary's CA,84,UC Irvine,53
+USC,93,Pepperdine,67
+Virginia Tech,80,Mississippi,75
+WKU,77,Indiana St,59
+Yale,81,Delaware,63
+Boston College,72,Auburn,71
+Canisius,77,Albany NY,64
+George Mason,97,Longwood,60
+Lehigh,100,St Francis PA,67
+Maryland,92,Jacksonville St,66
+Penn,58,UCF,49
+San Diego St,73,Alabama St,41
+SE Louisiana,108,Florida A&M,69
+Seattle,63,Ark Pine Bluff,58
+Seton Hall,67,South Carolina,64
+South Florida,79,Bethune-Cookman,73
+UTRGV,98,North Florida,84
+Cincinnati,96,TX Southern,58
+Clemson,93,S Carolina St,65
+Denver,64,South Alabama,51
+E Washington,88,Morehead St,86
+Ga Southern,72,FL Gulf Coast,59
+Hartford,70,Dartmouth,66
+Hofstra,96,Stony Brook,58
+Louisiana Tech,65,Prairie View,52
+LSU,70,NC Central,66
+Massachusetts,65,NC A&T,59
+Michigan,97,Cent Arkansas,53
+Monmouth NJ,82,Memphis,79
+New Mexico St,79,UTEP,68
+Oregon,81,Montana,67
+Santa Clara,77,UC Riverside,53
+SC Upstate,76,Presbyterian,48
+Tennessee,74,Tennessee Tech,68
+Villanova,78,Temple,57
+VMI,88,Charleston So,83
+Yale,90,Central Conn,59
+Arizona,64,Grand Canyon,54
+Ark Little Rock,72,Northern Arizona,67
+Arkansas St,87,TN Martin,68
+Baylor,89,Southern Univ,59
+ETSU,67,Mississippi St,65
+Evansville,85,Norfolk St,66
+Georgia,73,ULL,60
+Georgia St,94,Alabama A&M,79
+IL Chicago,80,DePaul,75
+Iona,94,NJIT,80
+Jacksonville St,72,Howard,59
+Minnesota,76,Long Island,66
+Missouri St,86,Oral Roberts,76
+MTSU,79,Belmont,66
+N Dakota St,74,UC Davis,70
+Nevada,76,UC Irvine,69
+Northwestern,68,Chicago St,64
+Ohio,71,WI Milwaukee,69
+Oklahoma St,102,Ark Pine Bluff,66
+Rider,81,Kennesaw,79
+Rutgers,82,F Dickinson,69
+S Illinois,70,St Louis,55
+SMU,92,McNeese St,56
+St Joseph's PA,76,Princeton,68
+St Mary's CA,73,WKU,51
+Tennessee St,68,Alabama St,46
+Texas Tech,89,Nicholls St,46
+UCLA,102,Santa Barbara,62
+UNC Wilmington,96,Campbell,75
+UNLV,92,Incarnate Word,64
+Wisconsin,73,WI Green Bay,59
+Youngstown St,101,Niagara,97
+Alabama,78,SC Upstate,61
+Auburn,117,Coastal Car,72
+Col Charleston,53,East Carolina,35
+G Washington,74,UCF,59
+Ga Southern,75,Florida Intl,68
+Mississippi,78,Murray St,73
+NC State,97,Appalachian St,64
+NE Omaha,80,Missouri KC,75
+Pacific,66,NC A&T,57
+Seattle,82,MS Valley St,67
+Tennessee,92,Lipscomb,77
+Wofford,96,Austin Peay,77
+Arkansas St,89,Cent Arkansas,77
+Long Beach St,71,Oregon St,67
+Miami FL,76,FL Atlantic,56
+N Dakota St,87,North Dakota,70
+Portland,85,South Dakota,82
+Portland St,82,San Francisco,78
+Rider,90,Drexel,82
+S Carolina St,69,Furman,67
+Samford,82,South Alabama,79
+UTRGV,95,Lamar,81
+UT Arlington,56,Bradley,51
+Akron,99,Marshall,88
+Albany NY,87,St Francis NY,60
+Appalachian St,73,James Madison,61
+Arizona,67,Texas A&M,63
+Arkansas,77,Texas,74
+Baylor,82,Jackson St,57
+Binghamton,85,Delaware St,66
+Butler,83,Indiana,78
+California,81,Cal Poly SLO,55
+Canisius,94,Buffalo,87
+Cincinnati,119,F Dickinson,68
+Creighton,66,Oral Roberts,65
+CS Sacramento,88,Abilene Chr,86
+Denver,73,N Colorado,70
+DePaul,109,Chicago St,61
+Detroit,85,WKU,79
+E Illinois,67,Missouri,64
+ETSU,78,Morehead St,68
+Evansville,77,Austin Peay,69
+Florida,87,Charlotte,46
+Florida St,83,Manhattan,67
+Fresno St,70,Pacific,68
+Georgetown,78,Syracuse,71
+Georgia,84,Charleston So,64
+Grand Canyon,72,MS Valley St,62
+Houston,83,UTRGV,58
+Illinois,75,BYU,73
+Iowa,69,Northern Iowa,46
+Iowa St,97,Drake,80
+IUPUI,101,Southern Utah,81
+Jacksonville,75,Florida A&M,72
+Kansas,89,Davidson,71
+Kansas St,89,Colorado St,70
+Kentucky,103,North Carolina,100
+La Salle,84,FL Gulf Coast,80
+Lipscomb,81,Tennessee Tech,79
+Louisiana Tech,89,Grambling,55
+Louisville,87,E Kentucky,56
+Loy Marymount,91,Incarnate Word,90
+Loyola-Chicago,81,IL Chicago,75
+LSU,88,TX Southern,80
+Massachusetts,95,Kennesaw,77
+Memphis,99,Oklahoma,94
+Michigan,98,MD E Shore,49
+Missouri St,71,SE Missouri St,66
+Montana,71,UC Riverside,63
+N Illinois,60,Florida Intl,53
+NC Central,74,McNeese St,66
+New Mexico,83,Ark Pine Bluff,43
+New Mexico St,81,Arizona St,70
+Northern Arizona,76,UTEP,74
+Northwestern,67,Dayton,64
+Northwestern LA,68,ULM,64
+Ohio,71,Cleveland St,53
+Oklahoma St,93,Wichita St,76
+Oregon,83,UNLV,63
+Pittsburgh,83,Rice,73
+Providence,76,Wagner,54
+Purdue,86,Notre Dame,81
+S Dakota St,88,Murray St,84
+Sam Houston St,76,North Texas,70
+Seton Hall,81,Delaware,68
+Siena,71,Bucknell,68
+South Carolina,77,South Florida,66
+St Bonaventure,79,Niagara,69
+St Louis,72,Edwardsville,58
+Stony Brook,75,St Francis PA,63
+Temple,68,NJIT,63
+Texas Tech,79,Richmond,72
+TN Martin,97,Bethune-Cookman,72
+Toledo,78,SE Louisiana,56
+Towson,73,UMBC,72
+Tulsa,74,Texas St,59
+UCLA,86,Ohio St,73
+ULL,76,New Orleans,71
+UNC Asheville,59,W Carolina,57
+UNC Wilmington,100,Radford,64
+USC,82,Troy,77
+Utah,92,Prairie View,60
+VA Commonwealth,80,MTSU,77
+Valparaiso,89,Indiana St,71
+Vanderbilt,76,Chattanooga,74
+Vermont,82,E Michigan,74
+Virginia,79,Robert Morris,39
+Virginia Tech,113,Citadel,71
+W Illinois,75,WI Milwaukee,59
+Washington St,69,Santa Clara,68
+Weber St,93,Utah Valley,85
+West Virginia,112,Missouri KC,67
+Winthrop,86,Hampton,79
+Wyoming,97,Cornell,78
+Xavier,69,Wake Forest,65
+Auburn,76,Mercer,74
+Boise St,82,Idaho St,59
+Boston College,82,Sacred Heart,75
+Boston Univ,73,New Hampshire,69
+Clemson,67,Alabama,54
+Connecticut,80,North Florida,59
+Dartmouth,82,Long Island,68
+Elon,68,St Peter's,53
+Gardner Webb,70,Nebraska,62
+Georgia Tech,74,Alcorn St,50
+Gonzaga,86,Tennessee,76
+Illinois St,81,St Joseph's PA,72
+IPFW,93,Stetson,74
+Jacksonville St,67,SC Upstate,66
+MA Lowell,86,Central Conn,69
+N Kentucky,70,E Washington,48
+NC State,99,Fairfield,78
+NE Omaha,102,CS Fullerton,96
+Northeastern,81,Michigan St,73
+Old Dominion,58,Georgia St,46
+Penn St,92,St John's,76
+Portland,53,Oregon St,45
+Quinnipiac,85,Maine,75
+Rhode Island,65,Holy Cross,54
+Rider,60,NC A&T,59
+Rutgers,68,Fordham,53
+San Jose St,77,Bowling Green,76
+South Dakota,80,Montana St,68
+TAM C. Christi,73,UT San Antonio,69
+TCU,96,TX Southern,59
+UAB,75,Southern Univ,74
+UCF,80,Miami OH,73
+Washington,92,W Michigan,86
+Wright St,68,Kent,63
+American Univ,61,MD E Shore,58
+Ball St,61,Longwood,45
+Belmont,62,WI Milwaukee,56
+Bucknell,81,Mt St Mary's,65
+Colorado,75,Air Force,68
+Denver,74,Ark Pine Bluff,52
+DePaul,81,SE Missouri St,78
+Duke,65,Tennessee St,55
+Duquesne,74,Jackson St,62
+Florida St,76,Samford,68
+Furman,68,Tennessee Tech,62
+Indiana,103,Delaware St,56
+Lamar,82,Liberty,65
+Loy Marymount,69,Colorado St,66
+LSU,75,Col Charleston,65
+Marquette,78,St Francis PA,65
+McNeese St,70,Tulane,63
+Mississippi,66,Bradley,49
+Mississippi St,86,Southern Miss,44
+Missouri St,66,Chicago St,46
+Morehead St,111,Cent Arkansas,85
+New Mexico St,85,UC Irvine,79
+Norfolk St,87,E Kentucky,80
+Notre Dame,77,Colgate,62
+Oral Roberts,63,Ark Little Rock,48
+Purdue,82,W Illinois,50
+Rice,100,Northwestern LA,93
+S Dakota St,83,Drake,75
+San Francisco,86,Abilene Chr,51
+Seattle,89,Southern Utah,75
+SMU,72,Stanford,49
+St Bonaventure,92,Army,83
+Syracuse,105,E Michigan,57
+UMBC,120,Citadel,111
+UNC Greensboro,75,UNC Asheville,73
+UNLV,68,S Illinois,61
+USC,79,Cornell,67
+Utah St,76,New Orleans,66
+W Carolina,70,High Point,65
+WI Green Bay,94,Edwardsville,92
+William & Mary,112,Savannah St,85
+Wofford,75,Coastal Car,74
+Wyoming,72,Troy,66
+Arizona,77,New Mexico,46
+Arkansas,71,N Dakota St,55
+BYU,84,Idaho St,58
+Creighton,96,Arizona St,85
+Delaware,59,Marist,56
+FL Gulf Coast,79,Louisiana Tech,78
+Georgia,60,Georgia Tech,43
+Grand Canyon,63,Alcorn St,53
+IL Chicago,75,Northern Arizona,65
+Iowa,84,North Dakota,73
+Iowa St,88,MS Valley St,60
+Lipscomb,99,Austin Peay,85
+Manhattan,61,St Francis NY,54
+Maryland,88,Charlotte,72
+Monmouth NJ,96,Princeton,90
+N Colorado,77,UC Riverside,61
+N Illinois,59,South Florida,48
+Nebraska,81,Southern Univ,76
+North Texas,71,SE Louisiana,65
+Northeastern,61,Oakland,59
+Northwestern,87,IUPUI,65
+Ohio St,77,Youngstown St,40
+Oregon,75,Fresno St,63
+Pacific,69,Kennesaw,56
+Portland St,77,Portland,75
+Providence,79,Maine,59
+Richmond,75,James Madison,55
+SMU,71,Albany NY,53
+St Mary's CA,67,TAM C. Christi,46
+TN Martin,77,Missouri KC,66
+Toledo,74,Loyola-Chicago,70
+ULL,90,Pepperdine,64
+ULM,65,Coppin St,53
+UNC Wilmington,81,East Carolina,71
+Virginia Tech,87,Charleston So,59
+Washington,77,Cal Poly SLO,61
+West Virginia,84,Radford,57
+Winthrop,86,Ga Southern,84
+Xavier,85,E Washington,56
+Akron,88,UC Irvine,80
+Alabama,67,Arkansas St,52
+Appalachian St,88,Hampton,67
+Army,71,Binghamton,60
+Auburn,74,Oklahoma,70
+Baylor,89,TX Southern,63
+Boise St,79,CS Northridge,62
+Butler,81,Vermont,69
+C Michigan,106,Montana St,103
+Chattanooga,73,Jacksonville St,57
+Clemson,62,South Carolina,60
+Davidson,75,Jacksonville,60
+Dayton,68,Vanderbilt,63
+Drexel,91,Quinnipiac,74
+Duke,72,Elon,61
+Fairfield,89,Boston College,83
+Florida,94,Ark Little Rock,71
+Florida Intl,78,North Florida,54
+Fordham,83,Central Conn,60
+Georgia St,64,MTSU,56
+Gonzaga,102,South Dakota,65
+Holy Cross,72,Sacred Heart,67
+Houston,77,Liberty,54
+Illinois,75,Missouri,66
+Indiana St,88,E Illinois,85
+Iona,73,Santa Barbara,57
+Kansas St,67,Gardner Webb,54
+Louisville,73,Kentucky,70
+MA Lowell,77,Boston Univ,75
+Marquette,89,Edwardsville,56
+MD E Shore,71,UTEP,66
+Memphis,95,Incarnate Word,71
+Michigan St,77,Oakland,65
+Nevada,81,Towson,72
+Niagara,75,Long Island,66
+North Carolina,85,Northern Iowa,42
+Oregon St,69,Kent,50
+Penn St,96,Morgan St,55
+Pittsburgh,94,NE Omaha,75
+Purdue,91,Norfolk St,45
+Robert Morris,74,Buffalo,71
+San Jose St,92,Southern Utah,82
+St John's,93,Syracuse,60
+TCU,74,Bradley,42
+Texas,96,UAB,60
+Texas A&M,81,St Francis PA,58
+Texas Tech,91,Longwood,60
+UCF,71,Bethune-Cookman,41
+UCLA,82,W Michigan,68
+UT San Antonio,66,Utah Valley,60
+Villanova,90,American Univ,48
+Virginia,56,California,52
+WKU,67,Ohio,66
+Washington St,74,CS Sacramento,66
+Weber St,77,Utah St,71
+Air Force,77,UC Davis,67
+Akron,76,MD E Shore,60
+Arizona St,98,Cent Arkansas,62
+Arkansas,90,Sam Houston St,56
+Ball St,73,Alabama St,48
+Belmont,88,Cleveland St,61
+Bowling Green,74,Alabama A&M,61
+Brown,82,Maine,77
+BYU,81,CS Bakersfield,71
+Campbell,81,Stetson,72
+Canisius,106,St Bonaventure,101
+Chicago St,74,SE Missouri St,65
+Cincinnati,93,Marshall,91
+Col Charleston,77,W Carolina,59
+Colorado,76,E Washington,68
+CS Fullerton,77,Portland,72
+Dartmouth,75,Bryant,69
+Denver,73,UC Riverside,55
+Drake,101,MS Valley St,69
+Duquesne,70,Colgate,57
+East Carolina,76,Presbyterian,56
+George Mason,75,Prairie View,59
+Georgetown,78,UNC Greensboro,56
+Georgia Tech,76,Wofford,72
+Grand Canyon,89,Ark Pine Bluff,49
+Hartford,63,Navy,54
+Hofstra,84,Siena,64
+Illinois St,71,Hawaii,45
+Indiana,97,Austin Peay,62
+Iowa,89,Delaware St,57
+IPFW,93,Detroit,86
+Kansas,71,UNLV,53
+Kennesaw,68,NC A&T,60
+La Salle,98,Mercer,96
+Long Beach St,56,Colorado St,55
+Manhattan,81,E Kentucky,54
+Massachusetts,78,Rider,67
+Miami FL,72,G Washington,64
+Miami OH,66,Tennessee Tech,58
+Michigan,68,Furman,62
+Mississippi,92,South Alabama,58
+Mississippi St,85,Morehead St,76
+Montana,71,Pepperdine,70
+Mt St Mary's,87,Coppin St,49
+NC State,89,McNeese St,57
+Nevada,67,Santa Barbara,66
+Northwestern,72,Houston Bap,63
+Ohio St,79,UNC Asheville,77
+Oklahoma St,92,TAM C. Christi,70
+Old Dominion,65,Howard,46
+Princeton,72,Bucknell,70
+Rhode Island,73,William & Mary,62
+S Illinois,78,TN Martin,70
+Samford,83,Florida A&M,63
+San Diego,69,North Texas,68
+San Diego St,66,Southern Miss,51
+San Francisco,89,Utah,86
+Santa Clara,87,Valparaiso,80
+South Florida,81,Delaware,53
+St Joseph's PA,92,Lafayette,63
+St Mary's CA,74,S Carolina St,47
+Stanford,86,Idaho,80
+Temple,83,Yale,77
+Tennessee,72,ETSU,68
+Towson,76,Iona,69
+Troy,92,Cornell,84
+Tulsa,74,SF Austin,51
+UC Irvine,62,UTEP,57
+USC,83,Missouri St,75
+UT Arlington,80,Loy Marymount,77
+VA Commonwealth,78,ULM,65
+Wake Forest,110,LSU,76
+Washington,94,Seattle,72
+Wichita St,89,S Dakota St,67
+Winthrop,66,St Louis,55
+Wright St,77,Murray St,62
+Wyoming,72,DePaul,58
+Auburn,70,Connecticut,67
+Boston College,79,Providence,67
+Cornell,78,SE Missouri St,62
+Dayton,92,VMI,56
+Harvard,57,Houston,56
+Holy Cross,68,Marist,59
+Loyola MD,69,MA Lowell,60
+Minnesota,82,Arkansas St,75
+Missouri St,69,DePaul,58
+Oakland,86,Georgia,79
+Oral Roberts,87,Richmond,72
+San Diego St,82,Tulsa,63
+San Francisco,66,Illinois St,58
+Seton Hall,72,Rutgers,61
+SF Austin,67,Southern Miss,64
+St Peter's,65,St Francis NY,58
+Texas St,69,Tulane,66
+Troy,83,Chicago St,65
+UMBC,62,James Madison,61
+USC,94,Wyoming,92
+Utah,66,Hawaii,52
+West Virginia,92,N Kentucky,61
+Wisconsin,90,Florida A&M,37
+Hawaii,60,Southern Miss,46
+Illinois St,68,Tulsa,56
+San Diego St,62,San Francisco,48
+Utah,74,SF Austin,66
+Loy Marymount,70,Morgan St,49
+Kent,63,Texas,58
+Maryland,84,Illinois,59
+Michigan St,75,Minnesota,74
+Northwestern,87,Penn St,77
+Santa Barbara,62,CS Bakersfield,60
+SMU,58,Memphis,54
+Syracuse,80,Cornell,56
+VA Commonwealth,85,Howard,51
+Wisconsin,72,Rutgers,52
+Boise St,83,Utah St,80
+Cincinnati,56,Temple,50
+Clemson,87,UNC Wilmington,73
+Colorado St,91,UNLV,77
+Creighton,89,Seton Hall,75
+Davidson,105,Hartford,75
+Delaware,63,Iona,54
+Denver,77,Oral Roberts,73
+East Carolina,60,South Florida,49
+FL Gulf Coast,75,FL Atlantic,62
+Florida St,88,Wake Forest,72
+Georgia Tech,59,NC A&T,52
+Grand Canyon,71,Cal Poly SLO,64
+Houston,62,Connecticut,46
+Marquette,76,Georgetown,66
+Massachusetts,74,Georgia St,65
+Mercer,80,Kennesaw,76
+Miami FL,78,Columbia,67
+Missouri St,68,Northern Iowa,64
+N Dakota St,80,S Dakota St,69
+NC State,99,Rider,71
+Nebraska,87,Indiana,83
+Nevada,80,San Jose St,55
+New Mexico,78,Fresno St,73
+NJIT,64,Stony Brook,61
+North Carolina,102,Monmouth NJ,74
+Notre Dame,63,St Peter's,55
+Oregon,89,UCLA,87
+Penn,75,Drexel,67
+Pittsburgh,112,Marshall,106
+Princeton,77,Hampton,49
+Purdue,89,Iowa,67
+SE Louisiana,64,Southern Univ,53
+UC Davis,72,Seattle,65
+UCF,85,Tulane,72
+ULM,81,Grambling,45
+UNC Greensboro,95,Citadel,87
+USC,70,Oregon St,63
+Utah Valley,73,UC Riverside,64
+Valparaiso,80,Chicago St,61
+Villanova,68,DePaul,65
+Virginia,61,Louisville,53
+Virginia Tech,87,UMBC,70
+WKU,97,Austin Peay,92
+Wichita St,80,Indiana St,72
+Wyoming,84,Air Force,72
+Xavier,82,Providence,56
+Alabama,83,Stetson,60
+Ball St,73,North Florida,68
+Bradley,60,S Illinois,51
+Brown,66,Quinnipiac,61
+BYU,89,Santa Clara,59
+CS Northridge,82,Morgan St,61
+Drake,102,Loyola-Chicago,98
+E Michigan,98,Long Beach St,72
+ETSU,92,Savannah St,71
+F Dickinson,77,St Francis PA,65
+Florida,81,Arkansas,72
+Georgia,96,Auburn,84
+Gonzaga,92,Pepperdine,62
+Hawaii,77,Delaware St,66
+High Point,71,Gardner Webb,64
+Houston Bap,79,Sam Houston St,65
+Illinois St,62,Evansville,50
+Jacksonville St,90,TN Martin,72
+Kentucky,99,Mississippi,76
+Liberty,77,Presbyterian,61
+Lipscomb,81,Missouri,76
+Longwood,79,Campbell,77
+MA Lowell,98,Cornell,96
+Mississippi St,77,Missouri KC,54
+Montana,74,Idaho St,62
+Mt St Mary's,67,Long Island,65
+N Colorado,69,CS Sacramento,53
+N Kentucky,81,Detroit,70
+New Orleans,75,Abilene Chr,66
+Oakland,81,Wright St,62
+Portland,80,Pacific,76
+Portland St,99,North Dakota,62
+Radford,80,UNC Asheville,77
+Robert Morris,78,Sacred Heart,67
+San Francisco,80,San Diego,74
+South Dakota,86,NE Omaha,69
+St Francis NY,80,Bryant,77
+St John's,76,Butler,73
+St Mary's CA,72,Loy Marymount,60
+Tennessee,73,Texas A&M,63
+Vanderbilt,96,LSU,89
+Vermont,76,Siena,60
+W Illinois,93,IPFW,91
+W Michigan,80,Alabama A&M,50
+Wagner,71,Central Conn,46
+Weber St,87,Montana St,75
+WI Green Bay,76,Cleveland St,75
+William & Mary,65,Old Dominion,54
+Winthrop,84,Charleston So,68
+Youngstown St,88,WI Milwaukee,87
+Albany NY,70,Columbia,67
+Arizona,67,California,62
+Arizona St,98,Stanford,93
+Baylor,76,Oklahoma,50
+Boston Univ,61,Holy Cross,55
+Bowling Green,86,Norfolk St,77
+Bucknell,59,Navy,55
+Buffalo,79,Maine,60
+C Michigan,90,Chicago St,82
+Colgate,85,Lafayette,75
+Dayton,66,La Salle,55
+Duquesne,75,Fordham,72
+E Washington,69,Idaho,62
+Harvard,67,Howard,46
+Iowa St,63,Texas Tech,56
+Kansas,86,TCU,80
+Kansas St,65,Texas,62
+Lehigh,66,Army,59
+Loyola MD,68,American Univ,66
+Memphis,70,South Carolina,54
+Michigan St,61,Northwestern,52
+New Mexico St,79,UTEP,70
+Oregon,84,USC,61
+Penn,74,Fairfield,68
+Rhode Island,90,St Louis,56
+Seattle,80,Santa Barbara,76
+St Bonaventure,89,Massachusetts,77
+St Joseph's PA,68,G Washington,63
+UCLA,76,Oregon St,63
+VA Commonwealth,73,George Mason,64
+Valparaiso,70,IL Chicago,59
+West Virginia,92,Oklahoma St,75
+Air Force,78,Utah St,73
+Ark Little Rock,79,ULM,75
+Arkansas St,74,ULL,71
+Belmont,82,Austin Peay,77
+Boise St,74,Colorado St,73
+BYU,81,Loy Marymount,76
+Campbell,69,Presbyterian,58
+Cent Arkansas,67,Sam Houston St,65
+Charlotte,101,North Texas,76
+Chattanooga,64,W Carolina,48
+Clemson,73,Wake Forest,68
+Cleveland St,62,WI Milwaukee,53
+Col Charleston,66,Elon,54
+Dartmouth,63,New Hampshire,62
+ETSU,102,VMI,75
+F Dickinson,81,Robert Morris,77
+Florida St,60,Virginia,58
+Fresno St,77,Nevada,76
+Furman,83,Citadel,68
+Ga Southern,88,Georgia St,65
+Georgia Tech,75,North Carolina,63
+Gonzaga,81,Pacific,61
+Hofstra,58,Delaware,56
+Houston,70,South Florida,56
+Iona,93,Marist,80
+IPFW,102,Oral Roberts,91
+IUPUI,89,W Illinois,71
+Jacksonville,89,S Carolina St,85
+Jacksonville St,57,E Illinois,56
+James Madison,78,Drexel,67
+Liberty,81,Charleston So,70
+Long Island,74,Bryant,63
+Longwood,60,High Point,55
+Louisville,77,Indiana,62
+Marshall,94,Florida Intl,70
+McNeese St,79,Northwestern LA,72
+Miami FL,81,NC State,63
+Missouri St,81,Indiana St,75
+Montana St,80,Idaho St,63
+Mt St Mary's,57,Wagner,56
+Murray St,92,Tennessee St,83
+N Colorado,73,Portland St,59
+N Dakota St,82,NE Omaha,70
+New Orleans,73,TAM C. Christi,72
+Nicholls St,94,Incarnate Word,84
+North Dakota,90,CS Sacramento,82
+Northeastern,84,William & Mary,64
+Notre Dame,78,Pittsburgh,77
+Oakland,76,N Kentucky,65
+Old Dominion,62,Rice,56
+Portland,73,Pepperdine,60
+Princeton,81,Cal Poly SLO,52
+Radford,82,Winthrop,80
+Richmond,82,Davidson,80
+Rider,93,Monmouth NJ,90
+S Dakota St,73,South Dakota,72
+Samford,73,UNC Greensboro,62
+Santa Clara,72,San Francisco,58
+SE Louisiana,75,Abilene Chr,53
+SE Missouri St,81,E Kentucky,48
+SF Austin,61,Houston Bap,51
+SMU,75,East Carolina,44
+Southern Utah,93,Northern Arizona,80
+St Francis NY,86,Central Conn,77
+St Francis PA,87,Sacred Heart,67
+St Mary's CA,72,San Diego,60
+Stony Brook,92,Brown,89
+Tennessee Tech,72,Edwardsville,66
+Texas St,67,Appalachian St,58
+TN Martin,81,Morehead St,77
+Tulsa,61,Connecticut,59
+UC Davis,83,Utah Valley,69
+UC Riverside,76,Grand Canyon,56
+UCF,77,Temple,53
+UNC Asheville,90,Gardner Webb,85
+UNC Wilmington,76,Towson,67
+UNLV,81,Wyoming,75
+UT Arlington,90,Coastal Car,69
+Villanova,80,Creighton,70
+Virginia Tech,89,Duke,75
+WKU,69,FL Atlantic,54
+Weber St,84,Montana,81
+WI Green Bay,90,Youngstown St,77
+Wofford,88,Mercer,71
+Wright St,85,Detroit,72
+Xavier,81,Georgetown,76
+Arizona,91,Stanford,52
+Boston College,96,Syracuse,81
+Butler,78,Providence,61
+California,81,Arizona St,65
+Cincinnati,92,Tulane,56
+Evansville,70,Northern Iowa,58
+Illinois,75,Ohio St,70
+Illinois St,81,Loyola-Chicago,59
+Iowa,86,Michigan,83
+Louisiana Tech,79,Southern Miss,55
+Minnesota,91,Purdue,82
+MTSU,60,UAB,49
+Nebraska,67,Maryland,65
+New Mexico,68,San Diego St,62
+Penn St,60,Rutgers,47
+S Illinois,83,Drake,69
+Seton Hall,69,Marquette,66
+St John's,79,DePaul,73
+UT San Antonio,67,UTEP,55
+Utah,76,Colorado,60
+Washington St,79,Washington,74
+Wichita St,100,Bradley,66
+Alabama St,73,Grambling,69
+Albany NY,69,Cornell,59
+American Univ,67,Colgate,64
+Ark Pine Bluff,105,MS Valley St,91
+Arkansas St,76,ULM,45
+Boston Univ,75,Lehigh,61
+Bucknell,84,Army,76
+Canisius,82,Siena,79
+Citadel,104,Wofford,103
+Coastal Car,60,Texas St,53
+Col Charleston,65,Delaware,56
+Columbia,98,Maine,73
+Fairfield,93,Iona,87
+Furman,71,Mercer,69
+Holy Cross,51,Navy,50
+Jackson St,63,Alabama A&M,51
+James Madison,64,Towson,44
+Kennesaw,76,Tennessee St,73
+Lafayette,78,Loyola MD,69
+Lamar,78,Cent Arkansas,75
+Marist,90,Manhattan,88
+Marshall,89,FL Atlantic,72
+McNeese St,69,SF Austin,54
+Nicholls St,68,TAM C. Christi,64
+Northeastern,75,Drexel,70
+Old Dominion,55,North Texas,48
+Quinnipiac,81,Niagara,78
+Rice,89,Charlotte,70
+Samford,70,W Carolina,65
+SC Upstate,84,Missouri KC,75
+SE Louisiana,74,Incarnate Word,63
+South Alabama,76,Troy,75
+Southern Univ,59,Prairie View,57
+St Peter's,71,Monmouth NJ,61
+TX Southern,67,Alcorn St,65
+ULL,69,Ark Little Rock,52
+UNC Greensboro,73,Chattanooga,68
+UNC Wilmington,79,Elon,63
+UT Arlington,84,Appalachian St,69
+Vermont,82,Harvard,71
+WKU,69,Florida Intl,66
+William & Mary,95,Hofstra,93
+Yale,88,Hartford,72
+Akron,89,Bowling Green,84
+Alabama,68,Mississippi St,58
+Arkansas,82,Tennessee,78
+CS Bakersfield,64,Dartmouth,60
+Dayton,90,St Bonaventure,74
+E Michigan,85,C Michigan,63
+Florida,70,Mississippi,63
+Kansas,90,Kansas St,88
+Kent,100,Ball St,90
+Kentucky,100,Texas A&M,58
+Miami OH,69,N Illinois,67
+North Carolina,89,Clemson,86
+Ohio,89,W Michigan,58
+Rhode Island,88,St Joseph's PA,58
+TCU,60,Oklahoma,57
+Texas Tech,77,West Virginia,76
+Toledo,86,Buffalo,54
+UCF,48,East Carolina,45
+UNC Asheville,70,Liberty,57
+Wake Forest,79,Boston College,66
+Wisconsin,75,Indiana,68
+Alcorn St,66,Prairie View,55
+Baylor,65,Iowa St,63
+Boise St,77,UNLV,59
+Bradley,74,Evansville,63
+Butler,66,Villanova,58
+Campbell,92,Charleston So,82
+Canisius,83,Quinnipiac,77
+Colorado St,76,San Jose St,71
+Coppin St,75,S Carolina St,59
+Creighton,85,St John's,72
+CS Northridge,82,UC Riverside,76
+Duke,110,Georgia Tech,57
+Florida A&M,78,Howard,66
+Fresno St,85,Wyoming,70
+Gardner Webb,70,Radford,59
+George Mason,86,Massachusetts,81
+Grambling,69,Alabama A&M,67
+Hampton,68,NC A&T,53
+Houston,64,Tulsa,61
+Illinois St,74,Missouri St,71
+IPFW,80,NE Omaha,78
+Jackson St,63,Alabama St,60
+La Salle,75,St Louis,54
+Longwood,79,Presbyterian,76
+Loyola-Chicago,77,Northern Iowa,66
+LSU,88,Missouri,77
+Michigan,72,Penn St,69
+Michigan St,93,Rutgers,65
+Morgan St,58,Norfolk St,56
+NC State,104,Virginia Tech,78
+Nevada,72,San Diego St,69
+Niagara,71,Siena,66
+NJIT,75,Brown,73
+Notre Dame,77,Louisville,70
+Oregon,83,Washington,61
+Pittsburgh,88,Virginia,76
+Providence,76,Georgetown,70
+Richmond,80,Fordham,72
+S Illinois,80,Indiana St,74
+Savannah St,104,Bethune-Cookman,91
+SMU,79,Temple,65
+South Carolina,67,Georgia,61
+South Dakota,75,Denver,69
+Syracuse,70,Miami FL,55
+Texas,82,Oklahoma St,79
+TX Southern,82,Southern Univ,74
+UC Davis,73,Santa Barbara,47
+UC Irvine,82,Long Beach St,67
+Utah St,79,New Mexico,75
+VA Commonwealth,94,Duquesne,87
+Vanderbilt,80,Auburn,61
+W Illinois,82,S Dakota St,74
+Washington St,75,Oregon St,62
+Wichita St,90,Drake,65
+Winthrop,80,High Point,74
+Arizona,66,Utah,56
+Arizona St,78,Colorado,77
+Belmont,83,TN Martin,67
+Boston Univ,71,Navy,53
+Bryant,72,Mt St Mary's,71
+Bucknell,69,American Univ,60
+Cent Arkansas,81,Abilene Chr,76
+Chattanooga,77,Wofford,66
+Col Charleston,62,Towson,57
+CS Fullerton,67,Hawaii,64
+E Kentucky,78,Edwardsville,61
+E Washington,82,Montana St,64
+ETSU,115,Citadel,71
+F Dickinson,70,Wagner,69
+Fairfield,97,Manhattan,79
+Furman,83,Samford,73
+G Washington,73,Davidson,69
+Gonzaga,95,San Francisco,80
+Holy Cross,67,Colgate,61
+Houston Bap,81,SE Louisiana,74
+Incarnate Word,84,Northwestern LA,80
+James Madison,62,Hofstra,54
+Lafayette,79,Army,74
+Long Island,65,Robert Morris,54
+Louisiana Tech,64,UTEP,44
+Loyola MD,84,Lehigh,83
+MA Lowell,85,Albany NY,79
+Marshall,90,Old Dominion,86
+Memphis,70,Connecticut,61
+Mercer,68,VMI,50
+Minnesota,70,Northwestern,66
+Montana,70,Idaho,57
+Morehead St,85,E Illinois,75
+MTSU,80,Rice,77
+Murray St,76,Jacksonville St,63
+N Dakota St,93,IUPUI,89
+N Kentucky,83,Youngstown St,70
+Nebraska,93,Iowa,90
+New Mexico St,77,Missouri KC,64
+New Orleans,66,Lamar,62
+North Dakota,68,Northern Arizona,63
+Northeastern,90,Delaware,54
+Pacific,56,San Diego,53
+Pepperdine,71,Loy Marymount,70
+Purdue,76,Ohio St,75
+Sacred Heart,64,Central Conn,62
+Sam Houston St,74,McNeese St,67
+Santa Clara,70,Portland,42
+Southern Miss,77,UT San Antonio,59
+Southern Utah,78,N Colorado,76
+St Francis PA,81,St Francis NY,56
+St Mary's CA,81,BYU,68
+Stony Brook,59,New Hampshire,56
+Tennessee St,65,SE Missouri St,62
+Tennessee Tech,76,Austin Peay,67
+UTRGV,83,Chicago St,64
+UAB,54,North Texas,52
+UCLA,81,California,71
+UMBC,85,Binghamton,71
+UNC Wilmington,90,Drexel,72
+USC,72,Stanford,56
+Vermont,90,Maine,77
+WKU,82,Charlotte,80
+William & Mary,88,Elon,85
+Wright St,55,Cleveland St,51
+Akron,66,W Michigan,59
+Dayton,67,Rhode Island,64
+IL Chicago,78,Detroit,64
+Monmouth NJ,92,Iona,74
+Oakland,78,Valparaiso,66
+Ohio,85,Kent,67
+Rider,73,Marist,62
+WI Green Bay,80,WI Milwaukee,74
+Abilene Chr,69,SF Austin,60
+Alabama,59,Vanderbilt,56
+Alabama A&M,79,MS Valley St,76
+Arizona,82,Colorado,73
+Ark Little Rock,76,Appalachian St,68
+Ark Pine Bluff,71,Alabama St,63
+Baylor,61,Oklahoma St,57
+Belmont,87,SE Missouri St,75
+Boise St,78,San Diego St,66
+Bowling Green,76,Ball St,71
+Buffalo,77,E Michigan,68
+Butler,85,Georgetown,76
+BYU,91,Pacific,62
+Chattanooga,80,Furman,64
+Cincinnati,67,Houston,58
+Citadel,79,VMI,74
+Coastal Car,80,Arkansas St,65
+Col Charleston,77,Hofstra,71
+Colorado St,85,Air Force,58
+Columbia,66,Howard,48
+Creighton,78,Providence,64
+CS Bakersfield,78,Seattle,71
+CS Northridge,70,CS Fullerton,65
+Delaware St,55,NC A&T,53
+Duke,93,Boston College,82
+E Illinois,74,E Kentucky,60
+Elon,72,Towson,61
+ETSU,67,Mercer,58
+F Dickinson,87,Bryant,84
+FL Atlantic,73,Florida Intl,64
+FL Gulf Coast,89,Stetson,88
+Florida,83,Tennessee,70
+Florida A&M,54,Coppin St,53
+Florida St,93,Virginia Tech,78
+Ga Southern,86,Troy,82
+Gardner Webb,79,Charleston So,75
+Georgia,71,Missouri,66
+Georgia St,78,South Alabama,77
+Grand Canyon,82,Utah Valley,72
+Harvard,74,Dartmouth,58
+Houston Bap,60,McNeese St,49
+Idaho,83,Montana St,81
+Illinois St,77,Indiana St,58
+Indiana,96,Illinois,80
+Iowa St,79,Texas,70
+IPFW,87,Denver,83
+Jacksonville St,71,Austin Peay,68
+Kansas,85,Texas Tech,68
+Kansas St,75,Oklahoma,64
+Kentucky,97,Arkansas,71
+La Salle,88,Duquesne,81
+Lamar,74,SE Louisiana,54
+Liberty,61,Campbell,54
+Lipscomb,82,Kennesaw,79
+Long Beach St,70,UC Riverside,64
+Long Island,83,St Francis PA,70
+Louisville,65,Georgia Tech,50
+Loy Marymount,66,Santa Clara,56
+Loyola-Chicago,78,Bradley,62
+Marshall,110,Charlotte,93
+Maryland,77,Michigan,70
+Mississippi,88,Auburn,85
+Mississippi St,95,LSU,78
+Missouri KC,83,UTRGV,79
+Montana,65,E Washington,59
+Morehead St,73,Edwardsville,65
+Morgan St,69,Bethune-Cookman,63
+Mt St Mary's,77,Central Conn,68
+MTSU,79,North Texas,68
+N Colorado,83,Northern Arizona,79
+N Illinois,87,C Michigan,83
+N Kentucky,83,Cleveland St,75
+NE Omaha,101,S Dakota St,93
+Nevada,105,New Mexico,104
+New Mexico St,78,Chicago St,62
+New Orleans,87,Incarnate Word,72
+North Dakota,95,Southern Utah,65
+North Florida,80,Jacksonville,64
+Northeastern,64,James Madison,54
+Notre Dame,75,Clemson,70
+Old Dominion,79,WKU,67
+Oregon,85,Washington St,66
+Penn St,72,Michigan St,63
+Portland St,83,CS Sacramento,76
+Princeton,61,Penn,52
+Quinnipiac,81,Manhattan,72
+Radford,76,Presbyterian,63
+Robert Morris,62,St Francis NY,58
+S Illinois,75,Missouri St,67
+Sam Houston St,74,Nicholls St,61
+San Diego,76,Pepperdine,68
+San Jose St,69,Fresno St,62
+SC Upstate,75,NJIT,65
+Seton Hall,87,DePaul,56
+Siena,56,St Peter's,54
+SMU,84,South Florida,65
+South Carolina,79,Texas A&M,68
+South Dakota,85,IUPUI,74
+Southern Miss,73,UTEP,65
+Southern Univ,87,Grambling,79
+St Bonaventure,82,George Mason,72
+St Joseph's PA,70,Fordham,55
+St Mary's CA,63,San Francisco,52
+Syracuse,77,Pittsburgh,66
+TAM C. Christi,99,Northwestern LA,82
+Temple,81,East Carolina,62
+Tennessee St,76,TN Martin,65
+Tennessee Tech,71,Murray St,67
+Texas St,81,UT Arlington,73
+Toledo,91,Miami OH,76
+TX Southern,87,Prairie View,82
+UAB,88,Rice,81
+UC Davis,68,Cal Poly SLO,64
+UC Irvine,84,Hawaii,56
+ULL,69,ULM,60
+UNC Asheville,88,High Point,58
+UNC Greensboro,76,W Carolina,57
+UNC Wilmington,91,Delaware,81
+UT San Antonio,69,Louisiana Tech,68
+Utah,88,Arizona St,82
+Utah St,79,UNLV,63
+VA Commonwealth,81,Massachusetts,64
+Villanova,93,Marquette,81
+W Illinois,86,Oral Roberts,71
+Wagner,75,Sacred Heart,64
+Washington,87,Oregon St,61
+West Virginia,82,TCU,70
+Winthrop,83,Longwood,65
+Xavier,97,St John's,82
+Youngstown St,80,Wright St,75
+Army,66,Loyola MD,57
+Boston Univ,91,Lafayette,75
+Bucknell,68,Holy Cross,49
+California,74,USC,73
+Connecticut,64,UCF,49
+Davidson,77,St Louis,66
+Drake,88,Evansville,76
+Iona,98,Canisius,75
+Iowa,68,Rutgers,62
+Lehigh,79,American Univ,73
+MA Lowell,79,Binghamton,75
+Memphis,80,Tulane,59
+Minnesota,78,Ohio St,68
+Monmouth NJ,71,Marist,64
+Navy,67,Colgate,55
+North Carolina,107,NC State,56
+Northwestern,74,Nebraska,66
+Oakland,58,IL Chicago,57
+Purdue,66,Wisconsin,55
+Richmond,77,G Washington,70
+Rider,89,Niagara,78
+Samford,91,Wofford,89
+Stony Brook,72,Albany NY,70
+UCLA,89,Stanford,75
+UMBC,75,Maine,64
+Valparaiso,81,Detroit,74
+Vermont,85,Hartford,54
+Virginia,79,Wake Forest,62
+Wichita St,80,Northern Iowa,66
+Appalachian St,70,Arkansas St,57
+Ark Pine Bluff,81,Alabama A&M,65
+Coastal Car,66,Ark Little Rock,63
+Coppin St,76,Bethune-Cookman,73
+Delaware St,69,NC Central,68
+Ga Southern,84,South Alabama,79
+Georgetown,83,St John's,55
+Grambling,67,Alcorn St,62
+Hampton,84,Savannah St,80
+Jackson St,65,Southern Univ,61
+MD E Shore,99,NC A&T,88
+MS Valley St,73,Alabama St,70
+St Peter's,58,Quinnipiac,54
+Troy,80,Georgia St,77
+Akron,89,C Michigan,85
+Auburn,77,Missouri,72
+Ball St,85,Miami OH,74
+Canisius,86,Fairfield,72
+DePaul,64,Providence,63
+E Michigan,81,Bowling Green,53
+Florida,80,Alabama,67
+Florida St,88,Duke,72
+George Mason,75,St Joseph's PA,67
+Kansas,81,Oklahoma,70
+Kentucky,87,Vanderbilt,81
+Manhattan,78,Niagara,69
+Maryland,75,Indiana,72
+Mississippi St,84,Arkansas,78
+Morgan St,62,Florida A&M,59
+N Illinois,74,Kent,70
+Ohio,74,Buffalo,72
+San Diego St,76,San Jose St,61
+SE Missouri St,83,Tennessee Tech,78
+Texas Tech,66,Kansas St,65
+UNLV,71,New Mexico,66
+Villanova,79,Xavier,54
+Virginia Tech,83,Syracuse,73
+W Michigan,90,Toledo,74
+West Virginia,89,Baylor,68
+WI Green Bay,80,N Kentucky,71
+Air Force,81,Fresno St,72
+Alcorn St,63,Jackson St,50
+Boston College,74,NC State,66
+Boston Univ,76,American Univ,66
+Bradley,72,Northern Iowa,61
+Campbell,76,Gardner Webb,60
+Charleston So,70,Radford,64
+Chattanooga,83,Citadel,73
+Colgate,79,Army,76
+Connecticut,73,Temple,59
+Creighton,75,Butler,64
+CS Northridge,89,Long Beach St,82
+Denver,84,W Illinois,70
+Drake,87,Indiana St,70
+Duquesne,73,St Louis,66
+Fordham,60,Davidson,54
+Georgia,69,Mississippi,47
+Holy Cross,71,Lafayette,54
+Houston,74,East Carolina,58
+Illinois,85,Michigan,69
+Illinois St,60,S Illinois,53
+Iowa St,96,Oklahoma St,86
+Lamar,87,Incarnate Word,72
+Lehigh,82,Bucknell,71
+Liberty,62,High Point,58
+Louisville,85,Pittsburgh,80
+Maine,73,MA Lowell,71
+Marquette,89,Seton Hall,86
+Massachusetts,67,Dayton,55
+Mercer,68,Samford,65
+Michigan St,65,Minnesota,47
+Missouri St,55,Evansville,51
+N Dakota St,70,South Dakota,69
+Navy,75,Loyola MD,62
+NC Central,69,MD E Shore,52
+NE Omaha,79,IUPUI,71
+New Hampshire,75,Albany NY,67
+Norfolk St,80,Savannah St,76
+North Carolina,93,Wake Forest,87
+Richmond,78,St Bonaventure,61
+SF Austin,79,TAM C. Christi,46
+South Carolina,70,Tennessee,60
+TCU,64,Texas,61
+Texas A&M,92,LSU,62
+Tulane,82,South Florida,67
+Tulsa,81,Memphis,71
+UMBC,84,Hartford,68
+UNC Asheville,89,Longwood,68
+VA Commonwealth,85,G Washington,55
+Vermont,67,Binghamton,50
+Wichita St,87,Loyola-Chicago,75
+Winthrop,75,Presbyterian,52
+Wyoming,95,Utah St,87
+Arizona,91,Arizona St,75
+Austin Peay,83,Edwardsville,81
+Belmont,84,Morehead St,78
+Bryant,77,Wagner,66
+BYU,85,San Francisco,75
+California,69,Washington,59
+Cent Arkansas,89,Houston Bap,78
+Chicago St,70,Utah Valley,61
+Cincinnati,66,SMU,64
+Col Charleston,53,James Madison,51
+CS Bakersfield,88,UTRGV,81
+CS Fullerton,87,Cal Poly SLO,74
+CS Sacramento,88,Southern Utah,83
+E Washington,92,Idaho St,85
+Elon,96,Hofstra,80
+FL Gulf Coast,78,Kennesaw,75
+Georgia Tech,75,Clemson,63
+Gonzaga,93,Loy Marymount,55
+IL Chicago,59,Cleveland St,54
+Iowa,83,Purdue,78
+Jacksonville,82,NJIT,81
+La Salle,87,Rhode Island,75
+Lipscomb,94,Stetson,68
+Long Island,60,Central Conn,49
+Louisiana Tech,79,Charlotte,73
+Missouri KC,84,Seattle,68
+Montana,89,N Colorado,68
+Mt St Mary's,77,F Dickinson,70
+MTSU,69,Marshall,57
+Murray St,83,E Illinois,72
+New Mexico St,81,Grand Canyon,69
+North Dakota,90,Montana St,85
+North Florida,73,SC Upstate,65
+Northeastern,92,Drexel,75
+Northwestern,69,Rutgers,60
+Northwestern LA,86,Nicholls St,81
+Notre Dame,67,Miami FL,62
+Old Dominion,54,Southern Miss,50
+Oral Roberts,94,S Dakota St,88
+Pacific,79,Pepperdine,74
+Sacred Heart,87,St Francis NY,75
+Sam Houston St,70,New Orleans,68
+Santa Clara,59,San Diego,57
+SE Louisiana,56,Abilene Chr,50
+Siena,81,Quinnipiac,74
+St Francis PA,77,Robert Morris,57
+St Mary's CA,74,Portland,33
+Stanford,84,Washington St,54
+Tennessee St,63,E Kentucky,49
+Towson,83,Delaware,56
+UAB,72,WKU,54
+UC Irvine,66,Santa Barbara,62
+UC Riverside,61,UC Davis,55
+UCLA,104,Colorado,89
+UNC Greensboro,83,ETSU,79
+UNC Wilmington,101,William & Mary,77
+UT San Antonio,68,FL Atlantic,63
+Utah,86,USC,64
+UTEP,88,Florida Intl,87
+Valparaiso,78,Youngstown St,62
+VMI,79,W Carolina,78
+Weber St,91,Idaho,66
+WI Green Bay,78,Wright St,61
+WI Milwaukee,68,N Kentucky,58
+Wisconsin,89,Ohio St,66
+C Michigan,96,Toledo,88
+Detroit,93,Oakland,88
+Manhattan,76,Rider,73
+Princeton,97,Brown,66
+Vermont,81,UMBC,72
+Yale,68,Penn,60
+Abilene Chr,67,Lamar,64
+Akron,74,Miami OH,70
+Alabama,81,LSU,66
+Alabama St,57,Alabama A&M,55
+Arkansas,92,Missouri,73
+Arkansas St,77,Ark Little Rock,72
+Army,53,American Univ,49
+Austin Peay,92,E Illinois,84
+Ball St,92,Buffalo,77
+Baylor,77,Kansas St,68
+Belmont,72,E Kentucky,59
+Brown,82,Penn,70
+Bucknell,83,Colgate,69
+Butler,83,Xavier,78
+California,58,Washington St,54
+Canisius,91,Marist,58
+Charlotte,82,Southern Miss,66
+Chattanooga,70,Mercer,68
+Coastal Car,85,Appalachian St,73
+Col Charleston,77,William & Mary,67
+Columbia,79,Cornell,75
+Coppin St,75,NC A&T,73
+CS Sacramento,74,Northern Arizona,62
+Davidson,69,VA Commonwealth,63
+Dayton,76,Duquesne,57
+Denver,79,N Dakota St,55
+Drexel,76,Delaware,60
+E Michigan,53,Ohio,49
+ETSU,75,W Carolina,52
+F Dickinson,59,Central Conn,47
+FL Gulf Coast,84,Lipscomb,80
+Florida,80,Georgia,76
+Fresno St,89,Boise St,80
+Ga Southern,81,ULL,76
+Gardner Webb,85,Longwood,79
+Georgetown,72,Connecticut,69
+Georgia St,73,ULM,65
+Gonzaga,79,St Mary's CA,56
+Grand Canyon,79,UTRGV,66
+Hampton,85,Delaware St,77
+Hawaii,114,Long Beach St,107
+High Point,77,Presbyterian,44
+Howard,74,MD E Shore,66
+Idaho,77,Idaho St,62
+IL Chicago,92,Youngstown St,89
+Illinois St,76,Wichita St,62
+Incarnate Word,82,Houston Bap,77
+Indiana St,81,Bradley,71
+IUPUI,91,Oral Roberts,85
+Jacksonville St,74,Tennessee Tech,59
+James Madison,60,Elon,59
+Kansas,87,Oklahoma St,80
+Kennesaw,84,Stetson,65
+Kentucky,92,Auburn,72
+Lehigh,68,Holy Cross,51
+Liberty,71,Radford,64
+Long Island,63,St Francis NY,58
+Louisiana Tech,75,Old Dominion,63
+Louisville,78,Duke,69
+Loy Marymount,79,Portland,78
+MA Lowell,71,Hartford,55
+Marquette,83,DePaul,58
+Maryland,62,Illinois,56
+Memphis,62,South Florida,56
+Miami FL,72,Pittsburgh,46
+Michigan,91,Nebraska,85
+Mississippi St,67,Texas A&M,59
+Monmouth NJ,90,Niagara,83
+Montana,76,North Dakota,70
+Montana St,68,N Colorado,53
+Morehead St,87,Tennessee St,85
+MS Valley St,84,Alcorn St,77
+Mt St Mary's,78,St Francis PA,72
+MTSU,91,WKU,76
+Murray St,67,Edwardsville,59
+N Illinois,69,Bowling Green,52
+Navy,88,Lafayette,51
+NC Central,72,Norfolk St,57
+NE Omaha,86,W Illinois,72
+Nevada,89,Wyoming,74
+New Hampshire,73,Binghamton,66
+New Mexico,84,Colorado St,71
+New Mexico St,63,CS Bakersfield,58
+NJIT,84,North Florida,78
+North Carolina,96,Florida St,83
+Notre Dame,76,Virginia Tech,71
+Oklahoma,84,Texas Tech,75
+Oregon,85,Oregon St,43
+Penn St,52,Minnesota,50
+Portland St,88,Southern Utah,77
+Prairie View,63,Jackson St,56
+Princeton,66,Yale,58
+Providence,65,Seton Hall,61
+Quinnipiac,97,Iona,91
+Rice,101,North Texas,79
+Richmond,70,St Joseph's PA,66
+S Carolina St,78,Bethune-Cookman,74
+S Illinois,73,Evansville,61
+Sacred Heart,112,Bryant,110
+Sam Houston St,77,Northwestern LA,68
+Samford,98,Citadel,90
+San Diego,88,BYU,75
+San Diego St,74,Utah St,55
+San Francisco,72,Pacific,51
+San Jose St,89,Air Force,85
+Santa Barbara,58,Cal Poly SLO,53
+Santa Clara,75,Pepperdine,61
+Savannah St,93,Florida A&M,88
+SC Upstate,73,Jacksonville,66
+Seattle,65,Chicago St,50
+SF Austin,80,Nicholls St,60
+South Alabama,72,Texas St,67
+South Carolina,67,Mississippi,56
+South Dakota,66,IPFW,63
+Southern Univ,76,Ark Pine Bluff,75
+St Bonaventure,73,Fordham,53
+St Louis,63,George Mason,56
+Stanford,76,Washington,69
+Stony Brook,74,Maine,54
+Syracuse,76,Boston College,53
+TAM C. Christi,88,Cent Arkansas,81
+TCU,84,Iowa St,77
+Tennessee,87,Vanderbilt,75
+TN Martin,79,SE Missouri St,69
+Towson,74,Northeastern,67
+Troy,93,UT Arlington,71
+Tulsa,70,Temple,68
+TX Southern,76,Grambling,55
+UAB,94,Marshall,78
+UC Davis,71,CS Northridge,68
+UC Irvine,87,CS Fullerton,67
+UCF,77,Houston,70
+UCLA,83,Utah,82
+UNC Asheville,76,Charleston So,67
+UNC Greensboro,91,VMI,82
+UNC Wilmington,84,Hofstra,76
+UT San Antonio,57,Florida Intl,55
+Utah Valley,86,Missouri KC,76
+UTEP,66,FL Atlantic,65
+Valparaiso,78,Cleveland St,67
+Villanova,70,St John's,57
+Virginia,77,Clemson,73
+W Michigan,92,Kent,88
+Wagner,53,Robert Morris,50
+Weber St,70,E Washington,67
+West Virginia,74,Texas,72
+Winthrop,72,Campbell,63
+Wofford,67,Furman,58
+Wright St,70,WI Milwaukee,67
+Cincinnati,55,East Carolina,46
+Georgia Tech,86,NC State,76
+Indiana,76,Rutgers,57
+La Salle,79,G Washington,69
+Loyola-Chicago,77,Missouri St,71
+Northern Iowa,79,Drake,60
+Northwestern,89,Iowa,54
+Ohio St,72,Michigan St,67
+Rhode Island,79,Massachusetts,77
+SE Louisiana,79,McNeese St,75
+Siena,63,Fairfield,54
+SMU,80,Tulane,64
+St Peter's,71,Rider,65
+USC,71,Colorado,68
+Albany NY,77,UMBC,50
+Alcorn St,82,Ark Pine Bluff,64
+Bethune-Cookman,82,Florida A&M,76
+Butler,88,Marquette,80
+Cleveland St,76,Oakland,65
+Coppin St,81,Howard,72
+Creighton,72,Xavier,67
+Detroit,87,Youngstown St,71
+Ga Southern,62,ULM,60
+Georgia St,101,ULL,86
+Hartford,54,Maine,44
+Harvard,70,Bryant,65
+Kansas,76,Iowa St,72
+Loyola MD,77,Boston Univ,69
+Marist,93,Niagara,87
+Monmouth NJ,76,Canisius,72
+Morgan St,82,NC A&T,53
+NC Central,64,Hampton,51
+Norfolk St,75,Delaware St,70
+North Carolina,85,Syracuse,68
+Northern Arizona,83,Portland St,76
+Prairie View,94,Grambling,82
+Providence,74,Georgetown,56
+Savannah St,86,S Carolina St,82
+Southern Univ,87,MS Valley St,81
+St John's,78,DePaul,68
+Stony Brook,86,MA Lowell,75
+Texas St,75,Troy,71
+TX Southern,67,Jackson St,44
+UT Arlington,89,South Alabama,83
+Valparaiso,80,WI Green Bay,56
+Vermont,71,New Hampshire,59
+Villanova,76,Seton Hall,46
+Akron,83,Ohio,68
+Arkansas,62,Texas A&M,60
+Ball St,98,C Michigan,83
+Baylor,74,Texas,64
+Buffalo,82,Kent,69
+E Michigan,86,W Michigan,80
+Georgia,76,Vanderbilt,68
+IL Chicago,71,WI Milwaukee,57
+Iona,82,Manhattan,67
+Kentucky,88,Mississippi St,81
+Mississippi,80,Tennessee,69
+N Illinois,62,Miami OH,58
+NC State,79,Pittsburgh,74
+New Mexico,81,Boise St,70
+Purdue,91,Illinois,68
+San Diego St,64,UNLV,51
+Siena,78,Rider,68
+St Bonaventure,71,St Louis,52
+St Peter's,69,Fairfield,55
+Toledo,85,Bowling Green,73
+UCF,86,South Florida,64
+Wichita St,82,Evansville,65
+Wisconsin,68,Michigan,64
+Alabama,68,Missouri,56
+American Univ,71,Lafayette,57
+Auburn,78,LSU,74
+Bucknell,76,Loyola MD,63
+Cincinnati,81,Temple,74
+Colgate,67,Boston Univ,58
+Drake,88,S Illinois,84
+Florida St,83,Notre Dame,80
+Fordham,69,VA Commonwealth,67
+Fresno St,78,Colorado St,57
+G Washington,65,Duquesne,63
+Hawaii,80,CS Northridge,77
+Holy Cross,85,Army,76
+Illinois St,69,Bradley,49
+Indiana,78,Penn St,75
+IUPUI,85,S Dakota St,83
+Kansas St,96,Oklahoma St,88
+Massachusetts,62,St Joseph's PA,57
+McNeese St,82,Cent Arkansas,72
+Missouri St,73,Indiana St,68
+Navy,75,Lehigh,72
+NE Omaha,97,Denver,88
+Nevada,83,Air Force,76
+Northern Iowa,72,Loyola-Chicago,69
+Ohio St,67,Nebraska,66
+Oklahoma,89,West Virginia,87
+Oral Roberts,90,South Dakota,80
+South Carolina,57,Florida,53
+Texas Tech,75,TCU,69
+Tulsa,89,Tulane,82
+UC Irvine,70,Cal Poly SLO,48
+UC Riverside,71,CS Fullerton,63
+Utah,88,Washington St,47
+Virginia,71,Boston College,54
+Virginia Tech,62,Georgia Tech,61
+Wake Forest,96,Miami FL,79
+Washington,85,Colorado,83
+Wyoming,80,San Jose St,70
+Albany NY,84,Binghamton,65
+Arizona,73,USC,66
+Belmont,77,Jacksonville St,60
+BYU,99,Pepperdine,70
+Charleston So,73,Presbyterian,52
+Dayton,75,Richmond,59
+Delaware,69,Northeastern,62
+E Washington,84,Northern Arizona,62
+Elon,93,Drexel,73
+F Dickinson,57,St Francis NY,40
+Furman,75,ETSU,62
+Gonzaga,88,Santa Clara,57
+High Point,83,Campbell,78
+Idaho,79,Southern Utah,67
+Idaho St,73,N Colorado,69
+La Salle,91,Davidson,83
+Liberty,65,Gardner Webb,62
+Lipscomb,112,Jacksonville,95
+Long Beach St,81,Santa Barbara,76
+Long Island,76,Wagner,69
+Louisiana Tech,74,Rice,64
+Louisville,92,Clemson,60
+Maryland,84,Iowa,76
+Memphis,70,Houston,67
+Montana St,74,CS Sacramento,65
+Morehead St,89,Austin Peay,82
+Mt St Mary's,86,Sacred Heart,75
+MTSU,65,Florida Intl,52
+Murray St,86,E Kentucky,79
+N Dakota St,89,IPFW,83
+New Hampshire,74,Maine,63
+New Orleans,72,Houston Bap,64
+Nicholls St,62,Abilene Chr,59
+North Dakota,83,Weber St,77
+North Florida,86,Kennesaw,84
+Oregon,86,California,63
+Portland St,88,Montana,79
+Radford,72,Longwood,60
+Robert Morris,74,Central Conn,67
+Sam Houston St,87,Lamar,65
+San Diego,69,Loy Marymount,62
+San Francisco,75,Portland,50
+SC Upstate,62,FL Gulf Coast,60
+SE Missouri St,79,Edwardsville,76
+SF Austin,61,TAM C. Christi,58
+SMU,69,Connecticut,49
+Southern Miss,75,North Texas,65
+St Francis PA,75,Bryant,61
+St Mary's CA,62,Pacific,50
+St Peter's,77,Siena,65
+Stanford,62,Oregon St,46
+Stetson,82,NJIT,76
+Stony Brook,80,Hartford,64
+Tennessee Tech,80,Tennessee St,74
+TN Martin,82,E Illinois,71
+Towson,86,Hofstra,80
+UAB,80,FL Atlantic,78
+UCLA,102,Arizona St,80
+UNC Greensboro,68,Mercer,66
+UNC Wilmington,65,Col Charleston,59
+Vermont,81,MA Lowell,67
+W Carolina,100,Citadel,95
+William & Mary,73,James Madison,72
+Winthrop,76,UNC Asheville,73
+Wofford,88,VMI,70
+Akron,70,E Michigan,63
+Iona,96,Fairfield,89
+Monmouth NJ,82,Manhattan,71
+Oakland,79,N Kentucky,70
+Quinnipiac,95,Canisius,90
+WI Milwaukee,63,Cleveland St,62
+Wright St,106,Detroit,88
+Yale,75,Brown,74
+Youngstown St,92,WI Green Bay,89
+Alcorn St,78,Alabama St,71
+Arizona,96,UCLA,85
+Ark Little Rock,73,South Alabama,56
+Arkansas,99,LSU,86
+Arkansas St,82,Troy,80
+Auburn,84,Alabama,64
+Austin Peay,84,Murray St,81
+Baylor,62,TCU,53
+Belmont,82,Tennessee Tech,70
+Boise St,75,San Jose St,65
+Bowling Green,79,Ball St,74
+Bryant,59,Robert Morris,56
+Bucknell,70,Boston Univ,59
+Buffalo,66,W Michigan,54
+Butler,70,DePaul,69
+BYU,62,Pacific,47
+C Michigan,101,Miami OH,92
+California,69,Oregon St,58
+Central Conn,84,St Francis PA,83
+Charleston So,76,Longwood,61
+Charlotte,74,Old Dominion,72
+Chattanooga,82,Samford,78
+Cincinnati,78,Tulane,61
+Col Charleston,73,James Madison,60
+Colgate,52,Loyola MD,49
+Colorado St,64,Utah St,56
+Cornell,67,Columbia,62
+CS Bakersfield,68,Utah Valley,65
+CS Sacramento,92,Montana,83
+Denver,78,IUPUI,74
+Duke,70,Miami FL,58
+E Washington,83,Southern Utah,68
+Elon,71,William & Mary,62
+F Dickinson,83,Long Island,66
+FL Gulf Coast,84,NJIT,71
+Florida Intl,94,UAB,85
+Florida St,73,Louisville,68
+Fordham,71,Massachusetts,68
+Fresno St,81,Nevada,76
+Furman,89,VMI,72
+Ga Southern,92,Appalachian St,88
+Gardner Webb,78,Presbyterian,61
+Georgia St,76,Coastal Car,56
+Gonzaga,73,Portland,52
+Grambling,72,Jackson St,57
+Grand Canyon,61,Seattle,59
+Harvard,82,Dartmouth,68
+High Point,61,Radford,58
+Hofstra,78,Northeastern,73
+Howard,78,NC A&T,63
+Idaho,65,Northern Arizona,49
+Illinois St,72,Drake,58
+Incarnate Word,70,SF Austin,68
+Indiana,82,Michigan St,75
+Iowa St,92,Oklahoma,87
+Jacksonville St,86,Tennessee St,79
+Kansas,79,Texas,67
+Kansas St,79,West Virginia,75
+Kennesaw,81,Jacksonville,71
+Kent,85,Toledo,61
+Kentucky,85,South Carolina,69
+Lamar,87,Nicholls St,76
+Lehigh,75,Lafayette,68
+Long Beach St,98,Cal Poly SLO,92
+Louisiana Tech,81,North Texas,57
+Loyola-Chicago,67,Evansville,61
+Marquette,102,Creighton,94
+Marshall,94,WKU,80
+MD E Shore,82,Bethune-Cookman,79
+Mercer,70,W Carolina,50
+Michigan,66,Illinois,57
+Mississippi,75,Missouri,71
+Missouri St,76,Bradley,62
+Montana St,71,Portland St,65
+Morehead St,80,E Kentucky,54
+Mt St Mary's,55,St Francis NY,47
+MTSU,86,FL Atlantic,57
+N Dakota St,89,W Illinois,57
+Navy,96,Army,80
+New Mexico,78,Wyoming,71
+New Mexico St,94,Missouri KC,71
+New Orleans,81,Cent Arkansas,63
+Niagara,57,St Peter's,55
+Norfolk St,79,Hampton,62
+North Carolina,90,Boston College,82
+North Dakota,89,Idaho St,64
+North Florida,90,Lipscomb,84
+Northern Iowa,58,S Illinois,57
+Northwestern LA,78,McNeese St,65
+Notre Dame,84,Syracuse,66
+Ohio,78,N Illinois,69
+Oklahoma St,83,Texas Tech,64
+Oral Roberts,103,NE Omaha,86
+Oregon,69,Stanford,52
+Prairie View,87,MS Valley St,72
+Purdue,77,Penn St,52
+Rhode Island,90,Duquesne,69
+Rice,61,Southern Miss,58
+Rider,84,Marist,66
+Rutgers,65,Nebraska,64
+S Carolina St,74,Delaware St,64
+S Dakota St,77,IPFW,67
+Sam Houston St,76,TAM C. Christi,62
+San Francisco,60,San Diego,43
+Santa Clara,64,Loy Marymount,63
+Savannah St,74,Morgan St,61
+SC Upstate,97,Stetson,86
+SE Louisiana,83,Houston Bap,71
+SE Missouri St,83,E Illinois,71
+SMU,85,Houston,64
+Southern Univ,53,Alabama A&M,52
+St Joseph's PA,78,Penn,71
+St Mary's CA,85,Pepperdine,65
+Tennessee,91,Mississippi St,74
+Texas A&M,63,Georgia,62
+TN Martin,75,Edwardsville,67
+Towson,75,Delaware,58
+Tulsa,79,South Florida,67
+UTRGV,85,Chicago St,77
+TX Southern,70,Ark Pine Bluff,63
+UC Davis,76,Hawaii,70
+UC Irvine,105,CS Northridge,73
+UC Riverside,65,Santa Barbara,55
+ULL,79,Texas St,73
+UNC Asheville,72,Campbell,56
+UNC Greensboro,81,Citadel,72
+UNC Wilmington,87,Drexel,74
+UNLV,87,Air Force,85
+UT Arlington,71,ULM,55
+Utah,94,Washington,72
+UTEP,59,UT San Antonio,39
+Vanderbilt,68,Florida,66
+Villanova,78,Providence,68
+Virginia,62,Georgia Tech,49
+Wagner,67,Sacred Heart,62
+Wake Forest,93,NC State,88
+Washington St,91,Colorado,89
+Weber St,74,N Colorado,69
+Wichita St,84,Indiana St,58
+Winthrop,61,Liberty,48
+Wisconsin,78,Minnesota,76
+Albany NY,81,Maine,63
+Binghamton,71,Stony Brook,67
+Connecticut,72,East Carolina,65
+Dayton,67,St Louis,46
+ETSU,79,Wofford,72
+George Mason,82,Richmond,77
+Memphis,70,UCF,65
+Monmouth NJ,91,Fairfield,49
+N Kentucky,101,Detroit,87
+New Hampshire,81,Hartford,56
+Northwestern,74,Ohio St,72
+Seton Hall,86,St John's,73
+Siena,81,Manhattan,68
+UMBC,102,MA Lowell,86
+USC,82,Arizona St,79
+VA Commonwealth,90,La Salle,52
+Valparaiso,96,IL Chicago,65
+Virginia Tech,82,Clemson,81
+WI Milwaukee,94,Youngstown St,85
+Wright St,88,Oakland,67
+Xavier,86,Georgetown,75
+Alabama St,79,Southern Univ,65
+Alcorn St,81,Alabama A&M,70
+Ark Pine Bluff,71,Prairie View,68
+Arkansas St,74,South Alabama,62
+Ga Southern,91,Coastal Car,80
+Georgia St,83,Appalachian St,72
+Gonzaga,83,Portland,64
+Holy Cross,63,American Univ,55
+Iona,84,Quinnipiac,74
+MD E Shore,86,Florida A&M,79
+Morgan St,77,S Carolina St,75
+MS Valley St,103,TX Southern,89
+NC Central,74,Howard,39
+NC State,84,Duke,82
+Niagara,91,Canisius,84
+Norfolk St,74,Coppin St,64
+Oklahoma St,89,TCU,76
+Savannah St,94,Delaware St,79
+St Peter's,56,Rider,51
+Texas,84,Oklahoma,83
+Texas St,63,ULM,57
+Troy,78,Ark Little Rock,69
+UT Arlington,108,ULL,71
+WI Green Bay,83,Cleveland St,73
+Air Force,60,San Diego St,57
+Akron,90,W Michigan,80
+Arkansas,71,Vanderbilt,70
+Ball St,88,E Michigan,80
+C Michigan,82,Bowling Green,76
+Davidson,74,Duquesne,60
+Drake,72,Missouri St,71
+Houston,65,Tulane,51
+Iowa St,70,Kansas St,65
+Kent,73,N Illinois,66
+Louisville,106,Pittsburgh,51
+Marquette,74,Villanova,72
+Maryland,67,Rutgers,55
+Miami OH,75,Buffalo,74
+New Mexico,74,Utah St,61
+Purdue,84,Michigan St,73
+South Carolina,98,Auburn,69
+St Bonaventure,67,St Joseph's PA,63
+Syracuse,81,Wake Forest,76
+Tennessee,82,Kentucky,80
+Toledo,79,Ohio,76
+Virginia,71,Notre Dame,54
+West Virginia,85,Kansas,69
+Wichita St,87,S Illinois,45
+Wisconsin,82,Penn St,55
+Alabama,80,Georgia,60
+Arizona St,86,Washington,75
+Baylor,65,Texas Tech,61
+Belmont,77,E Illinois,64
+Binghamton,76,Hartford,55
+Boston Univ,90,Army,89
+Bucknell,78,Lafayette,55
+Butler,61,Seton Hall,54
+Colorado St,81,San Jose St,72
+Connecticut,81,South Florida,60
+CS Northridge,78,Santa Barbara,57
+Denver,91,S Dakota St,82
+East Carolina,69,Tulsa,66
+ETSU,96,Samford,86
+FL Gulf Coast,86,North Florida,82
+Florida,106,LSU,71
+Furman,85,W Carolina,37
+G Washington,87,George Mason,68
+Georgetown,71,Creighton,51
+Georgia Tech,78,Florida St,56
+Illinois,76,Iowa,64
+Illinois St,71,Indiana St,66
+IPFW,103,IUPUI,73
+Jacksonville,103,Stetson,92
+Kennesaw,71,NJIT,65
+Lehigh,76,Colgate,62
+Lipscomb,84,SC Upstate,77
+Loyola MD,65,Holy Cross,62
+Loyola-Chicago,70,Bradley,50
+Miami FL,78,Boston College,77
+Mississippi St,89,Missouri,74
+N Dakota St,81,Oral Roberts,71
+Navy,71,American Univ,53
+Nevada,76,Boise St,57
+New Hampshire,80,MA Lowell,71
+Northern Iowa,61,Evansville,54
+Northwestern LA,85,SE Louisiana,71
+Ohio St,78,Minnesota,72
+Penn,77,La Salle,74
+Richmond,73,Rhode Island,62
+S Carolina St,68,Hampton,66
+SF Austin,78,Cent Arkansas,76
+SMU,65,UCF,60
+South Dakota,62,W Illinois,55
+St John's,91,Providence,86
+St Louis,74,Massachusetts,70
+Stony Brook,83,UMBC,73
+TAM C. Christi,69,Lamar,66
+Temple,77,Memphis,66
+Tennessee St,76,Edwardsville,56
+Texas A&M,80,Mississippi,76
+UC Riverside,70,Hawaii,64
+USC,84,UCLA,76
+Vermont,60,Albany NY,49
+VMI,80,Chattanooga,64
+Weber St,85,Idaho St,73
+Wofford,93,UNC Greensboro,74
+Wyoming,66,UNLV,65
+Arizona,79,Washington St,62
+Bryant,65,Central Conn,54
+Cal Poly SLO,79,UC Irvine,66
+Campbell,78,Radford,61
+Charlotte,82,North Texas,81
+Cincinnati,86,Xavier,78
+Colorado,85,Oregon St,78
+CS Bakersfield,75,Chicago St,59
+Drexel,81,Hofstra,80
+E Kentucky,57,Jacksonville St,52
+E Washington,72,Montana,60
+Elon,51,Northeastern,49
+F Dickinson,79,St Francis NY,73
+FL Atlantic,83,Florida Intl,65
+Gonzaga,79,San Diego,43
+High Point,72,Charleston So,69
+Houston Bap,83,Nicholls St,80
+Incarnate Word,82,Abilene Chr,79
+Liberty,93,Longwood,62
+Long Beach St,76,CS Fullerton,65
+Long Island,60,Sacred Heart,57
+Loy Marymount,79,Pacific,73
+Manhattan,70,Niagara,69
+Marshall,92,UT San Antonio,71
+Michigan,90,Indiana,60
+Missouri KC,83,Grand Canyon,77
+Montana St,94,Idaho,91
+Mt St Mary's,48,Robert Morris,47
+MTSU,72,Southern Miss,56
+New Mexico St,71,Seattle,56
+New Orleans,75,McNeese St,56
+North Carolina,91,Virginia Tech,72
+North Dakota,91,Southern Utah,89
+Northern Arizona,63,N Colorado,50
+Northwestern,73,Nebraska,61
+Old Dominion,80,Rice,72
+Oregon,73,Utah,67
+Pepperdine,78,Portland,60
+Santa Clara,76,BYU,68
+SE Missouri St,75,Murray St,74
+St Francis PA,72,Wagner,67
+St Mary's CA,66,San Francisco,46
+St Peter's,81,Marist,65
+Tennessee Tech,76,Morehead St,73
+TN Martin,85,Austin Peay,79
+Towson,83,Col Charleston,77
+UAB,79,Louisiana Tech,70
+UNC Asheville,73,Presbyterian,47
+UNC Wilmington,87,James Madison,76
+Utah Valley,92,UTRGV,81
+WKU,65,UTEP,62
+William & Mary,82,Delaware,58
+Winthrop,72,Gardner Webb,70
+Columbia,66,Dartmouth,54
+Harvard,77,Cornell,71
+Iona,77,Siena,66
+Monmouth NJ,95,Quinnipiac,76
+N Kentucky,79,IL Chicago,62
+VA Commonwealth,73,Dayton,68
+Valparaiso,70,Wright St,55
+Weber St,96,Idaho St,74
+WI Green Bay,80,Oakland,72
+WI Milwaukee,73,Detroit,69
+Yale,85,Brown,75
+Akron,91,Buffalo,90
+Alabama,71,Mississippi St,62
+Albany NY,74,Hartford,61
+Alcorn St,74,Southern Univ,64
+Arkansas St,73,ULM,63
+Auburn,88,TCU,80
+Ball St,84,W Michigan,78
+Baylor,78,Mississippi,75
+Belmont,93,Tennessee St,76
+Boise St,80,Wyoming,65
+Bryant,73,F Dickinson,72
+Bucknell,96,Army,75
+BYU,85,Loy Marymount,77
+C Michigan,105,Kent,98
+Canisius,78,Manhattan,64
+Central Conn,61,Long Island,52
+Clemson,67,Pittsburgh,60
+Col Charleston,90,Drexel,76
+Colorado,74,Oregon,65
+Colorado St,78,San Diego St,77
+Columbia,65,Harvard,62
+Connecticut,78,Tulane,68
+Cornell,75,Dartmouth,62
+Creighton,83,DePaul,66
+CS Bakersfield,74,Missouri KC,63
+CS Fullerton,81,Cal Poly SLO,71
+CS Northridge,63,UC Riverside,59
+CS Sacramento,80,Portland St,77
+Davidson,84,Fordham,66
+Delaware,66,James Madison,61
+Duke,85,Wake Forest,83
+E Illinois,75,Edwardsville,60
+E Kentucky,79,Tennessee Tech,66
+E Michigan,74,Miami OH,57
+Elon,84,Hofstra,70
+ETSU,76,Chattanooga,71
+Fairfield,72,Marist,62
+FL Gulf Coast,78,Jacksonville,56
+Florida,84,Oklahoma,52
+Florida A&M,81,Delaware St,68
+Furman,73,UNC Greensboro,67
+G Washington,63,St Louis,55
+Gardner Webb,85,Charleston So,76
+George Mason,76,Massachusetts,74
+Georgetown,85,Butler,81
+Georgia,59,Texas,57
+Georgia St,78,Troy,72
+Georgia Tech,62,Notre Dame,60
+Gonzaga,96,Pepperdine,49
+Grambling,61,Ark Pine Bluff,53
+Grand Canyon,85,Chicago St,77
+Hawaii,78,Santa Barbara,56
+High Point,83,Winthrop,80
+Houston,79,Temple,66
+Idaho,85,Montana,77
+Incarnate Word,81,Cent Arkansas,80
+Iowa,85,Ohio St,72
+IPFW,87,Oral Roberts,83
+Jackson St,83,MS Valley St,68
+Kansas,79,Kentucky,73
+Lamar,85,Northwestern LA,64
+Liberty,72,Campbell,40
+Lipscomb,66,NJIT,62
+Loyola MD,70,Lafayette,62
+Loyola-Chicago,81,Indiana St,66
+Maryland,85,Minnesota,78
+MD E Shore,92,S Carolina St,69
+Memphis,57,East Carolina,50
+Mercer,82,Citadel,66
+Miami FL,77,North Carolina,62
+Montana St,91,E Washington,90
+Morehead St,72,Jacksonville St,69
+Morgan St,76,Coppin St,74
+Mt St Mary's,67,Sacred Heart,53
+MTSU,71,Louisiana Tech,61
+Murray St,94,TN Martin,86
+N Colorado,89,Southern Utah,71
+N Illinois,74,Toledo,72
+Navy,60,Holy Cross,47
+NC Central,82,NC A&T,59
+Nevada,82,New Mexico,65
+New Mexico St,74,Utah Valley,69
+Niagara,80,Rider,67
+Nicholls St,78,McNeese St,74
+Norfolk St,73,Bethune-Cookman,66
+Northeastern,69,Towson,62
+Northern Arizona,68,North Dakota,67
+Northern Iowa,71,Drake,63
+Ohio,96,Bowling Green,72
+Oklahoma St,99,Arkansas,71
+Old Dominion,73,North Texas,67
+Penn St,71,Illinois,67
+Prairie View,70,Alabama A&M,65
+Presbyterian,71,Longwood,62
+Providence,79,Marquette,78
+Rhode Island,71,St Bonaventure,59
+Rice,84,Charlotte,67
+Richmond,101,Duquesne,90
+S Dakota St,88,NE Omaha,84
+S Illinois,85,Missouri St,84
+Sam Houston St,71,SE Louisiana,69
+Samford,69,VMI,67
+San Diego,68,Portland,52
+San Francisco,81,Pacific,60
+San Jose St,76,UNLV,72
+Savannah St,73,Howard,70
+SC Upstate,79,Kennesaw,73
+SE Missouri St,82,Austin Peay,71
+Seattle,96,UTRGV,84
+SF Austin,71,New Orleans,61
+South Alabama,78,Ga Southern,66
+South Carolina,63,Missouri,53
+South Dakota,88,Denver,83
+St Francis PA,89,Robert Morris,83
+St Joseph's PA,73,La Salle,72
+St Mary's CA,72,Santa Clara,59
+Stetson,88,North Florida,74
+Syracuse,82,Florida St,72
+TAM C. Christi,72,Abilene Chr,60
+Tennessee,70,Kansas St,58
+Texas St,52,Coastal Car,50
+Texas Tech,77,LSU,64
+Tulsa,77,UCF,66
+TX Southern,70,Alabama St,68
+UAB,87,Southern Miss,43
+UC Davis,74,UC Irvine,65
+ULL,88,Ark Little Rock,82
+UMBC,105,New Hampshire,103
+UNC Asheville,80,Radford,69
+UT Arlington,83,Appalachian St,67
+Utah,86,Oregon St,78
+Utah St,78,Fresno St,65
+UTEP,91,Marshall,68
+Vanderbilt,84,Iowa St,78
+Vermont,71,Stony Brook,64
+W Carolina,68,Wofford,62
+W Illinois,78,IUPUI,69
+WKU,81,UT San Antonio,66
+Wagner,66,St Francis NY,64
+West Virginia,81,Texas A&M,77
+William & Mary,96,UNC Wilmington,78
+Wisconsin,61,Rutgers,54
+Youngstown St,67,Cleveland St,64
+Arizona,77,Washington,66
+Binghamton,65,Maine,54
+California,66,Stanford,55
+Cincinnati,94,South Florida,53
+Colgate,70,American Univ,65
+Detroit,93,WI Green Bay,92
+Illinois St,69,Evansville,59
+Iona,69,St Peter's,66
+Louisville,85,NC State,60
+Michigan St,70,Michigan,62
+Nebraska,83,Purdue,80
+Northwestern,68,Indiana,55
+Oakland,79,WI Milwaukee,70
+Valparaiso,65,N Kentucky,58
+Villanova,61,Virginia,59
+Virginia Tech,85,Boston College,79
+Washington St,91,Arizona St,83
+Wichita St,64,Bradley,49
+Wright St,88,IL Chicago,86
+Xavier,82,St John's,77
+Arkansas St,88,ULL,69
+Belmont,92,Edwardsville,69
+Boston Univ,76,Lehigh,59
+Coastal Car,72,UT Arlington,70
+Duke,84,Notre Dame,74
+FL Gulf Coast,74,North Florida,59
+Georgia St,83,South Alabama,80
+Grambling,77,MS Valley St,74
+Hampton,77,Coppin St,65
+Jackson St,74,Ark Pine Bluff,59
+Jacksonville,89,Stetson,86
+Kennesaw,54,NJIT,53
+Lipscomb,92,SC Upstate,80
+Mercer,62,W Carolina,47
+Monmouth NJ,83,Marist,71
+Morgan St,77,Florida A&M,60
+NC Central,82,Delaware St,74
+Norfolk St,83,NC A&T,69
+Oklahoma St,68,Oklahoma,66
+Prairie View,72,Alabama St,52
+Rider,72,Canisius,66
+S Carolina St,77,Howard,68
+Savannah St,87,MD E Shore,82
+Siena,84,Quinnipiac,75
+Texas St,68,Appalachian St,55
+Troy,83,Ga Southern,76
+TX Southern,92,Alabama A&M,47
+ULM,68,Ark Little Rock,52
+William & Mary,108,Drexel,85
+Akron,76,N Illinois,73
+Ball St,81,Toledo,80
+Boise St,79,Colorado St,76
+Bowling Green,83,Miami OH,72
+Buffalo,101,C Michigan,91
+Creighton,76,Butler,67
+Davidson,75,St Joseph's PA,60
+Dayton,75,Fordham,66
+Denver,93,Oral Roberts,69
+Fairfield,78,Manhattan,49
+Georgetown,76,DePaul,73
+Iowa,83,Rutgers,63
+Kent,70,E Michigan,64
+Kentucky,90,Georgia,81
+Liberty,71,Presbyterian,51
+Maryland,77,Ohio St,71
+Mississippi,88,Mississippi St,61
+Missouri St,82,Loyola-Chicago,81
+North Carolina,80,Pittsburgh,78
+Rhode Island,82,G Washington,70
+San Diego St,77,Wyoming,68
+Temple,79,Tulane,71
+Tennessee,87,Auburn,77
+Vanderbilt,68,Texas A&M,54
+W Michigan,90,Ohio,85
+Wake Forest,85,Boston College,80
+West Virginia,85,Iowa St,72
+Wisconsin,57,Illinois,43
+Abilene Chr,70,New Orleans,69
+Albany NY,90,MA Lowell,77
+Arkansas,87,Alabama,68
+Army,80,Lafayette,73
+Austin Peay,83,E Kentucky,81
+Bucknell,80,American Univ,60
+Cincinnati,57,Tulsa,55
+Clemson,74,Georgia Tech,62
+CS Northridge,108,Long Beach St,98
+Delaware St,82,NC A&T,65
+Florida St,75,Miami FL,57
+Fresno St,73,Air Force,64
+Gardner Webb,80,Campbell,68
+Hampton,66,MD E Shore,65
+High Point,92,Longwood,68
+Holy Cross,56,Colgate,50
+Houston,82,UCF,64
+Illinois St,57,Northern Iowa,51
+Indiana,110,Penn St,102
+Indiana St,85,Evansville,84
+IUPUI,86,N Dakota St,81
+Jacksonville St,74,SE Missouri St,62
+Kansas,73,Baylor,68
+La Salle,88,Massachusetts,78
+Loyola MD,62,Lehigh,60
+NE Omaha,91,South Dakota,83
+New Mexico,80,UNLV,77
+Purdue,80,Northwestern,59
+S Dakota St,98,W Illinois,65
+S Illinois,85,Bradley,65
+SE Louisiana,72,Nicholls St,44
+SMU,86,East Carolina,46
+South Carolina,88,LSU,63
+St Bonaventure,71,Duquesne,64
+St John's,86,Marquette,72
+St Louis,76,George Mason,74
+Stetson,76,Bethune-Cookman,67
+Stony Brook,64,New Hampshire,61
+Syracuse,100,NC State,93
+TAM C. Christi,90,Houston Bap,79
+TCU,86,Kansas St,80
+Texas,62,Texas Tech,58
+TN Martin,75,Tennessee Tech,46
+UCLA,95,Washington St,79
+UMBC,92,Binghamton,74
+UNC Asheville,91,Charleston So,73
+USC,82,Washington,74
+Utah St,74,Nevada,57
+VA Commonwealth,81,Richmond,74
+Vermont,74,Maine,53
+Villanova,66,Providence,57
+Virginia,71,Virginia Tech,48
+Wichita St,77,Drake,69
+Winthrop,81,Radford,65
+Xavier,72,Seton Hall,70
+Arizona,71,Oregon St,54
+Belmont,81,Murray St,69
+Cal Poly SLO,74,UC Davis,70
+California,77,Utah,75
+Cent Arkansas,107,Northwestern LA,97
+Chattanooga,91,UNC Greensboro,68
+Cleveland St,90,Detroit,73
+Col Charleston,67,UNC Wilmington,66
+Colorado,81,Stanford,74
+CS Fullerton,79,Santa Barbara,53
+E Illinois,77,Tennessee St,67
+E Washington,77,CS Sacramento,72
+Elon,67,James Madison,61
+ETSU,81,VMI,71
+Fairfield,81,Niagara,61
+FL Atlantic,77,Charlotte,75
+Florida,93,Missouri,54
+Furman,70,Mercer,68
+Gonzaga,85,BYU,75
+Hawaii,72,UC Riverside,63
+Hofstra,73,Delaware,65
+Idaho,89,Portland St,72
+Idaho St,91,Northern Arizona,90
+Louisiana Tech,76,WKU,67
+Loy Marymount,72,San Diego,53
+McNeese St,87,Incarnate Word,79
+Memphis,85,South Florida,75
+Michigan St,72,Nebraska,61
+Mt St Mary's,77,Bryant,70
+MTSU,69,UT San Antonio,59
+Navy,70,Boston Univ,61
+Oakland,90,Youngstown St,76
+Old Dominion,64,Florida Intl,57
+Oregon,71,Arizona St,70
+Robert Morris,67,Long Island,63
+Sacred Heart,74,F Dickinson,70
+Sam Houston St,72,SF Austin,63
+Samford,82,W Carolina,63
+San Francisco,77,Pepperdine,56
+Santa Clara,60,Portland,45
+Southern Miss,91,Marshall,76
+St Francis PA,78,St Francis NY,61
+St Mary's CA,74,Pacific,70
+Towson,104,Drexel,103
+UTEP,63,UAB,59
+Valparaiso,71,WI Milwaukee,53
+Wagner,70,Central Conn,60
+Weber St,90,Southern Utah,74
+WI Green Bay,84,IL Chicago,80
+William & Mary,94,Northeastern,69
+Wofford,100,Citadel,90
+Brown,81,Cornell,70
+Harvard,69,Penn,59
+Iona,95,Rider,76
+Monmouth NJ,71,St Peter's,70
+Princeton,69,Dartmouth,64
+Rhode Island,70,Davidson,59
+Yale,87,Columbia,78
+Abilene Chr,71,Sam Houston St,64
+Alabama St,77,Ark Pine Bluff,65
+Alcorn St,69,Jackson St,58
+Arizona St,81,Oregon St,68
+Arkansas St,79,Appalachian St,78
+Auburn,82,Alabama,77
+Boise St,72,Utah St,70
+Bowling Green,104,Toledo,100
+Bradley,79,Drake,72
+Buffalo,96,Ball St,69
+BYU,73,Portland,62
+C Michigan,86,W Michigan,82
+Canisius,80,Siena,73
+Cent Arkansas,68,SE Louisiana,66
+Central Conn,54,Mt St Mary's,52
+Charleston So,71,Presbyterian,65
+Charlotte,95,Florida Intl,80
+Chattanooga,77,W Carolina,65
+Cincinnati,82,Connecticut,68
+Coastal Car,82,Ark Little Rock,75
+Col Charleston,71,Elon,58
+Colgate,55,Navy,52
+Colorado St,69,UNLV,49
+Columbia,83,Brown,78
+CS Bakersfield,65,Grand Canyon,62
+Dartmouth,74,Penn,71
+Dayton,90,Duquesne,53
+Delaware St,88,Bethune-Cookman,82
+Denver,76,IPFW,73
+Detroit,90,Youngstown St,80
+Duke,72,Pittsburgh,64
+E Washington,130,Portland St,124
+East Carolina,74,Tulane,65
+Evansville,74,Missouri St,66
+FL Atlantic,65,Old Dominion,61
+FL Gulf Coast,67,Jacksonville,57
+Florida,88,Kentucky,66
+Florida A&M,71,Howard,62
+Fordham,86,St Joseph's PA,83
+Furman,99,Citadel,91
+Ga Southern,76,ULM,62
+Gardner Webb,90,Longwood,64
+George Mason,95,La Salle,75
+Georgia St,85,ULL,82
+Gonzaga,90,Santa Clara,55
+Hampton,92,Savannah St,89
+Hawaii,76,CS Northridge,72
+Hofstra,79,Drexel,77
+Houston Bap,84,Incarnate Word,70
+Idaho,81,CS Sacramento,67
+Idaho St,94,Southern Utah,68
+IL Chicago,105,WI Milwaukee,100
+Iowa St,92,Kansas,89
+Jacksonville St,72,Edwardsville,61
+James Madison,73,Northeastern,69
+Kansas St,56,Baylor,54
+Kennesaw,84,SC Upstate,79
+Kent,66,Miami OH,62
+Lamar,77,McNeese St,57
+Lehigh,70,American Univ,55
+Liberty,57,Radford,54
+Lipscomb,87,NJIT,63
+Long Beach St,72,UC Irvine,63
+Louisiana Tech,94,Marshall,90
+Louisville,90,Boston College,67
+Loyola MD,78,Army,63
+MA Lowell,60,Binghamton,59
+Manhattan,68,Marist,67
+Marquette,92,DePaul,79
+MD E Shore,78,Coppin St,57
+Miami FL,84,NC State,79
+Minnesota,68,Illinois,59
+Mississippi,81,Vanderbilt,74
+Mississippi St,64,Tennessee,59
+Missouri,83,Arkansas,78
+Missouri KC,73,UTRGV,60
+Montana,90,Montana St,84
+Morehead St,89,SE Missouri St,81
+MS Valley St,68,Alabama A&M,66
+N Illinois,81,E Michigan,69
+N Kentucky,83,Wright St,79
+NC Central,68,Morgan St,62
+NE Omaha,79,W Illinois,67
+New Mexico St,86,Chicago St,51
+New Orleans,78,Nicholls St,69
+Norfolk St,65,S Carolina St,62
+North Carolina,83,Notre Dame,76
+North Dakota,87,N Colorado,77
+North Florida,96,Stetson,64
+Northern Iowa,65,Indiana St,60
+Oakland,53,Cleveland St,51
+Ohio,85,Akron,70
+Ohio St,70,Michigan,66
+Oklahoma St,82,West Virginia,75
+Oregon,85,Arizona,58
+Pepperdine,82,Pacific,72
+Princeton,57,Harvard,56
+Purdue,73,Maryland,72
+Quinnipiac,89,Niagara,81
+Rice,95,North Texas,80
+Richmond,84,G Washington,75
+Robert Morris,78,St Francis NY,54
+Rutgers,70,Penn St,68
+S Dakota St,74,Oral Roberts,67
+S Illinois,67,Loyola-Chicago,61
+Sacred Heart,73,Bryant,70
+San Diego St,70,Fresno St,67
+San Francisco,74,Loy Marymount,64
+San Jose St,78,New Mexico,68
+Seattle,63,Utah Valley,50
+Seton Hall,68,Georgetown,66
+SF Austin,75,Northwestern LA,73
+SMU,76,Tulsa,53
+South Alabama,76,Troy,71
+South Carolina,77,Georgia,75
+South Dakota,76,N Dakota St,66
+Southern Univ,67,Grambling,66
+St Francis PA,80,Long Island,78
+St Louis,78,NC A&T,59
+St Mary's CA,71,San Diego,27
+Stanford,81,Utah,75
+Stony Brook,72,Albany NY,65
+Syracuse,66,Virginia,62
+TCU,78,Texas,63
+Tennessee St,70,Austin Peay,66
+Tennessee Tech,87,E Illinois,68
+Texas A&M,85,LSU,73
+Texas Tech,77,Oklahoma,69
+TN Martin,85,E Kentucky,68
+Towson,82,William & Mary,80
+TX Southern,74,Prairie View,61
+UC Davis,67,Santa Barbara,64
+UC Riverside,67,Cal Poly SLO,56
+UCF,72,Memphis,57
+UCLA,107,Washington,66
+UMBC,83,Maine,71
+UNC Asheville,74,High Point,71
+UNC Greensboro,81,Samford,75
+UNC Wilmington,108,Delaware,80
+USC,86,Washington St,77
+UT Arlington,76,Texas St,61
+UT San Antonio,82,UAB,67
+UTEP,57,MTSU,54
+VA Commonwealth,83,St Bonaventure,77
+Vermont,79,Hartford,66
+Villanova,92,St John's,79
+WKU,64,Southern Miss,47
+Wagner,68,F Dickinson,59
+Wake Forest,81,Georgia Tech,69
+Weber St,86,Northern Arizona,80
+WI Green Bay,86,Valparaiso,69
+Wichita St,86,Illinois St,45
+Winthrop,76,Campbell,62
+Wofford,65,Mercer,62
+Wyoming,83,Air Force,74
+Xavier,82,Creighton,80
+Yale,78,Cornell,71
+Boston Univ,75,Lafayette,58
+California,77,Colorado,66
+Florida St,109,Clemson,61
+Iowa,81,Nebraska,70
+Temple,83,South Florida,74
+Wisconsin,65,Indiana,60
+Alabama St,71,MS Valley St,66
+Albany NY,69,New Hampshire,55
+Alcorn St,75,Grambling,65
+Ark Little Rock,69,Appalachian St,62
+Ark Pine Bluff,65,Alabama A&M,49
+Arkansas St,67,Coastal Car,57
+Bethune-Cookman,71,Howard,67
+Bucknell,82,Holy Cross,68
+Canisius,72,St Peter's,70
+Delaware St,80,Florida A&M,77
+Ga Southern,74,ULL,70
+Georgia St,69,ULM,55
+Hampton,93,S Carolina St,64
+Kansas,74,Kansas St,71
+Maine,52,Hartford,41
+Monmouth NJ,74,Rider,69
+NC Central,86,Coppin St,77
+Norfolk St,92,Savannah St,87
+Quinnipiac,73,Fairfield,71
+Southern Univ,88,Jackson St,75
+Stony Brook,83,MA Lowell,72
+Vermont,71,Binghamton,51
+Virginia,71,Louisville,55
+Wofford,79,ETSU,76
+Akron,65,Ball St,63
+Alabama,90,South Carolina,86
+Auburn,98,Mississippi St,92
+Bowling Green,84,Kent,83
+Buffalo,65,N Illinois,45
+Butler,68,Marquette,65
+C Michigan,97,Ohio,87
+Colorado St,69,Utah St,52
+Dayton,77,St Joseph's PA,70
+Florida,72,Georgia,60
+Illinois,68,Northwestern,61
+Illinois St,82,Drake,53
+Kentucky,92,LSU,85
+Memphis,66,Tulsa,44
+Michigan,86,Michigan St,57
+Notre Dame,88,Wake Forest,81
+Penn St,70,Maryland,64
+Princeton,64,Penn,49
+Rhode Island,70,Massachusetts,62
+San Jose St,76,San Diego St,71
+Siena,81,Iona,79
+Syracuse,82,Clemson,81
+TCU,62,Texas Tech,61
+Texas,67,Iowa St,65
+Toledo,73,E Michigan,57
+Vanderbilt,72,Arkansas,59
+Villanova,75,Georgetown,64
+W Michigan,72,Miami OH,55
+Arizona,74,Stanford,67
+Baylor,72,Oklahoma St,69
+Boston Univ,67,American Univ,64
+California,68,Arizona St,43
+Cincinnati,60,UCF,50
+Colgate,70,Army,58
+Connecticut,97,South Florida,51
+Evansville,60,Loyola-Chicago,58
+Florida St,95,NC State,71
+George Mason,76,Davidson,69
+Houston,91,Tulane,62
+Indiana St,56,Bradley,54
+IUPUI,89,NE Omaha,78
+La Salle,67,Fordham,52
+Lafayette,69,Holy Cross,59
+Lehigh,79,Bucknell,71
+Miami FL,74,Virginia Tech,68
+Minnesota,101,Iowa,89
+Morehead St,101,Murray St,100
+N Dakota St,82,S Dakota St,65
+Navy,62,Loyola MD,59
+Nevada,104,UNLV,77
+New Mexico,74,Air Force,67
+Northern Iowa,49,S Illinois,41
+Ohio St,70,Rutgers,64
+Pittsburgh,83,Boston College,72
+Seton Hall,72,Providence,70
+South Dakota,93,IPFW,82
+St Bonaventure,70,St Louis,55
+TAM C. Christi,80,SE Louisiana,75
+Tennessee,75,Mississippi,66
+Texas A&M,76,Missouri,73
+UC Davis,74,CS Fullerton,65
+UC Irvine,64,Santa Barbara,47
+VA Commonwealth,54,G Washington,53
+W Illinois,63,Oral Roberts,60
+West Virginia,61,Oklahoma,50
+Wyoming,102,Fresno St,100
+Xavier,72,DePaul,61
+Albany NY,66,Binghamton,54
+Belmont,66,Jacksonville St,53
+Campbell,83,Longwood,79
+Cent Arkansas,84,Abilene Chr,73
+Colorado,81,Washington,66
+CS Bakersfield,72,New Mexico St,53
+CS Sacramento,77,Weber St,74
+Delaware,76,Elon,74
+Drexel,79,William & Mary,61
+Duke,86,North Carolina,78
+E Illinois,81,TN Martin,71
+ETSU,90,Citadel,69
+F Dickinson,79,Central Conn,62
+Fairfield,73,Marist,53
+Furman,60,Chattanooga,56
+Gonzaga,90,Loy Marymount,60
+Grand Canyon,76,UTRGV,57
+Hartford,84,UMBC,77
+Hawaii,74,Cal Poly SLO,65
+High Point,68,Presbyterian,58
+Houston Bap,86,Northwestern LA,69
+Idaho,88,N Colorado,76
+IL Chicago,84,Youngstown St,81
+Kennesaw,92,Stetson,85
+Lamar,80,Sam Houston St,76
+Liberty,92,Gardner Webb,87
+Lipscomb,65,FL Gulf Coast,60
+Long Beach St,78,UC Riverside,71
+Long Island,88,Bryant,85
+Louisiana Tech,62,UTEP,61
+MA Lowell,100,Maine,68
+Mercer,81,VMI,51
+Missouri KC,84,Utah Valley,76
+Montana,70,Southern Utah,55
+Mt St Mary's,74,Robert Morris,70
+MTSU,64,Old Dominion,51
+N Kentucky,69,WI Green Bay,67
+New Orleans,69,McNeese St,63
+North Dakota,95,E Washington,86
+North Florida,91,NJIT,69
+North Texas,70,FL Atlantic,64
+Northeastern,73,Col Charleston,72
+Northern Arizona,69,Montana St,63
+Pacific,61,San Diego,58
+Pepperdine,99,BYU,83
+Portland St,74,Idaho St,69
+Purdue,69,Indiana,64
+Radford,79,Charleston So,67
+Rice,89,Florida Intl,78
+Sacred Heart,80,St Francis NY,65
+San Francisco,61,Santa Clara,58
+SC Upstate,70,Jacksonville,67
+SE Missouri St,71,Edwardsville,67
+Seattle,90,Chicago St,65
+SF Austin,87,Incarnate Word,79
+SMU,66,Temple,50
+St Mary's CA,51,Portland,41
+St Peter's,76,Quinnipiac,45
+Tennessee St,72,Tennessee Tech,59
+Towson,69,Hofstra,65
+UAB,82,Charlotte,69
+UCLA,82,Oregon,79
+UNC Asheville,104,Winthrop,101
+UNC Wilmington,88,James Madison,73
+USC,92,Oregon St,66
+UT San Antonio,57,Southern Miss,51
+Utah,74,Washington St,70
+Valparaiso,78,Cleveland St,57
+Vermont,82,New Hampshire,74
+Wagner,76,St Francis PA,74
+Wichita St,80,Missouri St,62
+Wisconsin,70,Nebraska,69
+Wofford,131,Samford,127
+Wright St,76,WI Milwaukee,65
+Dayton,75,Rhode Island,74
+Harvard,87,Brown,74
+Monmouth NJ,62,Manhattan,58
+Niagara,94,Canisius,81
+Oakland,89,Detroit,80
+Penn,70,Columbia,62
+Princeton,69,Cornell,60
+Yale,73,Dartmouth,64
+Abilene Chr,76,Northwestern LA,72
+Akron,87,E Michigan,76
+Alabama St,97,Alabama A&M,89
+Alcorn St,88,MS Valley St,77
+American Univ,61,Army,58
+Appalachian St,77,Georgia St,72
+Arizona,62,California,57
+Arizona St,75,Stanford,69
+Ark Pine Bluff,68,Southern Univ,61
+Arkansas,78,LSU,70
+Baylor,70,TCU,52
+Boise St,76,Air Force,66
+Boston Univ,78,Loyola MD,63
+Bryant,80,St Francis NY,69
+Buffalo,88,Bowling Green,74
+BYU,68,San Francisco,52
+Campbell,70,Presbyterian,57
+Cent Arkansas,106,Nicholls St,83
+Chattanooga,73,Wofford,65
+Cleveland St,66,IL Chicago,63
+Coastal Car,82,Ga Southern,70
+Colorado St,78,Fresno St,62
+Connecticut,66,UCF,63
+Coppin St,76,Bethune-Cookman,72
+Creighton,93,DePaul,58
+CS Bakersfield,75,UTRGV,53
+CS Fullerton,74,Long Beach St,69
+CS Northridge,77,Santa Barbara,55
+CS Sacramento,75,Idaho St,63
+Dartmouth,77,Brown,74
+Delaware,58,James Madison,57
+Delaware St,56,Morgan St,45
+Duke,64,Clemson,62
+E Illinois,86,SE Missouri St,80
+E Washington,70,N Colorado,44
+Elon,77,UNC Wilmington,76
+ETSU,88,Mercer,71
+Evansville,75,S Illinois,70
+FL Gulf Coast,75,Kennesaw,63
+Florida,71,Texas A&M,62
+Florida A&M,83,NC A&T,77
+Florida Intl,90,North Texas,71
+Furman,90,Samford,73
+G Washington,76,St Bonaventure,70
+George Mason,73,Fordham,67
+Georgetown,80,Marquette,62
+Georgia,76,Tennessee,75
+Georgia Tech,65,Boston College,54
+Gonzaga,74,St Mary's CA,64
+Grand Canyon,83,New Mexico St,71
+Hampton,75,Howard,61
+Harvard,75,Yale,67
+Hofstra,74,Northeastern,64
+Houston,73,Tulsa,64
+Houston Bap,94,Lamar,87
+Illinois St,64,Bradley,50
+Indiana St,84,Drake,60
+Iowa St,80,Oklahoma,64
+IPFW,108,NE Omaha,101
+Jackson St,78,Prairie View,69
+Jacksonville,76,NJIT,73
+Jacksonville St,63,Tennessee St,57
+Kansas,80,Texas Tech,79
+Kentucky,67,Alabama,58
+Liberty,76,Charleston So,69
+Lipscomb,97,Stetson,85
+Long Island,75,F Dickinson,69
+Louisiana Tech,72,UT San Antonio,66
+Louisville,71,Miami FL,66
+Loy Marymount,66,Portland,60
+Marshall,84,WKU,79
+Maryland,86,Ohio St,77
+Massachusetts,87,St Joseph's PA,76
+Miami OH,81,C Michigan,76
+Michigan St,77,Iowa,66
+Minnesota,72,Rutgers,63
+Mississippi,90,Auburn,84
+Missouri,72,Vanderbilt,52
+Missouri KC,102,Seattle,72
+Montana,76,Northern Arizona,59
+Montana St,83,Southern Utah,78
+Morehead St,67,E Kentucky,62
+Mt St Mary's,81,St Francis PA,62
+MTSU,70,Charlotte,55
+Murray St,102,Austin Peay,58
+N Dakota St,81,Denver,63
+N Kentucky,69,WI Milwaukee,63
+Navy,68,Lafayette,60
+NC Central,85,S Carolina St,62
+New Orleans,60,SE Louisiana,52
+Norfolk St,75,MD E Shore,69
+North Dakota,88,Idaho,65
+Notre Dame,84,Florida St,72
+Ohio,79,Ball St,77
+Oklahoma St,84,Texas,71
+Old Dominion,83,UAB,62
+Oral Roberts,74,IUPUI,68
+Oregon,81,USC,70
+Penn St,83,Illinois,70
+Pepperdine,65,San Diego,60
+Pittsburgh,80,Syracuse,75
+Princeton,61,Columbia,59
+Providence,71,Butler,65
+Radford,69,High Point,68
+Rice,81,FL Atlantic,75
+Richmond,64,La Salle,52
+Rider,112,Quinnipiac,107
+Robert Morris,50,Wagner,48
+Sacred Heart,77,Central Conn,62
+Sam Houston St,72,Incarnate Word,63
+San Jose St,76,UNLV,74
+Santa Clara,64,Pacific,47
+SC Upstate,84,North Florida,71
+Siena,84,Marist,77
+South Alabama,66,ULM,63
+South Carolina,77,Mississippi St,73
+South Dakota,91,S Dakota St,89
+South Florida,64,East Carolina,57
+St John's,78,Seton Hall,70
+St Louis,87,Duquesne,81
+TAM C. Christi,73,McNeese St,66
+Tennessee Tech,83,Belmont,70
+Texas St,56,Ark Little Rock,49
+TN Martin,80,Edwardsville,73
+Toledo,78,Kent,58
+Towson,69,Drexel,65
+Troy,100,ULL,88
+TX Southern,77,Grambling,70
+UC Davis,77,UC Riverside,63
+UC Irvine,72,Hawaii,58
+UNC Asheville,91,Longwood,69
+UNC Greensboro,76,W Carolina,68
+UT Arlington,81,Arkansas St,75
+Utah,85,Washington,61
+Utah St,81,Wyoming,74
+Utah Valley,87,Chicago St,54
+UTEP,80,Southern Miss,50
+VA Commonwealth,74,Davidson,60
+Valparaiso,82,Youngstown St,72
+Villanova,73,Xavier,57
+VMI,101,Citadel,78
+W Michigan,76,N Illinois,67
+Wake Forest,88,NC State,58
+Weber St,96,Portland St,93
+West Virginia,85,Kansas St,66
+William & Mary,89,Col Charleston,79
+Winthrop,77,Gardner Webb,71
+Wright St,88,WI Green Bay,79
+Colorado,81,Washington St,49
+Hartford,87,MA Lowell,84
+Holy Cross,61,Lehigh,45
+Iona,90,Niagara,76
+Michigan,75,Indiana,63
+New Hampshire,63,Binghamton,55
+Northern Iowa,55,Missouri St,52
+Northwestern,66,Wisconsin,59
+Penn,82,Cornell,63
+San Diego St,70,Nevada,56
+SMU,60,Cincinnati,51
+St Peter's,69,Manhattan,50
+Stony Brook,67,Maine,66
+Temple,74,Memphis,62
+UCLA,78,Oregon St,60
+Vermont,77,UMBC,74
+Virginia Tech,80,Virginia,78
+Wichita St,81,Loyola-Chicago,64
+Alcorn St,70,Ark Pine Bluff,58
+Appalachian St,83,Ga Southern,78
+Bucknell,75,Colgate,58
+Coastal Car,65,Georgia St,64
+Coppin St,83,Delaware St,75
+Fairfield,69,Rider,67
+Furman,80,VMI,52
+Grambling,61,Prairie View,58
+Howard,70,Morgan St,67
+Jackson St,71,TX Southern,62
+Kansas,84,West Virginia,80
+Louisville,76,Syracuse,72
+MD E Shore,82,Bethune-Cookman,81
+Monmouth NJ,102,Siena,82
+NC Central,78,Florida A&M,73
+S Carolina St,72,NC A&T,65
+Southern Univ,81,MS Valley St,72
+Texas St,62,Arkansas St,58
+Texas Tech,84,Baylor,78
+Troy,73,ULM,72
+ULL,87,South Alabama,61
+UT Arlington,71,Ark Little Rock,55
+Villanova,75,DePaul,62
+Akron,71,Toledo,65
+Ball St,81,N Illinois,72
+Buffalo,99,C Michigan,93
+Canisius,89,Iona,83
+Clemson,95,Wake Forest,83
+Colorado St,78,Wyoming,73
+Dayton,85,St Louis,63
+Denver,78,W Illinois,72
+Evansville,87,Drake,70
+Florida,114,Auburn,95
+George Mason,93,Richmond,70
+Georgia,79,Mississippi St,72
+Kent,76,Miami OH,72
+Kentucky,83,Tennessee,58
+Liberty,55,High Point,52
+Michigan St,74,Ohio St,66
+Mississippi,96,LSU,76
+Nebraska,82,Penn St,66
+New Mexico,78,Boise St,73
+Notre Dame,84,Boston College,76
+Ohio,79,E Michigan,71
+Oklahoma,70,Texas,66
+Purdue,74,Rutgers,55
+St Peter's,71,Marist,46
+UCF,71,Tulsa,53
+VA Commonwealth,91,St Joseph's PA,81
+Virginia Tech,66,Pittsburgh,63
+W Michigan,89,Bowling Green,79
+Alabama,57,Missouri,54
+Albany NY,78,UMBC,69
+Arkansas,83,South Carolina,76
+Army,52,Holy Cross,47
+Boston Univ,69,Colgate,68
+Butler,110,St John's,86
+Cal Poly SLO,85,CS Northridge,71
+Charleston So,72,Campbell,69
+Chattanooga,74,VMI,68
+Cincinnati,68,South Florida,54
+Davidson,74,G Washington,63
+Duke,65,Virginia,55
+Duquesne,96,Massachusetts,66
+East Carolina,78,Temple,64
+ETSU,79,Samford,77
+Fordham,53,Rhode Island,43
+Fresno St,77,San Jose St,59
+Furman,74,W Carolina,62
+Gardner Webb,70,Radford,59
+Illinois St,67,Missouri St,66
+Iowa St,87,Kansas St,79
+IPFW,77,N Dakota St,61
+Lafayette,78,American Univ,65
+Lehigh,74,Navy,55
+Loyola MD,78,Bucknell,77
+Loyola-Chicago,64,Indiana St,46
+Maryland,74,Northwestern,64
+Miami FL,70,Georgia Tech,61
+Minnesota,75,Indiana,74
+Nevada,78,Air Force,59
+New Hampshire,64,Maine,51
+Norfolk St,81,S Carolina St,70
+North Carolina,97,NC State,73
+Northern Iowa,64,Bradley,61
+Oklahoma St,71,TCU,68
+Providence,75,Xavier,63
+S Dakota St,81,IUPUI,67
+San Diego St,66,Utah St,62
+Seton Hall,87,Creighton,81
+SMU,80,Tulane,75
+St Bonaventure,83,La Salle,65
+Stony Brook,66,Hartford,54
+TAM C. Christi,97,Incarnate Word,81
+UNC Asheville,89,Presbyterian,48
+UNC Greensboro,74,Wofford,55
+Vermont,87,MA Lowell,66
+Wichita St,87,S Illinois,68
+Winthrop,83,Longwood,63
+Abilene Chr,82,McNeese St,78
+Arizona,78,Washington St,59
+Arizona St,83,Washington,81
+Austin Peay,85,E Illinois,80
+Belmont,76,E Kentucky,72
+Bryant,81,Robert Morris,73
+BYU,82,San Diego,70
+Col Charleston,76,Hofstra,72
+Colorado,60,Oregon St,52
+Connecticut,65,Memphis,62
+CS Bakersfield,80,Utah Valley,71
+CS Fullerton,56,UC Riverside,55
+CS Sacramento,67,Montana,65
+Delaware,68,Drexel,67
+FL Gulf Coast,80,NJIT,73
+Gonzaga,96,San Francisco,61
+Grand Canyon,61,Seattle,58
+Houston Bap,88,Sam Houston St,77
+Jacksonville,79,Kennesaw,78
+James Madison,95,William & Mary,92
+Long Beach St,78,UC Davis,69
+Long Island,82,St Francis NY,45
+Louisiana Tech,95,FL Atlantic,69
+Marshall,74,UAB,59
+Michigan,64,Wisconsin,58
+Monmouth NJ,93,Niagara,75
+Montana St,92,Portland St,90
+MTSU,78,WKU,52
+Murray St,84,Edwardsville,73
+N Kentucky,62,Cleveland St,60
+NE Omaha,83,Oral Roberts,76
+Nicholls St,96,Cent Arkansas,89
+North Dakota,77,Idaho St,61
+North Florida,93,Lipscomb,82
+Oregon,79,Utah,61
+Pacific,76,Portland,65
+Rice,80,UT San Antonio,68
+Sacred Heart,91,F Dickinson,81
+Santa Barbara,56,Hawaii,54
+Santa Clara,106,Pepperdine,55
+SE Louisiana,73,Northwestern LA,66
+SF Austin,70,Lamar,61
+Siena,94,Manhattan,71
+Southern Miss,69,Florida Intl,66
+St Francis PA,80,Central Conn,71
+St Mary's CA,81,Loy Marymount,48
+Stetson,83,SC Upstate,72
+Tennessee St,64,Morehead St,52
+Towson,85,Elon,66
+UNC Wilmington,66,Northeastern,65
+UTEP,77,North Texas,71
+Vanderbilt,72,Texas A&M,67
+Wagner,69,Mt St Mary's,65
+Weber St,69,N Colorado,63
+Wright St,84,Youngstown St,81
+Canisius,85,Rider,77
+Cornell,69,Dartmouth,65
+E Washington,77,Idaho,67
+Fairfield,89,Quinnipiac,86
+Harvard,78,Columbia,72
+IL Chicago,74,Detroit,69
+Iona,95,Marist,88
+Oakland,82,Valparaiso,71
+Penn,96,Brown,72
+Princeton,71,Yale,52
+Stanford,73,California,68
+VA Commonwealth,84,Richmond,73
+Alabama,90,LSU,72
+Alcorn St,75,Alabama St,67
+Arizona,76,Washington,68
+Arkansas,98,Mississippi,80
+Arkansas St,67,Ark Little Rock,58
+Army,71,Navy,68
+Austin Peay,92,Edwardsville,84
+Ball St,109,C Michigan,100
+Belmont,89,Morehead St,73
+Bethune-Cookman,62,Hampton,61
+Boise St,91,Wyoming,87
+Bradley,84,Evansville,72
+Bryant,79,St Francis PA,75
+Buffalo,71,Miami OH,58
+Charleston So,76,High Point,75
+Cincinnati,80,Tulsa,60
+Col Charleston,85,Northeastern,71
+CS Bakersfield,51,Seattle,48
+CS Fullerton,79,UC Davis,72
+Dartmouth,80,Columbia,79
+Davidson,79,Massachusetts,74
+Dayton,76,St Bonaventure,72
+Duke,99,Wake Forest,94
+E Illinois,82,Murray St,65
+Elon,65,Drexel,56
+ETSU,65,Chattanooga,51
+FL Atlantic,94,Southern Miss,82
+FL Gulf Coast,97,SC Upstate,89
+Florida,57,Mississippi St,52
+Fordham,54,St Louis,40
+Fresno St,71,New Mexico,61
+Ga Southern,70,Texas St,67
+Gardner Webb,84,Presbyterian,56
+Gonzaga,82,Pacific,61
+Grambling,62,Jackson St,59
+Grand Canyon,77,Utah Valley,71
+Harvard,87,Cornell,75
+Hawaii,82,Cal Poly SLO,61
+Howard,84,NC A&T,53
+Illinois,70,Iowa,66
+Incarnate Word,69,Sam Houston St,53
+Iowa St,84,TCU,71
+Kansas,67,Baylor,65
+Kansas St,64,Texas,61
+Kennesaw,85,North Florida,68
+Kent,70,Akron,67
+Kentucky,82,Georgia,77
+La Salle,83,St Joseph's PA,68
+Lipscomb,81,Jacksonville,69
+Long Beach St,66,Santa Barbara,48
+Long Island,83,Sacred Heart,82
+Louisiana Tech,77,Florida Intl,61
+Louisville,94,Virginia Tech,90
+Loy Marymount,82,Pepperdine,61
+Marquette,83,Xavier,61
+Mercer,89,Citadel,78
+Miami FL,71,Clemson,65
+Missouri KC,84,Chicago St,65
+Missouri St,76,Drake,73
+Montana,85,Portland St,82
+Montana St,62,CS Sacramento,59
+Morgan St,83,Savannah St,75
+Mt St Mary's,79,F Dickinson,74
+MTSU,97,Marshall,86
+N Colorado,87,Idaho St,81
+N Dakota St,100,W Illinois,91
+NC Central,82,MD E Shore,69
+Nebraska,58,Ohio St,57
+Nevada,77,Utah St,66
+New Hampshire,82,Hartford,52
+New Mexico St,107,UTRGV,101
+New Orleans,84,Cent Arkansas,61
+NJIT,60,Stetson,56
+Norfolk St,77,Florida A&M,65
+North Carolina,65,Virginia,41
+North Dakota,77,Weber St,68
+North Texas,83,UT San Antonio,73
+Northwestern,69,Rutgers,65
+Northwestern LA,80,Nicholls St,78
+Notre Dame,81,NC State,72
+Ohio,95,Bowling Green,75
+Oklahoma St,96,Oklahoma,92
+Old Dominion,72,Charlotte,48
+Oregon,101,Colorado,73
+Penn,71,Yale,55
+Pittsburgh,80,Florida St,66
+Prairie View,82,MS Valley St,69
+Princeton,66,Brown,51
+Purdue,80,Michigan St,63
+Radford,79,Longwood,72
+Rhode Island,77,George Mason,74
+Robert Morris,74,Central Conn,64
+S Carolina St,84,Coppin St,79
+S Dakota St,97,IPFW,89
+Samford,80,VMI,61
+San Diego,60,Santa Clara,58
+San Francisco,65,Portland,51
+San Jose St,83,Air Force,78
+SE Missouri St,90,TN Martin,61
+SF Austin,60,SE Louisiana,52
+Siena,76,Niagara,70
+SMU,76,Houston,66
+South Alabama,87,Appalachian St,74
+South Dakota,86,Oral Roberts,72
+Southern Univ,77,Alabama A&M,64
+Southern Utah,84,Northern Arizona,68
+St Mary's CA,70,BYU,57
+Stony Brook,76,Binghamton,55
+TAM C. Christi,70,Lamar,63
+Tennessee,90,Missouri,70
+Tennessee St,68,E Kentucky,66
+Tennessee Tech,79,Jacksonville St,78
+Texas A&M,81,Auburn,62
+Toledo,88,N Illinois,80
+Towson,75,James Madison,65
+Troy,87,Coastal Car,78
+Tulane,94,South Florida,71
+TX Southern,78,Ark Pine Bluff,40
+UC Irvine,79,UC Riverside,60
+UCF,61,East Carolina,58
+UCLA,102,USC,70
+ULL,85,ULM,84
+UMBC,108,MA Lowell,102
+UNC Asheville,66,Campbell,53
+UNC Greensboro,73,Furman,52
+UNC Wilmington,83,Hofstra,76
+UT Arlington,68,Georgia St,67
+UTEP,79,Rice,71
+Vanderbilt,71,South Carolina,62
+Villanova,92,Seton Hall,70
+W Michigan,88,E Michigan,80
+Wagner,73,St Francis NY,55
+Washington St,86,Arizona St,71
+West Virginia,83,Texas Tech,74
+WI Green Bay,80,WI Milwaukee,56
+Wichita St,73,Northern Iowa,44
+William & Mary,85,Delaware,64
+Winthrop,84,Liberty,67
+Wofford,84,W Carolina,56
+Wright St,74,Cleveland St,68
+Youngstown St,81,N Kentucky,77
+Albany NY,74,Maine,56
+Bucknell,86,Boston Univ,66
+Butler,82,DePaul,66
+Colgate,66,Loyola MD,56
+Connecticut,64,Temple,63
+Creighton,87,Georgetown,70
+G Washington,77,Duquesne,70
+Georgia Tech,71,Syracuse,65
+Holy Cross,69,American Univ,54
+Illinois St,65,Loyola-Chicago,63
+IUPUI,83,Denver,72
+Lehigh,81,Lafayette,55
+Manhattan,95,Quinnipiac,74
+Marist,76,Canisius,74
+Minnesota,83,Michigan,78
+Oakland,87,IL Chicago,75
+Oregon St,68,Utah,67
+Rider,103,Iona,85
+S Illinois,74,Indiana St,68
+San Diego St,77,UNLV,64
+St Peter's,74,Fairfield,55
+Valparaiso,83,Detroit,63
+WKU,76,UAB,64
+Wisconsin,71,Maryland,60
+Alcorn St,74,Alabama A&M,59
+Bethune-Cookman,75,Norfolk St,65
+Coastal Car,81,South Alabama,77
+Coppin St,84,Savannah St,83
+Florida St,104,Boston College,72
+Georgia St,67,Texas St,51
+Hampton,76,Florida A&M,69
+Iowa St,82,Texas Tech,80
+MD E Shore,106,NC A&T,95
+Miami FL,54,Virginia,48
+Morgan St,65,Delaware St,54
+NC Central,66,Howard,59
+Prairie View,73,Ark Pine Bluff,55
+Southern Univ,79,Alabama St,73
+Troy,76,Appalachian St,66
+TX Southern,92,MS Valley St,61
+UT Arlington,81,Ga Southern,71
+West Virginia,77,Texas,62
+Auburn,98,LSU,75
+Ball St,79,E Michigan,72
+Baylor,60,Oklahoma,54
+Bowling Green,66,Akron,65
+Colorado St,68,New Mexico,56
+Dayton,83,George Mason,70
+Detroit,91,Cleveland St,83
+East Carolina,76,Tulane,73
+Florida,81,South Carolina,66
+Illinois,66,Northwestern,50
+Iowa,96,Indiana,90
+Kent,77,Buffalo,69
+Kentucky,72,Missouri,62
+Marquette,93,St John's,71
+Mississippi,87,Mississippi St,82
+Monmouth NJ,82,Fairfield,62
+N Illinois,89,C Michigan,66
+N Kentucky,83,Wright St,76
+NC State,71,Georgia Tech,69
+Oakland,101,Youngstown St,72
+Ohio,79,Miami OH,62
+Purdue,74,Penn St,70
+Rhode Island,67,La Salle,56
+Richmond,84,Davidson,76
+Valparaiso,67,WI Milwaukee,61
+Virginia Tech,71,Clemson,70
+W Michigan,61,Toledo,56
+WI Green Bay,87,IL Chicago,79
+Wichita St,109,Evansville,83
+Air Force,81,UNLV,58
+American Univ,74,Navy,58
+Arkansas,86,Texas A&M,77
+Army,73,Boston Univ,62
+Bradley,77,Missouri St,68
+Bucknell,94,Lafayette,64
+Butler,74,Villanova,66
+CS Fullerton,56,UC Irvine,54
+DePaul,67,Georgetown,65
+ETSU,93,Furman,81
+Fordham,70,Duquesne,52
+Fresno St,63,San Diego St,55
+Hartford,76,Binghamton,69
+Holy Cross,63,Loyola MD,62
+Houston,75,Connecticut,70
+Illinois St,50,S Illinois,46
+Indiana St,69,Northern Iowa,59
+Kansas,87,TCU,68
+Lamar,88,Northwestern LA,68
+Lehigh,87,Colgate,69
+Loyola-Chicago,80,Drake,65
+Michigan,68,Rutgers,64
+Minnesota,89,Maryland,75
+N Dakota St,82,Oral Roberts,80
+NE Omaha,84,Denver,83
+Nevada,85,Boise St,77
+New Hampshire,78,MA Lowell,67
+North Carolina,74,Louisville,63
+Oklahoma St,80,Kansas St,68
+Oregon,68,California,65
+Providence,68,Creighton,66
+Rider,93,Manhattan,82
+Samford,72,Chattanooga,68
+SE Louisiana,87,Cent Arkansas,70
+Seton Hall,71,Xavier,64
+St Bonaventure,83,St Joseph's PA,77
+Stanford,79,Oregon St,66
+Syracuse,78,Duke,75
+TAM C. Christi,56,Abilene Chr,44
+UCF,71,Temple,69
+UMBC,65,Stony Brook,52
+UNC Greensboro,72,Mercer,66
+Utah St,81,San Jose St,75
+VA Commonwealth,64,St Louis,50
+Vanderbilt,67,Tennessee,56
+Vermont,62,Albany NY,50
+W Carolina,84,Citadel,80
+Wake Forest,63,Pittsburgh,59
+Wofford,81,VMI,63
+Arizona,90,USC,77
+BYU,97,Portland,78
+Cal Poly SLO,78,Long Beach St,71
+Central Conn,62,St Francis NY,53
+Charlotte,83,WKU,77
+Cincinnati,87,Memphis,74
+Col Charleston,78,Delaware,65
+CS Bakersfield,71,Missouri KC,62
+E Kentucky,68,Jacksonville St,65
+E Washington,82,Weber St,72
+FL Gulf Coast,80,Stetson,70
+G Washington,83,Massachusetts,67
+Gardner Webb,81,UNC Asheville,76
+Georgia,60,Alabama,55
+Gonzaga,96,San Diego,38
+Grand Canyon,82,Chicago St,59
+High Point,59,Campbell,49
+Hofstra,96,William & Mary,82
+Houston Bap,81,McNeese St,79
+Idaho,69,Idaho St,61
+IUPUI,83,IPFW,82
+James Madison,70,Drexel,64
+Liberty,61,Longwood,45
+Lipscomb,85,Kennesaw,74
+Long Island,62,Mt St Mary's,58
+Louisiana Tech,85,North Texas,67
+Loy Marymount,53,San Francisco,51
+Marist,87,Quinnipiac,74
+Michigan St,88,Nebraska,72
+Morehead St,73,Tennessee Tech,68
+New Orleans,82,SF Austin,65
+Nicholls St,77,Incarnate Word,68
+NJIT,88,SC Upstate,87
+North Florida,73,Jacksonville,69
+Northeastern,105,Elon,104
+Northern Arizona,73,CS Sacramento,69
+Ohio St,83,Wisconsin,73
+Old Dominion,86,Marshall,65
+Portland St,93,Southern Utah,86
+Radford,59,Presbyterian,57
+Rice,72,Southern Miss,71
+Robert Morris,77,F Dickinson,76
+Santa Barbara,68,UC Riverside,61
+Santa Clara,69,Pacific,68
+SE Missouri St,82,Murray St,69
+Seattle,86,UTRGV,77
+South Dakota,92,W Illinois,81
+St Francis PA,73,Sacred Heart,64
+St Mary's CA,78,Pepperdine,49
+TN Martin,76,Austin Peay,72
+Tulsa,82,South Florida,68
+UC Davis,96,CS Northridge,85
+UCLA,87,Arizona St,75
+UNC Wilmington,83,Towson,78
+UT San Antonio,69,Florida Intl,67
+Utah,86,Colorado,81
+Utah Valley,84,New Mexico St,72
+UTEP,60,FL Atlantic,55
+Wagner,69,Bryant,66
+Winthrop,86,Charleston So,72
+Brown,80,Dartmouth,75
+California,76,Oregon St,46
+Dayton,89,Davidson,82
+Detroit,81,WI Milwaukee,74
+Fairfield,58,Canisius,55
+Harvard,77,Yale,64
+Iona,72,Manhattan,51
+Monmouth NJ,77,Siena,73
+N Kentucky,90,IL Chicago,82
+Oakland,85,WI Green Bay,72
+Penn,69,Cornell,66
+Princeton,64,Columbia,45
+St Peter's,66,Niagara,53
+Valparaiso,84,Wright St,74
+Abilene Chr,84,Sam Houston St,81
+Akron,89,Buffalo,83
+Alabama A&M,87,Prairie View,74
+Albany NY,80,Hartford,62
+Alcorn St,68,Southern Univ,67
+American Univ,64,Loyola MD,62
+Arkansas,79,Auburn,68
+Austin Peay,88,SE Missouri St,79
+Belmont,68,Tennessee St,63
+Boise St,85,San Jose St,78
+Boston Univ,71,Holy Cross,68
+Bowling Green,70,Miami OH,54
+Bradley,82,Drake,74
+Bryant,91,Central Conn,77
+Bucknell,82,Navy,60
+BYU,79,Gonzaga,71
+Cal Poly SLO,84,UC Riverside,77
+Campbell,61,Radford,58
+Charleston So,86,Longwood,78
+Citadel,102,Samford,96
+Cleveland St,69,Youngstown St,55
+Col Charleston,80,Drexel,67
+Colorado St,56,San Diego St,55
+Columbia,70,Penn,67
+CS Bakersfield,69,Chicago St,49
+CS Sacramento,86,Southern Utah,76
+E Kentucky,75,Tennessee Tech,71
+E Michigan,84,N Illinois,68
+E Washington,89,Idaho St,77
+Edwardsville,78,E Illinois,59
+Elon,81,Delaware,59
+ETSU,68,W Carolina,52
+Evansville,65,Indiana St,63
+FL Atlantic,73,UT San Antonio,66
+Florida St,76,Clemson,74
+Furman,78,Wofford,69
+Ga Southern,72,Arkansas St,60
+Gardner Webb,88,High Point,86
+Georgia,82,LSU,80
+Georgia St,71,Ark Little Rock,54
+Grambling,78,Ark Pine Bluff,58
+Grand Canyon,84,Missouri KC,77
+Harvard,77,Brown,58
+Hawaii,64,CS Fullerton,58
+Hofstra,71,James Madison,66
+Houston Bap,75,Lamar,68
+Idaho,83,Weber St,78
+Illinois St,63,Northern Iowa,42
+Indiana,63,Northwestern,62
+Iowa,83,Maryland,69
+Iowa St,72,Baylor,69
+IPFW,96,W Illinois,92
+Jacksonville St,70,Morehead St,61
+Kansas,77,Texas,67
+Kent,70,Ohio,67
+Kentucky,76,Florida,66
+Lafayette,73,Colgate,69
+Lehigh,83,Army,69
+Long Island,88,Wagner,84
+Loy Marymount,67,Pacific,66
+Maine,72,Binghamton,71
+Marshall,93,Charlotte,89
+MD E Shore,65,Delaware St,64
+Mercer,64,Chattanooga,54
+Miami FL,55,Duke,50
+Michigan,82,Purdue,70
+Michigan St,84,Wisconsin,74
+Minnesota,81,Penn St,71
+Mississippi,80,Missouri,77
+Montana St,78,Montana,69
+Morgan St,77,Hampton,70
+MS Valley St,70,Jackson St,67
+Mt St Mary's,77,St Francis NY,62
+NC Central,78,Bethune-Cookman,63
+NE Omaha,96,N Dakota St,92
+Nevada,94,UNLV,58
+New Hampshire,94,UMBC,90
+New Mexico St,86,Seattle,53
+Nicholls St,77,SE Louisiana,71
+Norfolk St,73,Howard,65
+North Carolina,85,Pittsburgh,67
+North Dakota,84,N Colorado,81
+Northwestern LA,83,New Orleans,82
+Oklahoma,81,Kansas St,51
+Oklahoma St,80,Texas Tech,63
+Old Dominion,67,WKU,53
+Oregon,75,Stanford,73
+Portland St,84,Northern Arizona,72
+Princeton,75,Cornell,60
+Providence,73,Marquette,69
+Rhode Island,69,VA Commonwealth,59
+Rice,88,Louisiana Tech,81
+Richmond,70,Fordham,48
+Robert Morris,79,Sacred Heart,72
+S Carolina St,75,Florida A&M,64
+S Dakota St,88,Denver,64
+S Illinois,72,Loyola-Chicago,70
+San Diego,85,Portland,82
+San Francisco,76,Pepperdine,65
+Savannah St,110,NC A&T,91
+Seton Hall,82,DePaul,79
+SF Austin,90,Cent Arkansas,85
+SMU,69,Connecticut,61
+South Carolina,82,Tennessee,55
+South Dakota,92,IUPUI,85
+Southern Miss,76,North Texas,53
+St Bonaventure,80,Duquesne,77
+St Francis PA,70,F Dickinson,64
+St John's,86,Georgetown,80
+St Louis,61,St Joseph's PA,60
+St Mary's CA,70,Santa Clara,56
+TAM C. Christi,81,McNeese St,70
+Temple,86,Tulane,76
+Texas A&M,56,Alabama,53
+Texas St,63,Troy,59
+TN Martin,83,Murray St,76
+Toledo,87,C Michigan,66
+TX Southern,86,Alabama St,73
+UC Davis,75,Long Beach St,71
+UC Irvine,83,CS Northridge,80
+UCLA,77,Arizona,72
+ULL,79,Coastal Car,77
+ULM,75,Appalachian St,64
+UNC Asheville,63,Liberty,45
+UNC Greensboro,74,VMI,67
+UNC Wilmington,74,Northeastern,65
+UT Arlington,86,South Alabama,75
+Utah St,89,Air Force,58
+Utah Valley,88,UTRGV,68
+UTEP,90,Florida Intl,76
+Vanderbilt,77,Mississippi St,48
+Vermont,66,Stony Brook,51
+Villanova,79,Creighton,63
+Virginia,70,NC State,55
+Virginia Tech,91,Boston College,75
+W Michigan,80,Ball St,55
+West Virginia,61,TCU,60
+Wichita St,86,Missouri St,67
+William & Mary,83,Towson,79
+Winthrop,93,Presbyterian,56
+Wyoming,82,New Mexico,71
+Yale,99,Dartmouth,86
+Arizona St,83,USC,82
+Butler,88,Xavier,79
+Fairfield,62,Niagara,58
+G Washington,83,George Mason,74
+Houston,72,Memphis,71
+Illinois,73,Nebraska,57
+Louisville,88,Syracuse,68
+Massachusetts,84,La Salle,71
+Monmouth NJ,79,Iona,73
+MTSU,66,UAB,64
+N Kentucky,82,Valparaiso,78
+Notre Dame,64,Georgia Tech,60
+Oakland,86,WI Milwaukee,75
+Rider,99,Quinnipiac,82
+Siena,80,Marist,64
+St Peter's,72,Canisius,65
+Tulsa,74,East Carolina,66
+UCF,53,Cincinnati,49
+Washington St,79,Washington,71
+WI Green Bay,89,Detroit,81
+Wright St,87,IL Chicago,49
+Ark Little Rock,56,Ga Southern,54
+Arkansas St,78,Georgia St,67
+Baylor,71,West Virginia,62
+Bethune-Cookman,73,NC A&T,70
+Citadel,85,Chattanooga,76
+Coastal Car,77,ULM,72
+FL Gulf Coast,87,Stetson,57
+Hampton,63,Norfolk St,59
+Howard,79,MD E Shore,69
+Jackson St,62,Ark Pine Bluff,51
+Kansas,73,Oklahoma,63
+Kennesaw,80,SC Upstate,78
+Lipscomb,97,NJIT,66
+Mercer,88,Samford,79
+Morgan St,71,Coppin St,66
+MS Valley St,84,Grambling,80
+North Florida,77,Jacksonville,74
+Prairie View,77,Alabama St,58
+Savannah St,74,NC Central,73
+Texas St,90,South Alabama,64
+TX Southern,74,Alabama A&M,64
+ULL,77,Appalachian St,62
+UNC Greensboro,72,ETSU,66
+UT Arlington,82,Troy,67
+Virginia,53,North Carolina,43
+Virginia Tech,66,Miami FL,61
+W Carolina,81,VMI,68
+Army,74,American Univ,58
+Ball St,82,Toledo,74
+Buffalo,83,Ohio,79
+Campbell,81,Presbyterian,62
+Charleston So,79,Longwood,74
+Colorado St,78,Wyoming,76
+Creighton,82,St John's,68
+Davidson,68,St Bonaventure,63
+Duke,75,Florida St,70
+E Michigan,109,C Michigan,81
+Fresno St,74,Boise St,67
+Georgia Tech,61,Pittsburgh,52
+Iowa St,86,Oklahoma St,83
+Kent,74,Bowling Green,67
+Kentucky,73,Vanderbilt,67
+Loyola MD,67,Lafayette,64
+Maryland,79,Rutgers,59
+Miami OH,79,Akron,75
+Ohio St,71,Penn St,70
+Providence,73,DePaul,64
+Purdue,86,Indiana,75
+Seton Hall,62,Georgetown,59
+South Carolina,63,Mississippi St,57
+Texas A&M,60,Missouri,43
+W Michigan,70,N Illinois,56
+Alabama,70,Mississippi,55
+Albany NY,100,Hartford,71
+Clemson,78,NC State,74
+Dayton,79,VA Commonwealth,72
+East Carolina,66,Connecticut,62
+Florida,78,Arkansas,65
+G Washington,67,Fordham,66
+George Mason,63,Duquesne,62
+Georgia,79,Auburn,78
+Houston Bap,94,TAM C. Christi,80
+Illinois,73,Michigan St,70
+Incarnate Word,89,Abilene Chr,75
+Kansas St,75,TCU,74
+LSU,92,Tennessee,82
+Marquette,95,Xavier,84
+Mt St Mary's,76,Sacred Heart,73
+Murray St,85,Tennessee Tech,84
+Nevada,82,San Jose St,67
+New Hampshire,74,UMBC,65
+Northwestern,67,Michigan,65
+Notre Dame,82,Boston College,66
+Rhode Island,68,St Joseph's PA,49
+Richmond,75,Massachusetts,64
+Robert Morris,69,Long Island,68
+San Diego St,51,Air Force,38
+SE Missouri St,78,Tennessee St,75
+St Francis PA,100,Bryant,78
+St Louis,70,La Salle,55
+Stony Brook,70,Binghamton,60
+Texas Tech,67,Texas,57
+UC Irvine,68,UC Riverside,56
+UCLA,98,Washington,66
+UNLV,66,Utah St,59
+USC,87,Washington St,64
+Vermont,86,Maine,41
+Wagner,72,F Dickinson,70
+Wake Forest,88,Louisville,81
+Ark Little Rock,62,South Alabama,57
+Bethune-Cookman,69,Florida A&M,59
+Boston Univ,64,Loyola MD,60
+Bradley,67,Drake,58
+Bucknell,78,Army,62
+Cal Poly SLO,76,CS Northridge,70
+Campbell,81,UNC Asheville,79
+Canisius,77,Marist,73
+Charlotte,76,UT San Antonio,75
+Cincinnati,65,Houston,47
+Colorado,91,Stanford,72
+CS Fullerton,65,Santa Barbara,54
+CS Sacramento,57,North Dakota,53
+Delaware St,66,Howard,56
+E Washington,91,Southern Utah,75
+Evansville,83,Indiana St,72
+FL Gulf Coast,74,Kennesaw,62
+Gardner Webb,91,High Point,55
+Grambling,82,Alabama St,69
+Hampton,89,Coppin St,82
+Idaho,77,Northern Arizona,75
+Iowa,59,Wisconsin,57
+Jackson St,72,Alabama A&M,64
+Jacksonville St,74,SE Missouri St,51
+Lamar,87,Nicholls St,75
+Lehigh,77,Colgate,72
+MD E Shore,67,Morgan St,66
+Memphis,92,Tulane,70
+Minnesota,88,Nebraska,73
+Montana,78,Weber St,74
+Montana St,79,Idaho St,68
+MTSU,70,Florida Intl,67
+Murray St,75,Morehead St,69
+N Colorado,87,Portland St,84
+Navy,49,Holy Cross,42
+NC A&T,68,NC Central,63
+Niagara,88,Quinnipiac,69
+North Florida,91,Lipscomb,85
+Northwestern LA,72,SF Austin,67
+Old Dominion,62,UTEP,61
+Prairie View,70,Southern Univ,64
+Radford,56,Liberty,52
+Rice,89,Marshall,88
+Rider,69,Manhattan,68
+Sam Houston St,79,McNeese St,74
+Savannah St,95,S Carolina St,88
+SE Louisiana,63,New Orleans,58
+SMU,93,Tulsa,70
+Troy,81,Arkansas St,72
+TX Southern,94,Alcorn St,88
+UAB,79,FL Atlantic,59
+UC Davis,68,Hawaii,59
+UCF,59,South Florida,56
+ULL,94,Texas St,84
+UT Arlington,72,ULM,57
+Utah,74,California,44
+WKU,74,North Texas,63
+Winthrop,92,Charleston So,78
+Akron,66,Kent,56
+Ball St,87,N Illinois,82
+Brown,88,Columbia,68
+Buffalo,80,Bowling Green,68
+Campbell,66,Radford,50
+Citadel,78,W Carolina,72
+Dartmouth,76,Penn,74
+Delaware,81,Hofstra,76
+Illinois St,80,Evansville,69
+Jacksonville St,65,Belmont,59
+James Madison,80,Drexel,70
+Missouri St,70,Northern Iowa,64
+Monmouth NJ,84,Niagara,59
+Ohio,69,Miami OH,55
+Pacific,89,Pepperdine,84
+Portland,60,San Diego,55
+Princeton,73,Harvard,69
+S Illinois,55,Loyola-Chicago,50
+Samford,79,VMI,61
+St Peter's,61,Canisius,58
+TN Martin,73,Murray St,67
+Toledo,60,E Michigan,56
+W Michigan,88,C Michigan,80
+West Virginia,87,Iowa St,76
+WI Milwaukee,85,Detroit,60
+Wichita St,82,Bradley,56
+Winthrop,80,Gardner Webb,77
+Yale,90,Cornell,63
+Youngstown St,84,Cleveland St,69
+Appalachian St,77,Coastal Car,73
+Arizona,73,Arizona St,60
+Arkansas,85,Georgia,67
+Auburn,89,Missouri,78
+Baylor,75,Texas,64
+Boise St,98,Air Force,70
+BYU,89,Loy Marymount,81
+Clemson,82,Boston College,68
+Col Charleston,67,James Madison,62
+Colorado,54,California,46
+Cornell,92,Brown,78
+CS Fullerton,86,CS Northridge,78
+ETSU,73,Mercer,66
+Florida Intl,68,UAB,56
+Florida St,66,Miami FL,57
+Fresno St,72,UNLV,59
+G Washington,87,Dayton,81
+Georgia St,72,Ga Southern,67
+Gonzaga,82,Pacific,50
+Grambling,78,Alabama A&M,57
+Grand Canyon,58,CS Bakersfield,52
+Houston Bap,81,Abilene Chr,72
+Idaho,84,Southern Utah,75
+Illinois St,63,S Illinois,50
+Indiana,96,Ohio St,92
+Iona,88,Rider,70
+IUPUI,76,N Dakota St,57
+Jackson St,65,Alabama St,59
+Jacksonville St,66,TN Martin,55
+Kansas,90,Oklahoma St,85
+Kansas St,61,Texas Tech,48
+Kentucky,71,Texas A&M,63
+La Salle,66,Fordham,54
+Lamar,90,McNeese St,83
+Long Beach St,84,Hawaii,75
+Louisiana Tech,93,Southern Miss,65
+Louisville,71,Notre Dame,64
+Marquette,91,Creighton,83
+Marshall,106,North Texas,104
+Maryland,63,Michigan St,60
+Mississippi,75,South Carolina,70
+Mississippi St,88,LSU,76
+Missouri KC,87,Chicago St,82
+Montana,95,Idaho St,76
+MS Valley St,88,Ark Pine Bluff,77
+Mt St Mary's,75,Robert Morris,66
+MTSU,93,FL Atlantic,59
+N Colorado,70,CS Sacramento,67
+Nevada,85,Colorado St,72
+New Mexico,64,San Diego St,59
+New Mexico St,107,UTRGV,81
+New Orleans,74,Nicholls St,64
+North Carolina,90,Duke,83
+North Dakota,82,Portland St,73
+Northern Arizona,76,E Washington,61
+Northwestern LA,97,Cent Arkansas,83
+Oklahoma,73,TCU,68
+Oregon,80,Oregon St,59
+Penn,75,Harvard,72
+Prairie View,66,Alcorn St,60
+Princeton,85,Dartmouth,48
+Providence,86,St John's,75
+Rhode Island,73,Davidson,70
+Richmond,72,St Louis,62
+Rutgers,62,Illinois,59
+Samford,67,Furman,63
+Santa Barbara,57,Cal Poly SLO,44
+Santa Clara,76,San Francisco,69
+Seton Hall,70,Butler,64
+SF Austin,64,Sam Houston St,56
+Siena,78,Fairfield,66
+SMU,103,Memphis,62
+South Alabama,73,Arkansas St,70
+South Dakota,78,W Illinois,69
+St Bonaventure,60,Massachusetts,56
+St Francis PA,71,Wagner,70
+St Joseph's PA,63,Duquesne,60
+St Mary's CA,81,Portland,58
+Syracuse,90,Georgia Tech,61
+TAM C. Christi,81,Incarnate Word,64
+Tennessee,59,Alabama,54
+Texas St,70,ULM,65
+Towson,82,Northeastern,54
+Troy,57,Ark Little Rock,54
+TX Southern,82,Southern Univ,69
+UC Irvine,79,UC Davis,49
+UCLA,77,Washington St,68
+ULL,83,UT Arlington,81
+UNC Greensboro,76,Citadel,67
+UNC Wilmington,91,Delaware,82
+USC,74,Washington,58
+UT San Antonio,73,Old Dominion,55
+Utah,67,Stanford,59
+Utah Valley,61,Seattle,54
+UTEP,74,Charlotte,67
+VA Commonwealth,72,George Mason,60
+Vanderbilt,73,Florida,71
+Villanova,81,Georgetown,55
+Virginia,67,Pittsburgh,42
+WKU,79,Rice,72
+Wake Forest,89,Virginia Tech,84
+Weber St,76,Montana St,67
+WI Milwaukee,43,Valparaiso,41
+Wichita St,78,Missouri St,63
+William & Mary,71,Elon,66
+Wofford,79,Chattanooga,67
+Wyoming,74,San Jose St,62
+Xavier,79,DePaul,65
+Yale,75,Columbia,71
+Youngstown St,81,Oakland,80
+Bucknell,70,Navy,65
+Cincinnati,67,Connecticut,47
+Col Charleston,67,Towson,59
+ETSU,81,Samford,72
+FL Gulf Coast,77,North Florida,61
+Houston,73,East Carolina,51
+IL Chicago,79,WI Green Bay,70
+Iona,73,St Peter's,65
+Iowa,90,Penn St,79
+Lehigh,91,Boston Univ,88
+Maryland,63,Michigan St,60
+Michigan,93,Nebraska,57
+N Kentucky,82,Wright St,77
+NE Omaha,84,IPFW,80
+S Dakota St,83,Denver,73
+Siena,89,Monmouth NJ,85
+Temple,72,South Florida,60
+Tulane,81,Tulsa,69
+UNC Greensboro,77,Wofford,73
+UNC Wilmington,105,William & Mary,94
+Wichita St,71,Illinois St,51
+Winthrop,76,Campbell,59
+Wisconsin,66,Minnesota,49
+Albany NY,63,Stony Brook,56
+E Michigan,72,N Illinois,69
+ETSU,79,UNC Greensboro,74
+Gonzaga,77,Santa Clara,68
+Howard,79,Coppin St,73
+Iona,87,Siena,86
+Kent,116,C Michigan,106
+MD E Shore,75,NC A&T,65
+N Kentucky,84,Youngstown St,74
+NE Omaha,90,IUPUI,62
+S Dakota St,74,South Dakota,71
+St Mary's CA,81,BYU,50
+Toledo,77,Bowling Green,62
+UNC Wilmington,78,Col Charleston,69
+Vermont,74,New Hampshire,41
+W Michigan,65,Miami OH,61
+WI Milwaukee,74,IL Chicago,68
+Alcorn St,63,MS Valley St,60
+Bethune-Cookman,69,Delaware St,62
+Clemson,75,NC State,61
+CS Sacramento,91,Idaho St,76
+Gonzaga,74,St Mary's CA,56
+Grambling,81,Prairie View,77
+Mt St Mary's,71,St Francis PA,61
+N Kentucky,59,WI Milwaukee,53
+Pittsburgh,61,Georgia Tech,59
+Portland St,80,Northern Arizona,67
+S Carolina St,82,Florida A&M,78
+S Dakota St,79,NE Omaha,77
+Southern Univ,69,Jackson St,63
+Southern Utah,109,Montana St,105
+TX Southern,87,Alabama St,72
+Wake Forest,92,Boston College,78
+Air Force,83,Wyoming,68
+Arizona St,98,Stanford,88
+Bucknell,81,Lehigh,65
+California,67,Oregon St,62
+Coastal Car,80,South Alabama,67
+Colorado,73,Washington St,63
+Duke,79,Clemson,72
+Lamar,77,SE Louisiana,65
+Marshall,89,FL Atlantic,74
+Massachusetts,70,St Joseph's PA,63
+Miami FL,62,Syracuse,57
+Mississippi St,79,LSU,52
+Missouri,86,Auburn,83
+NC Central,95,Bethune-Cookman,60
+Norfolk St,93,S Carolina St,88
+Penn St,76,Nebraska,67
+Rice,86,Southern Miss,75
+Rutgers,66,Ohio St,57
+Sam Houston St,77,Cent Arkansas,69
+San Diego St,62,UNLV,52
+St John's,74,Georgetown,73
+St Louis,72,Duquesne,71
+TCU,82,Oklahoma,63
+Texas,61,Texas Tech,52
+Troy,84,Appalachian St,64
+UAB,74,Charlotte,73
+ULL,78,Ark Little Rock,71
+ULM,73,Arkansas St,70
+USC,78,Washington,73
+UT San Antonio,56,WKU,52
+Utah St,90,San Jose St,64
+Virginia,75,Pittsburgh,63
+Virginia Tech,99,Wake Forest,90
+Xavier,75,DePaul,64
+Akron,79,E Michigan,62
+Alabama,75,Mississippi St,55
+Arizona,92,Colorado,78
+Ball St,66,W Michigan,63
+California,78,Utah,75
+Colorado St,81,Air Force,55
+Connecticut,77,South Florida,66
+Creighton,70,Providence,58
+CS Fullerton,81,CS Northridge,68
+Davidson,82,La Salle,73
+Duke,81,Louisville,77
+E Washington,89,CS Sacramento,70
+East Carolina,80,Temple,69
+Florida St,74,Virginia Tech,68
+Fresno St,65,New Mexico,60
+G Washington,53,St Louis,46
+George Mason,82,Fordham,71
+Georgia,59,Tennessee,57
+Howard,68,Morgan St,65
+Idaho,81,Montana,77
+Indiana,95,Iowa,73
+Iowa St,92,Oklahoma St,83
+Kansas St,70,Baylor,64
+Kent,68,Buffalo,65
+Long Beach St,73,Hawaii,62
+Louisiana Tech,69,UAB,57
+Marshall,64,Old Dominion,63
+MD E Shore,68,Hampton,66
+Michigan,75,Illinois,55
+Michigan St,78,Penn St,51
+Mississippi,86,Missouri,74
+Missouri KC,82,UTRGV,78
+MTSU,86,UT San Antonio,70
+Nevada,83,Utah St,69
+New Mexico St,67,Chicago St,53
+North Carolina,78,Miami FL,53
+North Dakota,95,Portland St,72
+Northwestern,83,Rutgers,61
+Notre Dame,71,Virginia,58
+Ohio,67,Toledo,66
+Oregon,80,Arizona St,57
+Sam Houston St,63,Houston Bap,59
+San Diego St,87,Boise St,68
+Seton Hall,82,Marquette,76
+SF Austin,75,Lamar,59
+St Bonaventure,73,Massachusetts,60
+TCU,85,Kansas,82
+Tulsa,66,Tulane,60
+UC Davis,66,Cal Poly SLO,55
+UC Irvine,76,UC Riverside,67
+UCLA,76,USC,74
+Utah Valley,65,Seattle,53
+UTEP,86,Rice,76
+Vanderbilt,66,Texas A&M,41
+Villanova,108,St John's,67
+Weber St,90,Southern Utah,70
+West Virginia,63,Texas,53
+Xavier,62,Butler,57
+Akron,74,Ball St,70
+Alabama,64,South Carolina,53
+Alcorn St,81,Southern Univ,59
+Arizona,86,UCLA,75
+Arkansas,73,Mississippi,72
+Cincinnati,80,Tulsa,61
+Colorado St,71,San Diego St,63
+Connecticut,74,Houston,65
+Creighton,75,Xavier,72
+CS Bakersfield,81,Utah Valley,80
+Davidson,73,Dayton,67
+Duke,93,North Carolina,83
+Georgia St,86,ULL,76
+Iowa St,84,TCU,63
+Kent,68,Ohio,66
+Kentucky,71,Georgia,60
+Marshall,93,Louisiana Tech,77
+Michigan,74,Purdue,70
+Minnesota,63,Michigan St,58
+MTSU,82,UTEP,56
+NC Central,79,MD E Shore,49
+Nevada,83,Fresno St,72
+New Mexico St,78,Missouri KC,60
+New Orleans,75,Sam Houston St,63
+Norfolk St,68,Howard,53
+North Dakota,69,Idaho,64
+Northwestern,72,Maryland,64
+Notre Dame,77,Florida St,73
+Oregon,73,California,65
+Rhode Island,74,St Bonaventure,63
+Richmond,70,G Washington,67
+SMU,81,East Carolina,77
+TAM C. Christi,77,SF Austin,69
+Texas St,63,ULM,51
+Troy,90,Ga Southern,70
+TX Southern,62,Grambling,57
+UC Davis,66,CS Fullerton,64
+UC Irvine,62,Long Beach St,57
+UCF,84,Memphis,54
+UT Arlington,74,Coastal Car,51
+VA Commonwealth,71,George Mason,60
+Vanderbilt,72,Florida,62
+Villanova,55,Seton Hall,53
+Weber St,80,E Washington,72
+West Virginia,51,Kansas St,50
+Wisconsin,70,Indiana,60
+Arizona,83,Oregon,80
+Arkansas,76,Vanderbilt,62
+Cincinnati,81,Connecticut,71
+Duke,75,Notre Dame,69
+Iowa St,80,West Virginia,74
+Kent,70,Akron,65
+Kentucky,79,Alabama,74
+Michigan,84,Minnesota,77
+MTSU,83,Marshall,72
+NC Central,67,Norfolk St,59
+Nevada,79,Colorado St,71
+New Mexico St,70,CS Bakersfield,60
+New Orleans,68,TAM C. Christi,65
+North Dakota,93,Weber St,89
+Princeton,72,Penn,64
+Rhode Island,84,Davidson,60
+SMU,70,UCF,59
+Texas St,83,UT Arlington,62
+Troy,74,Georgia St,63
+TX Southern,53,Alcorn St,50
+UC Davis,50,UC Irvine,47
+VA Commonwealth,87,Richmond,77
+Vermont,56,Albany NY,53
+Villanova,74,Creighton,60
+Wisconsin,76,Northwestern,48
+Yale,73,Harvard,71
+Kentucky,82,Arkansas,65
+Michigan,71,Wisconsin,56
+Princeton,71,Yale,59
+Rhode Island,70,VA Commonwealth,63
+SMU,71,Cincinnati,56
+Troy,59,Texas St,53

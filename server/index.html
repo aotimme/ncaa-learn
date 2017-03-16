@@ -24,6 +24,15 @@
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+    <style>
+      .tt-dropdown-menu {
+        background-color: black;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+      }
+    </style>
   </head>
 
   <body style="background-color: #333; color: #fff;">
@@ -36,7 +45,7 @@
     </nav>
 
     <div class="container-fluid">
-      <form role="form" id="predict-form">
+      <form class="form-inline" role="form" id="predict-form">
         <div class="form-group">
           <label for="home-team">Home Team</label>
           <input type="text" class="form-control typeahead team-input" id="home-team" placeholder="Home Team">
